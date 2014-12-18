@@ -1,36 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <xwikidoc>
-  <web>CurrikiCode</web>
-  <name>SankoreSkin</name>
-  <language/>
-  <defaultLanguage/>
-  <translation>0</translation>
-  <parent>XWiki.XWikiSkins</parent>
-  <creator>xwiki:XWiki.Admin</creator>
-  <author>xwiki:XWiki.Admin</author>
-  <customClass/>
-  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
-  <creationDate>1357927496000</creationDate>
-  <date>1418119874000</date>
-  <contentUpdateDate>1418119874000</contentUpdateDate>
-  <version>1.1</version>
-  <title>SankoreSkin</title>
-  <template/>
-  <defaultTemplate/>
-  <validationScript/>
-  <comment/>
-  <minorEdit>false</minorEdit>
-  <syntaxId>xwiki/2.0</syntaxId>
-  <hidden>false</hidden>
-  <attachment>
-    <filename>commentbg.jpg</filename>
-    <filesize>6623</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+<web>CurrikiCode</web>
+<name>SankoreSkin</name>
+<language></language>
+<defaultLanguage>fr</defaultLanguage>
+<translation>0</translation>
+<parent>XWiki.XWikiSkins</parent>
+<creator>XWiki.Admin</creator>
+<author>XWiki.Admin</author>
+<customClass></customClass>
+<contentAuthor>XWiki.Admin</contentAuthor>
+<creationDate>1357927496000</creationDate>
+<date>1418736632000</date>
+<contentUpdateDate>1418736632000</contentUpdateDate>
+<version>2.1</version>
+<title>SankoreSkin</title>
+<template></template>
+<defaultTemplate></defaultTemplate>
+<validationScript></validationScript>
+<comment>Retour à la version 1.1</comment>
+<minorEdit>false</minorEdit>
+<syntaxId>xwiki/2.0</syntaxId>
+<hidden>false</hidden><attachment>
+<filename>commentbg.jpg</filename>
+<filesize>6623</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -147,16 +144,13 @@ sdMBc2OmAubHTAXNjpgLmx0wFzY6YC5sdMBc2OmAubHTAXNjpgLmx0wFzY6YC5sdMBc2OmAubHTA
 XNjpgLmx0wFzY6YC5sdMBc2OmAubHTAXNjpgLmx0wFzY6YC5sdMBc2OmAubHTAXNjpgLmx0wFzY6
 YC5sdMBc2OmAubHTAXNjpgLmx0wFzY6YC5sdMBc2OmAubHTAXNjpgLmx0wM2p/w9z+Xj4w+IEhq/
 R+H4ej+PQBkA/9k=
-</content>
-  </attachment>
-  <attachment>
-    <filename>playerrightend.png</filename>
-    <filesize>2002</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.2</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>playerrightend.png</filename>
+<filesize>2002</filesize>
+<author>XWiki.Admin</author>
+<date>1417613444000</date>
+<version>1.2</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -192,16 +186,13 @@ Xd3dhBOa51Itn5vbesc3NaWVlpW9Wnfs2BTxMf0ETKqqquhaTw+D8FnElLS9Pk6kn27e7P3u+vX3
 4wrbz/Lz8+mjs2ep+pHKvoe/B19L6XMLVvbz4GD38NDQK7cx7+YxibeaHR2PQ5PerKmhmqNHeej+
 gdsfx4BS/67bYm74OysrK0cwWJ/jnmHpZmVl8Rp/y/0SS/4t93+yBP8KMAD1MWPI2J2GDwAAAABJ
 RU5ErkJggg==
-</content>
-  </attachment>
-  <attachment>
-    <filename>buttonbg.jpg</filename>
-    <filesize>1391</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+</content></attachment><attachment>
+<filename>buttonbg.jpg</filename>
+<filesize>1391</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -226,16 +217,13 @@ AgYHCQEAAgMBAAAAAAAAAAAAAAAABAUCAwgKEAAAAgYJBQAAAAAAAAAAAAAAARGR0QLSFTFBUWGh
 UpIDI5QFFlYHEQABAgMFCQAAAAAAAAAAAAAAYRIBApLwQVHhAxMjUwQFFVUGFv/aAAwDAQACEQMR
 AD8Axx8A+fen9i6DaYMDd16px9SrI6NvkfVPH8tTAGbnaeooQIxRttJVJvNbzW7CJtmUBesSazE8
 xqeYCmzYC50BW5U1pxbQLLXge8U//9k=
-</content>
-  </attachment>
-  <attachment>
-    <filename>buttonconfirmbg.jpg</filename>
-    <filesize>1414</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+</content></attachment><attachment>
+<filename>buttonconfirmbg.jpg</filename>
+<filesize>1414</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -260,16 +248,13 @@ BwQFAQABBQAAAAAAAAAAAAAAAAACBAUGBwoQAAACBQ0BAAAAAAAAAAAAAAAB0VIVBwiRAmKS0gOU
 BRZWF1eY2BEAAQEDCQkAAAAAAAAAAAAAAAFRFBURsQMEVAVVlQZhkaHRApLV1gf/2gAMAwEAAhED
 EQA/ANPj9320Miwl2kZ6o9qG203cpokg922aj3ITtQlzrFaChzVkw6SK2bkF7XpnKSRKXNGcAgza
 k5YhKXJGIBL17Br0rB73vE15Ndf9oizXH5xil85XVfMFdxT65gem88rvrx//2Q==
-</content>
-  </attachment>
-  <attachment>
-    <filename>account.png</filename>
-    <filesize>4900</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.5</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAACsAAAAyCAYAAADFhCKTAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>account.png</filename>
+<filesize>4900</filesize>
+<author>XWiki.Admin</author>
+<date>1417613445000</date>
+<version>1.5</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAACsAAAAyCAYAAADFhCKTAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -355,16 +340,13 @@ fHzE2qbkhioKx6rjv/V8Ej73g1rtRUwUFBKJ3dO+/8AhyZseLhSPj1hyTE+1LUUxrv+419OvTh+c
 b67lFuVztGcK8YkwMTPEIfqhklvifU6Uxm5f8WtrcjfB17o94U6A71kfs7wv4JUGyOwEqpvuOtAH
 SMr3z501lVQBxWJM8LYEqwHgawDfRQUW437+Mo+fhZwPk03+Nve/cTAm3tJh443n+DgZP7DyH4wc
 IFu0mQP9vzxEnnxBjoXBtvQq3MINkv7/HGaOjY0a/7cAAwDCiqxhITlLvgAAAABJRU5ErkJggg==
-</content>
-  </attachment>
-  <attachment>
-    <filename>profiletabsbghover.png</filename>
-    <filesize>1325</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAPgAAAAyCAYAAABxohbZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>profiletabsbghover.png</filename>
+<filesize>1325</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAPgAAAAyCAYAAABxohbZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -388,16 +370,13 @@ PvF5xRdiJ1lKTi2vMzjPr5msJu+S4yc85zJZTt4otwlO5zlIfibryYtHfvZXMp/sWkYFp3MdJRPJ
 RjL6wHP5t2Sq5jLNFp1SKM7j48lWcnXPebso9Zhym+CUy0Uyk3xPFpKBP96/SfaTueTccpnglNPH
 5H1ycue162QlmVZuE5zy20t+JJvJcPIh2W5v0alywS1B1ygu314mQ7XfP6Updxe4FWAAOaKmij2g
 SPcAAAAASUVORK5CYII=
-</content>
-  </attachment>
-  <attachment>
-    <filename>spritestars.gif</filename>
-    <filesize>6421</filesize>
-    <author>XWiki.mstaicu</author>
-    <date>1357927496000</date>
-    <version>1.2</version>
-    <comment/>
-    <content>R0lGODlhVQAgAffbANjY2Nzc3OZHAOZLANra2uZCANfX18/Pz9XV1dLS0uY5AM/LydTU1ODY1OY7
+</content></attachment><attachment>
+<filename>spritestars.gif</filename>
+<filesize>6421</filesize>
+<author>XWiki.mstaicu</author>
+<date>1417613446000</date>
+<version>1.2</version>
+<comment></comment><content>R0lGODlhVQAgAffbANjY2Nzc3OZHAOZLANra2uZCANfX18/Pz9XV1dLS0uY5AM/LydTU1ODY1OY7
 AOY0ANDQ0OYuAOYoAMDAwOZBAN/f39PT0+YzAOHZ1eZYEd7W0sLBwdrT0MHAv9fRzsbEw83NzdbW
 1uV0deYAAM3MzMvLy7m4uOYuFOHh4a6uruTEwNrTz9aEjeYiANnSzuVxaOTIwMPBwOPa1uWbieYG
 AOYQAeWYjsrHxtXQza+sq7Curb+/v+AWAL69vdDMyuTY1M7OzuZdLeYmHMXFxeUmAOLa1uMeAOPb
@@ -510,16 +489,13 @@ hazTiHzIw7vIO20tkcy8/orJC6rJRO28SV3J0lLKquzUpIzKoxzK32vK4ivVoBwttvw2tEy/W72j
 XX3LXz2yuOwsvUzAv9y/wazWw8zWZ004BfwszwwA0TzXdT3NdO3MeH3XRdvMm8ws3UzC2xzY4UzY
 gz3Ogv3NHEwt6CzP7RzPNAzPLhzZLOzOji3ZN0wtSCzQn+rPnK3PRSzEnR3Qog3a+EwtWizRturQ
 qq3QV0zFqx3RsO3aCF0tFr0NGB3GGp3RHL3RHt3RFz0tAQEAOw==
-</content>
-  </attachment>
-  <attachment>
-    <filename>spritestars.png</filename>
-    <filesize>4006</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAFUAAAEgCAYAAADFbT+cAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>spritestars.png</filename>
+<filesize>4006</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAFUAAAEgCAYAAADFbT+cAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -590,16 +566,13 @@ U/gZjAgkTOFnMCJwMIWfwYhAwhR+BiMCC1P4GYwINEzhZzAisDCFn8GIQMMUfgYjAgtT+BmMCCxM
 FKaBET2FKUwDI3oOU7z79lvSJDDCDzBFn4IPcpu2VAtkyWSyYeW98IG6yibl6H78vUtpGhjhC5jC
 NDCi1zDFTqOzFz5QobaFENUGvgIfxKPRmmTTcrSbahoY4QuYwjQwwjcwhWlgRK9giv8LMACdtP+4
 p9LDtAAAAABJRU5ErkJggg==
-</content>
-  </attachment>
-  <attachment>
-    <filename>rejoignez.jpg</filename>
-    <filesize>35865</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+</content></attachment><attachment>
+<filename>rejoignez.jpg</filename>
+<filesize>35865</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -1228,16 +1201,13 @@ PlPdPhmo/DTeph80bU8T0/4mH18PZa4+61i9RSnovD5T3T4ZqPw03qYfNG1PE9P+Jh9fFPZa4+61
 j9QynouvD5T3T2f0zUfhpvUw+aNq9v8AU9P+Jh9fG02Btr2UrTFZBytM1Ser9Jx9iTMcwzdy0W8j
 l7ZYH+KLpXoSGrrRyiR3JgR3M95WXSTMgUrbsRP2qpC8bE8M8Mb6m0nce+dT0+7tNEs9rausPexM
 j3U8+n3ESJAjAO6gOWLqCpYBASxIGvHMnMexodX27sbTNQtbvWbvdGktN3UqOlrDBqFvK7zOpKIS
-UChGYNlJcgKAT//Z</content>
-  </attachment>
-  <attachment>
-    <filename>arrows.gif</filename>
-    <filesize>1396</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.2</version>
-    <comment/>
-    <content>R0lGODlhQAASANUjAMItHOKclEpKSqqqqsY6KsIvHuy8t89ZTEtLS+3Au/PW0vrv7dp/dfnq6fLR
+UChGYNlJcgKAT//Z</content></attachment><attachment>
+<filename>arrows.gif</filename>
+<filesize>1396</filesize>
+<author>XWiki.Admin</author>
+<date>1417613444000</date>
+<version>1.2</version>
+<comment></comment><content>R0lGODlhQAASANUjAMItHOKclEpKSqqqqsY6KsIvHuy8t89ZTEtLS+3Au/PW0vrv7dp/dfnq6fLR
 zVVVVfjo5v/9/eWlnsIuHdl+c/78++vr65GRkZCQkP7+/tfX1/z8/MnJydzc3LKysvHx8cbGxnBw
 cO3t7f///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0
@@ -1262,16 +1232,13 @@ Ojk4NzY1NDMyMTAvLi0sKyopKCcmJSQjIiEgHx4dHBsaGRgXFhUUExIREA8ODQwLCgkIBwYFBAMC
 AQAAIfkEAQAAIwAsAAAAAEAAEgAABnXAkXBILBqPyKRyyWw6n9CodEqtWq/YrHbLtGSekEgzzBUO
 Qhpn4OBgrtvcgQCBEbkBE0pDGcDrt3ICAg8gS30AAAQGSYeJi1mBDx4bhogEEhWMlphaAwgXH00B
 BQwLhqSmWxwdTwkKTa5lsrO0tba3uLm6SUEAOw==
-</content>
-  </attachment>
-  <attachment>
-    <filename>inscription.png</filename>
-    <filesize>13105</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAN4AAACLCAYAAAAOJCfzAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>inscription.png</filename>
+<filesize>13105</filesize>
+<author>XWiki.Admin</author>
+<date>1417613445000</date>
+<version>1.3</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAN4AAACLCAYAAAAOJCfzAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAA7VpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -1501,16 +1468,13 @@ rp21CmDmRQjyJNPV8OAmiSfNXcNrveLEeizwqCn+VmR+w9Aa16Kd9zKC8FZwrb4DgrufyOITtcAl
 BoPQwFCd7Kk8dDhpB14EecF1zn7IvCvAaljAwggTAw/VweXvAYPfs3gpDngD/uF6Lq/H+xJXh9z0
 c6Blz1aoH+gBwVsJ1rTloB98MfseNFODoa4T4K7N7wY9wgK0JySPY8Az9jwNupafLfnMk3tBMLIw
 iWjNR0D/291JAE9gtYa6zqXROhW/NgeCw206/leAAQCTQHK8iNqNNgAAAABJRU5ErkJggg==
-</content>
-  </attachment>
-  <attachment>
-    <filename>toolbaricons.png</filename>
-    <filesize>2813</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAADIAAAFeCAYAAADHfkwkAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>toolbaricons.png</filename>
+<filesize>2813</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAADIAAAFeCAYAAADHfkwkAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -1560,16 +1524,13 @@ W+U5dr5yy6KtNBXkeuVW3fPTpEZcq6kgcxWeP2sqyGcVnCtBP2IqyI8VwLylFq/yWtd55Hkf55yG
 XjD9FmWvj2FVKiP/YMO91oPQTIn3/oCetOWm8Vvo8SLH83rCHLfp7rdPLawF+qxyqxpbdRsvV1+S
 yr7Rrw9AO239PSKFsW+FpArw3UEOt2Hd/Xqb/ODYyl+IPhsz6AhCEIIQhCAEIQhBCEIQ69q/AgwA
 zYYWAiy8ZjUAAAAASUVORK5CYII=
-</content>
-  </attachment>
-  <attachment>
-    <filename>logininline.vm</filename>
-    <filesize>4321</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.9</version>
-    <comment/>
-    <content>PCEtLSBMT0dJTiBCT1ggLS0+CjwhLS0gbWVtYmVyIGFyZWEgLS0+CjxkaXYgaWQ9ImhlYWRlci1t
+</content></attachment><attachment>
+<filename>logininline.vm</filename>
+<filesize>4321</filesize>
+<author>XWiki.Admin</author>
+<date>1417613444000</date>
+<version>1.9</version>
+<comment></comment><content>PCEtLSBMT0dJTiBCT1ggLS0+CjwhLS0gbWVtYmVyIGFyZWEgLS0+CjxkaXYgaWQ9ImhlYWRlci1t
 ZW1iZXIiPgojaWYoJGlzR3Vlc3QpCiAgI2lmKCRyZXF1ZXN0LnhyZWRpcmVjdCkKICAgICNzZXQo
 JGxvZ3JlZGlyID0gJHJlcXVlc3QueHJlZGlyZWN0KQogICNlbHNlaWYoJGRvYy5zcGFjZSA9PSAi
 UmVnaXN0cmF0aW9uIikKICAgICNzZXQoJGxvZ3JlZGlyID0gJHh3aWtpLmdldFVSTCgiTXlTYW5r
@@ -1645,16 +1606,13 @@ dXQiLCAieHJlZGlyZWN0PSRsb2dyZWRpciIpKQogICAgICA8YSBjbGFzcz0iYnV0dG9uIGJ1dHRv
 bi1jb25maXJtIiBocmVmPSIkbG9nb3V0VXJsIiBjbGFzcz0ibG9nb3V0Ij4kbXNnLmdldCgibG9n
 b3V0Iik8L2E+CiAgICA8L2xpPiAKICA8L3VsPgogIDxkaXYgY2xhc3M9ImNsZWFyZmxvYXRzIj48
 L2Rpdj4KI2VuZAo8L2Rpdj4KPCEtLSBlbmQgb2YgbWVtYmVyIGFyZWEgLS0+Cg==
-</content>
-  </attachment>
-  <attachment>
-    <filename>miniseparator.jpg</filename>
-    <filesize>1273</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+</content></attachment><attachment>
+<filename>miniseparator.jpg</filename>
+<filesize>1273</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -1677,16 +1635,13 @@ AwMDAwMDAwMDAQEBAQEBAQIBAQICAgECAgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
 AwMDAwMDAwMDAwMDAwMDAwP/wAARCAACAAEDAREAAhEBAxEB/8QASwABAAAAAAAAAAAAAAAAAAAA
 CgEBAAAAAAAAAAAAAAAAAAAAABABAQAAAAAAAAAAAAAAAAAAAJgRAQAAAAAAAAAAAAAAAAAAAAD/
 2gAMAwEAAhEDEQA/AGQROD//2Q==
-</content>
-  </attachment>
-  <attachment>
-    <filename>mycurrikimacros.vm</filename>
-    <filesize>62455</filesize>
-    <author>XWiki.mstaicu</author>
-    <date>1357927496000</date>
-    <version>1.7</version>
-    <comment/>
-    <content>IyMgdmltOiB0cz00OnN3PTQKIyoqCiAgKgogICogTXkgQ3VycmlraSBNYWNyb3MKICAqCiAgKiBU
+</content></attachment><attachment>
+<filename>mycurrikimacros.vm</filename>
+<filesize>62455</filesize>
+<author>XWiki.mstaicu</author>
+<date>1417613446000</date>
+<version>1.7</version>
+<comment></comment><content>IyMgdmltOiB0cz00OnN3PTQKIyoqCiAgKgogICogTXkgQ3VycmlraSBNYWNyb3MKICAqCiAgKiBU
 aGUgbXkgY3VycmlraSBtb2R1bGUgaXMgdGhlIHBlcnNvbmFsIHBhZ2VzIG9mIGVhY2ggdXNlcgog
 ICoKICAqIFRoZSBmb2xsb3dpbmcgc2VjdGlvbnMgYXJlIGF2YWlsYWJsZSBpbiBNeVNhbmtvcmU6
 CiAgKgogICogLSBQcm9maWxlCiAgKiAtIEZhdm9yaXRlcwogICogLSBDb250cmlidXRpb25zCiAg
@@ -2782,16 +2737,13 @@ Zy5nZXQoIm15Y3VycmlraS5jb2xsZWN0aW9ucy5hZGRCdXR0b24iKSIgdGl0bGU9IiRtc2cuZ2V0
 KCJteWN1cnJpa2kuY29sbGVjdGlvbnMuYWRkQnV0dG9uX3Rvb2x0aXAiKSI+JG1zZy5nZXQoIm15
 Y3VycmlraS5jb2xsZWN0aW9ucy5hZGRCdXR0b24iKTwvYT4Key9wcmV9CiNlbmQKI2VuZCAjIyBi
 dXR0b25tYWNybwoKIyMgRW5kIG9mIE15U2Fua29yZSBNYWNyb3MgCg==
-</content>
-  </attachment>
-  <attachment>
-    <filename>separator.png</filename>
-    <filesize>943</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.6</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAAEAAADnCAYAAADfCDwWAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>separator.png</filename>
+<filesize>943</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.6</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAAEAAADnCAYAAADfCDwWAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -2808,16 +2760,13 @@ MEFGOTFDOUY5RUU3NCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2OEIyRTI1QUM3RkUxMUUx
 ODU1MEFGOTFDOUY5RUU3NCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1w
 bWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqeKs5kAAAAjSURBVHjaYpg3b95/JgYGBkYQwYBKjEqM
 SoxKjErQVgIgwAAvEjKmd3sOtwAAAABJRU5ErkJggg==
-</content>
-  </attachment>
-  <attachment>
-    <filename>separatpr.png</filename>
-    <filesize>981</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.5</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAAIAAAAjCAIAAAAxJEzgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>separatpr.png</filename>
+<filesize>981</filesize>
+<author>XWiki.Admin</author>
+<date>1417613445000</date>
+<version>1.5</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAAIAAAAjCAIAAAAxJEzgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -2834,16 +2783,13 @@ Q0JCNzYzQTBBRTA5NCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpBQTk3QzhFMENDREMxMUUx
 OUVEQ0JCNzYzQTBBRTA5NCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1w
 bWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgBJ4lMAAABJSURBVHjaYn5srsz26QMTAxgw/f8PphgY
 /hPJ+w/hMaDxIEogZsJ4KEr+//uPzPuPVRDqpH/ISrCa8v8/piDUnf9gpiAJAgQYANX1RyMiaD6a
-AAAAAElFTkSuQmCC</content>
-  </attachment>
-  <attachment>
-    <filename>monactivitebg.jpg</filename>
-    <filesize>7768</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+AAAAAElFTkSuQmCC</content></attachment><attachment>
+<filename>monactivitebg.jpg</filename>
+<filesize>7768</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjAtYzA2MSA2NC4xNDA5NDksIDIwMTAvMTIvMDctMTA6
@@ -2980,16 +2926,13 @@ wgAbthAA3bCABu2EADdsIAG7YQAN2wgAbthAA3bCABu2EADdsIAG7YQAN2wgAbthAA3bCABu2EAD
 dsIAG7YQAN2wgAbthAA3bCABu2EADdsIAG7YQAN2wgAbthAA3bCABu2EADdsIAG7YQAN2wgAbthA
 A3bCABu2EADdsIAG7YQAN2wgAbthAA3bCABu2EADdsIAG7YQAN2wgAbthAB99n/Y9NFuP6mQ/T98
 H0gZX8uj/wAf4/8AkD//2Q==
-</content>
-  </attachment>
-  <attachment>
-    <filename>selectbg.jpg</filename>
-    <filesize>1365</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+</content></attachment><attachment>
+<filename>selectbg.jpg</filename>
+<filesize>1365</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -3012,16 +2955,13 @@ AwMDAwMDAwMDAQEBAQEBAQIBAQICAgECAgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
 AwMDAwMDAwMDAwMDAwMDAwP/wAARCAAkAAEDAREAAhEBAxEB/8QAcAAAAwEAAAAAAAAAAAAAAAAA
 BQcICQEBAAMAAAAAAAAAAAAAAAAAAwABBBAAAAMECwAAAAAAAAAAAAAAAAECodFTFvARkdIDJJUG
 BxdXEQABAQUJAAAAAAAAAAAAAAAAAgERUZETIWGh0VIDUwQU/9oADAMBAAIRAxEAPwDLHqDhfzja
-Ol4F0FQ2dLJGr29vkXMCTIURoa0J64E7TOmKVhOA1FXFvJ6mJURTHAxnogzDMV+dpUIKf//Z</content>
-  </attachment>
-  <attachment>
-    <filename>arrow-down-black.gif</filename>
-    <filesize>1171</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>R0lGODlhDgAOALMIAEJCQri4uE5OTmZmZvPz89vb23FxcdDQ0P///wAAAAAAAAAAAAAAAAAAAAAA
+Ol4F0FQ2dLJGr29vkXMCTIURoa0J64E7TOmKVhOA1FXFvJ6mJURTHAxnogzDMV+dpUIKf//Z</content></attachment><attachment>
+<filename>arrow-down-black.gif</filename>
+<filesize>1171</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>R0lGODlhDgAOALMIAEJCQri4uE5OTmZmZvPz89vb23FxcdDQ0P///wAAAAAAAAAAAAAAAAAAAAAA
 AAAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpy
 ZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0
 az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3
@@ -3042,16 +2982,13 @@ jo2Mi4qJiIeGhYSDgoGAf359fHt6eXh3dnV0c3JxcG9ubWxramloZ2ZlZGNiYWBfXl1cW1pZWFdW
 VVRTUlFQT05NTEtKSUhHRkVEQ0JBQD8+PTw7Ojk4NzY1NDMyMTAvLi0sKyopKCcmJSQjIiEgHx4d
 HBsaGRgXFhUUExIREA8ODQwLCgkIBwYFBAMCAQAAIfkEAQAACAAsAAAAAA4ADgAABCQQyUmrvdga
 UXAAx8dZ30AgYjeVp5S6gFml7CXGrY1nfO//lggAOw==
-</content>
-  </attachment>
-  <attachment>
-    <filename>search.png</filename>
-    <filesize>14283</filesize>
-    <author>XWiki.jcoury</author>
-    <date>1357927496000</date>
-    <version>1.6</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAGsAAACACAYAAAAMPJdNAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>search.png</filename>
+<filesize>14283</filesize>
+<author>XWiki.jcoury</author>
+<date>1417613445000</date>
+<version>1.6</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAGsAAACACAYAAAAMPJdNAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -3301,16 +3238,13 @@ jL1yMelm95iozHawHnPA9EYjtbxWnfBfA+yJAcsMWAc/bxuVVu/3NAL25L0/a+++D3Gbu7acqzUY
 Lg6m4qDq/DdeL2rXrEcgq+bPbbOGVao1olulqs1E01RYO1iPM2Dnrt14vx2sRwyY5dZ3LQkOdno6
 O+F6Had2sB6hXDt3ZmTzST7NZWzvHtnkYGdpO1iPUG6cOGJ1VpZZyHmICBKu9a1tB+sRCzK95oCh
 6Xtn0rM3SaBw7uPxJ/HZnnjq3tKEmfc/W27Ht5EvEwoFwpjQoArz9rHEQ37L0P8UrP/4+7OQoieQ
-f+MUguwn+WH+T4ABAOLEeVU0VlK4AAAAAElFTkSuQmCC</content>
-  </attachment>
-  <attachment>
-    <filename>arrow-left-white.png</filename>
-    <filesize>1523</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAAwAAAAXCAYAAAA/ZK6/AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+f+MUguwn+WH+T4ABAOLEeVU0VlK4AAAAAElFTkSuQmCC</content></attachment><attachment>
+<filename>arrow-left-white.png</filename>
+<filesize>1523</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAAwAAAAXCAYAAAA/ZK6/AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAA7VpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYxIDY0LjE0
@@ -3337,16 +3271,13 @@ M1hLOBQGNazCIOs8h9fK6yU6zWYTeF0DAawq5E71jE91SlGUn4J932HXHNLp9Eqr1bpzHAdq1drA
 LIqbJbKT2JkuPBWqOIdqrcr8zANQWO1QYjcx5739t/e3QIB6WbiGU6nUkgfV6/U+gLrzwG8Y58Y1
 cnJ6su5BH58fvgBKdjOZXKPZq+wBArZts0aj8QcQuyS7maIu1HmMdtFmzpfT90976obGOHSEUPGl
 yIgLtLiYK2+gYtcVNQ7c48a3AAMAs48NQlZyTQQAAAAASUVORK5CYII=
-</content>
-  </attachment>
-  <attachment>
-    <filename>inscriptionp1.png</filename>
-    <filesize>7674</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAN4AAABLCAYAAAAfzDlHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>inscriptionp1.png</filename>
+<filesize>7674</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAN4AAABLCAYAAAAfzDlHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -3480,16 +3411,13 @@ Zw1tklWugI4p0vg8aQO59c5252mop96A6nJAX13zKZgnPp6s/wd6dT0cf6GstRjVqVi3rFGHULwi
 E3hla+5G1wvfR/CaDdENFSiG7XLT1TGTrdpC6voq6nIfdb48qEu4e5c7B4PwgaEm21M56HCKHNoC
 fcHN7t5k3jo40xeIMMLEwCN18OoPwpK3FttGAa+nd6SeKxgIbpPqkKu+DE2NO1He0wElWASn6mqY
 h7dMvgfNjqD//Gn4S3O7QY+ygOwJLeAa8KzGF2BGcrMln31mPxRrEk4iWv0JmL/7QhLAU0StoWlK
-abTOxa8NA4MjbTr+X4ABAMqI2mwqsMe0AAAAAElFTkSuQmCC</content>
-  </attachment>
-  <attachment>
-    <filename>inscriptionp2.png</filename>
-    <filesize>6365</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAN4AAABACAYAAAB1C8mEAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+abTOxa8NA4MjbTr+X4ABAMqI2mwqsMe0AAAAAElFTkSuQmCC</content></attachment><attachment>
+<filename>inscriptionp2.png</filename>
+<filesize>6365</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAN4AAABACAYAAAB1C8mEAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -3601,16 +3529,13 @@ swZNmG7GOxsRGY8KP7BsiZaFLVT83EDrsXr4cmz5+CYotztp8d7vBOh4Mlig8YfwjrZNCzpxsLJ1
 /D2Jcrqgm79w8YWyYqNYbzmWvyJd4xTw2No5MgF67LHPnZ0cnL2tTgVMuCJfDZYhERkR5WCFviMr
 355YD66EsnYHUGbPc+H84YQcI3cvJBPuPAo+Sr7tRPBxwl+kQgjIcc0Qw3d50JIr86Cc44PQDvxI
 3JmIb5KSQ2HK8pm5vOH/BRgAUluwtTP5rrIAAAAASUVORK5CYII=
-</content>
-  </attachment>
-  <attachment>
-    <filename>rsswhite.png</filename>
-    <filesize>1727</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.7</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>rsswhite.png</filename>
+<filesize>1727</filesize>
+<author>XWiki.Admin</author>
+<date>1417613445000</date>
+<version>1.7</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -3641,16 +3566,13 @@ oueBbce5GRznKKHQ52xaOZ5i+ejwTcfhy6oyOK5WkjqoPyoybCRmPm9O3ANqHE5XUoPN3XVn+JTS
 VqCLK3ReCK6AQ2ARcyRfkDvANZ7JofXx3M5nSGMsJl8tzlMa8CffImVx6rRposs91O1Kh8hIMf5k
 +KRaZ4PFxpwu8IjjMn8pWBJ2iTg+jYv9RmFEuJMoV52yrN7nDnTOkyqn5i4HOC7vvftLgAEAyTMz
 oEoFkhYAAAAASUVORK5CYII=
-</content>
-  </attachment>
-  <attachment>
-    <filename>toolbarbgmain.png</filename>
-    <filesize>1107</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAakAAAAmCAYAAAB+vWTiAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>toolbarbgmain.png</filename>
+<filesize>1107</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAakAAAAmCAYAAAB+vWTiAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -3669,16 +3591,13 @@ bWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pv/mHhUAAADHSURBVHja7N2xDYAwDEVBHLEry7tIkzpQ
 sADdl7iTsoCbJwMitfc+ACBRvQcA4pzPGcYAQGSk1lqXMQCQqOacXkoBkLlJdbcpAJAZqYcpACBS
 APApUmP4uA8AmxQA2KQAsEkBgE0KAJECAJECAJECQKQAQKQA+Fekqtx5CECm2u6PByCUZ30AiBQA
 iBQAIgUAIgWASAGASAGASAEgUgAgUgD8zemvSADYpADAJgWATQoAbFIAiBQApEWqu00BgEhu5gUg
-1i3AACOGJF5XtmLZAAAAAElFTkSuQmCC</content>
-  </attachment>
-  <attachment>
-    <filename>playerleft.png</filename>
-    <filesize>2169</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.2</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+1i3AACOGJF5XtmLZAAAAAElFTkSuQmCC</content></attachment><attachment>
+<filename>playerleft.png</filename>
+<filesize>2169</filesize>
+<author>XWiki.Admin</author>
+<date>1417613444000</date>
+<version>1.2</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -3716,16 +3635,13 @@ s4XPBPt+egQ1jOjMdNX9D+enlFd1yWyus/a9A2WtZMPi7zjVChq9vh2XZcHmu/0pp0g3oFLB7x0d
 tLql7YjGnpXqnZrc7BkeUlqYBneEU1YdvT0TCj85AkX73gJBozmNpqdQZyM+TlRYVCOO9wS/F05e
 G9jW811LrbPt2003frwIvlFnyNtBHRcPq4uKwf5YKeSU7ABeEPrR/CbqmaieW+w5xd4LJgS0zvmg
 qW/wATRX+NzT232Tk8kU75vWbAFjwmrm7kL9KRi8mT35wjXIPwIMANu/PXBMdB10AAAAAElFTkSu
-QmCC</content>
-  </attachment>
-  <attachment>
-    <filename>twitter.png</filename>
-    <filesize>1367</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.6</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAACAAAAAVCAYAAAAnzezqAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+QmCC</content></attachment><attachment>
+<filename>twitter.png</filename>
+<filesize>1367</filesize>
+<author>XWiki.Admin</author>
+<date>1417613445000</date>
+<version>1.6</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAACAAAAAVCAYAAAAnzezqAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -3749,16 +3665,13 @@ ZnocGBmUH49hgw2vhWH6AE/KgkGsD6l8k5So906bAUP3BcGUxrprMEvfFWCDU7DxZ6XB7VOaISjT
 bW1Jsob9tGLeeI6pEXnpCcQUlXOmeowa1GpzIE4TaXpsSpobiwlWVvSMmOoAfKI2guyu02sn07rK
 w+Jg10dTEVUgjzmVdwux84fEEN7I0cvZV5veANccc5ZhEyyCNfBsWKIpcAk+wT6YBDee//I4YZbe
 bx31qGIiJs1t7DcO3oqCDFgGMzSOg3fy1B29F01Dr1k/AgwAFIxztOwl6eQAAAAASUVORK5CYII=
-</content>
-  </attachment>
-  <attachment>
-    <filename>rss.png</filename>
-    <filesize>2709</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.5</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>rss.png</filename>
+<filesize>2709</filesize>
+<author>XWiki.Admin</author>
+<date>1417613445000</date>
+<version>1.5</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -3805,16 +3718,13 @@ ZBSvp4tQU54djdPjhcw7Mirje1kHey8hhLd4mw2JUir1oNR7bTFML7tOHod9zy9e7b+p4jYLGhvC
 GLmowkWg1JWhAokA8qbN0K8cPbInGQqyG6Muc3CXzJHR9vf8GbPVy4cPbE10BoICgRFenswxPRs5
 Bub9dr6arPOS9VhTS3in03RDx1uhkkhiierUIYpUlCSO8BaPWQcYw3swJksvvLhOc8oyb67D79Fw
 mOkxj03keSpnZWlIFs7Cyvtg+uadF4lVsKz5su6v2qRhQUysNqUO8N/EnXFuJjnZLc36zuqYt57T
-Vnmx2+avfwowAB/3/p8MTZfVAAAAAElFTkSuQmCC</content>
-  </attachment>
-  <attachment>
-    <filename>logo.png</filename>
-    <filesize>16608</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.5</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAP8AAABZCAYAAADxTfI5AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+Vnmx2+avfwowAB/3/p8MTZfVAAAAAElFTkSuQmCC</content></attachment><attachment>
+<filename>logo.png</filename>
+<filesize>16608</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.5</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAP8AAABZCAYAAADxTfI5AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -4105,16 +4015,13 @@ lIx1nfjOBZKI77oeKrlOq/piiL7VEr/lCWySeU2nLzzPjxJ8UaL0CmWMa+cKicEPnyQTv63jy5k/
 CwVBAm+FhP/1/0B+U0EAzdiTbLM8iQ/Ymz5aXghLeDJjFkrTJ0vcolU+kH5TkO/0dAykEL1OxnXB
 AmtyrvE1PJ2C1mmEVgQRvAKZ9+7p/OVJIHOdNMMP5EWarLTJz/2lAetNfuanN1BpgZ+AZbD7d5GP
 ngp/mE59sLCvs+L6Ay0XkaNvzKCuP3QuiPCfkXPChOXqjKBOISj6nb/nixJ4252luvCc9ID+T4AB
-ANHcDWaBdW7XAAAAAElFTkSuQmCC</content>
-  </attachment>
-  <attachment>
-    <filename>arrow-right-black.gif</filename>
-    <filesize>1169</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>R0lGODlhBwAOALMIAEJCQri4uE5OTmZmZvPz89vb23FxcdDQ0P///wAAAAAAAAAAAAAAAAAAAAAA
+ANHcDWaBdW7XAAAAAElFTkSuQmCC</content></attachment><attachment>
+<filename>arrow-right-black.gif</filename>
+<filesize>1169</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>R0lGODlhBwAOALMIAEJCQri4uE5OTmZmZvPz89vb23FxcdDQ0P///wAAAAAAAAAAAAAAAAAAAAAA
 AAAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpy
 ZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0
 az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjEgNjQuMTQwOTQ5LCAyMDEwLzEyLzA3LTEwOjU3OjAx
@@ -4135,16 +4042,13 @@ jo2Mi4qJiIeGhYSDgoGAf359fHt6eXh3dnV0c3JxcG9ubWxramloZ2ZlZGNiYWBfXl1cW1pZWFdW
 VVRTUlFQT05NTEtKSUhHRkVEQ0JBQD8+PTw7Ojk4NzY1NDMyMTAvLi0sKyopKCcmJSQjIiEgHx4d
 HBsaGRgXFhUUExIREA8ODQwLCgkIBwYFBAMCAQAAIfkEAQAACAAsAAAAAAcADgAABCLwEEQpGLOG
 m+nGFfJ1Ihd+YSEAlQoElAsjcrzOyB0aOBUBADs=
-</content>
-  </attachment>
-  <attachment>
-    <filename>profilemaainactions.jpg</filename>
-    <filesize>51835</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.4</version>
-    <comment/>
-    <content>/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+</content></attachment><attachment>
+<filename>profilemaainactions.jpg</filename>
+<filesize>51835</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.4</version>
+<comment></comment><content>/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
 AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
 AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAf/AABEIAIsDwAMBEQACEQED
 EQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAE
@@ -5054,16 +4958,13 @@ Iy3/AIKef9EG/YK/8Nf+0J/9FHQAf8Rlv/BTz/og37BX/hr/ANoT/wCijoAd/wARmH/BT3/og/7B
 X/hr/wBoT/6KKgA/4jMP+Cnw6fAj9gsf90v/AGhP/ooqAFH/AAeY/wDBT8f80I/YL/8ADX/tCf8A
 0UdAD/8AiM0/4KgDp8B/2Cv/AA1/7Qn/ANFHQAf8Rmn/AAVA/wCiEfsFf+Gv/aF/+ijoAP8AiM0/
 4Kgf9EI/YK/8Nf8AtC//AEUdAH//2Q==
-</content>
-  </attachment>
-  <attachment>
-    <filename>placeholderphoto.jpg</filename>
-    <filesize>8258</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QMraHR0cDov
+</content></attachment><attachment>
+<filename>placeholderphoto.jpg</filename>
+<filesize>8258</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QMraHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -5208,16 +5109,13 @@ y7B/BjI/ZsMJNy38o84O6TtX+MuwfwYyP2bDCTct/KPODuk7V/jLsH8GMj9mwwk3Lfyjzg7pO1f4
 y7B/BjI/ZsMJNy38o84O6TtX+MuwfwYyP2bDCTct/KPODuk7V/jLsH8GMj9mwwk3LfyjzhpM7V5Z
 i7i5U+t0Zb9x2rO5lgsTYelJvHUPJsZO6oe7YzXG4m8lDytlsny9xx68fdS5GK7VZMi6Tk5UDdCt
 aUEqKaoqnGJwwly11UzMYTGH7Q5+DpcoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/9k=
-</content>
-  </attachment>
-  <attachment>
-    <filename>bullets.png</filename>
-    <filesize>1375</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.5</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAA4AAAAcCAYAAABRVo5BAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>bullets.png</filename>
+<filesize>1375</filesize>
+<author>XWiki.Admin</author>
+<date>1417613445000</date>
+<version>1.5</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAA4AAAAcCAYAAABRVo5BAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -5242,16 +5140,13 @@ T6MkKrwJ+6nV6Ox7QVdzjuPEoyRRrtfrWWyW8m+H63kdf32+Qca/HWJn2xWf69+OqtRF3qjTdKNk
 P+mK0rGo/M0tknhm6LrFV4osVVVJpO9YkPFNKFLbhmFE74Qg9JkmdTEPxxOTc4DErDhoeWuXNSTH
 jMVocBXScVhWF/DYwrdKB+MydsIxbukeQiqFhlxYIMFvCFUFwmfrnF8BBgC4L6t8+/tR8wAAAABJ
 RU5ErkJggg==
-</content>
-  </attachment>
-  <attachment>
-    <filename>arrowleft.png</filename>
-    <filesize>1385</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.5</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAABMAAAAdCAYAAABIWle8AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>arrowleft.png</filename>
+<filesize>1385</filesize>
+<author>XWiki.Admin</author>
+<date>1417613445000</date>
+<version>1.5</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABMAAAAdCAYAAABIWle8AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -5276,16 +5171,13 @@ w7CKzUCSJF0DaMsMpMOoqqpVM5jdbp8KBoOLWgkoXascMxv2eEYdDsd0D+CSz+fLPWWzV63+7gzj
 QqFEO8QtA6FO7+HdRDdxVLRKF7CFsJVMZbvRsOOWmcl230BdtmmP/u65ZFEU9+5SKfxQre9709YS
 g5GA37/gdDpnmhmJ4nkmk4mA+4Jqa+lGBxvSoIPaXA1vdVQoKze68XeCN2yPrO1ts2i/BBgAOtcb
 eBckH4YAAAAASUVORK5CYII=
-</content>
-  </attachment>
-  <attachment>
-    <filename>displayprofilebg.png</filename>
-    <filesize>1216</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAAoAAAIjCAYAAAA6DopqAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>displayprofilebg.png</filename>
+<filesize>1216</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAAoAAAIjCAYAAAA6DopqAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAA7VpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYxIDY0LjE0
@@ -5307,16 +5199,13 @@ Pi/fK00AAAChSURBVHja7NrBDYAwCAXQ1rj/lOyBjtAbIq+JtxcqnzZe3BGR62Bd63CB7eH9Pvnx
 ir9qRkUVW1YUj62NsHpr8ZiMdxS4yeha1xOhHE0GdHpAEHS5QBAEQV8FEHS5QKcHNBk56lrXuh4z
 GYG3f0f/zsyJxzEzQvGoqOKAioVb78xcNc2AIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAgOgY8AAwDZ
 jwn6HLmmdwAAAABJRU5ErkJggg==
-</content>
-  </attachment>
-  <attachment>
-    <filename>question-mark.png</filename>
-    <filesize>1320</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>question-mark.png</filename>
+<filesize>1320</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -5339,16 +5228,13 @@ MZjmV1ZFD9NEmHeYgdgRWeb9nk1gDPOaQedEMPvZoQPohoBcw8ECjUJWbPEMMsBq/goGPnkFhsf7
 9zLc72tEVwJygBTIO78YcADFlGywASCvnU+PxKXsB8iQtyAfYJP99ekTOFZeHTmIy4AvQPwSFrBb
 GcgD25CjuAeI/2GECR8fOGrZBISwGfAfqo+BESnvtAJxFQmu6AfiIuR0AgJ1QDyTSAPmAXEpjINs
 yF8gzgDiGCC+h0PzA2jeSYaqx5qLQWApNB8ZA7EJEAtBY+8sEJ+GhgUKAAgwAJQLaAgq37iQAAAA
-AElFTkSuQmCC</content>
-  </attachment>
-  <attachment>
-    <filename>rejoindre-title.png</filename>
-    <filesize>13866</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAASMAAAAeCAYAAABns3jqAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+AElFTkSuQmCC</content></attachment><attachment>
+<filename>rejoindre-title.png</filename>
+<filesize>13866</filesize>
+<author>XWiki.Admin</author>
+<date>1417613444000</date>
+<version>1.3</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAASMAAAAeCAYAAABns3jqAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAA7VpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -5591,16 +5477,13 @@ eiqg77gHpOrAHZDXeYXyDRbke1BY0Cjvo5DfehVjpDi96Yt5zkNbbhRLZKLAMbN2Sgzhs6CMFvgN
 WSHuajXw3d5FflRZg+D3ij9S/st8MPmPAqOC+fPnP45vY0T7j8/l2kXXWdFfB0ZXExZ/VzRNFRzR
 G3ZHfBvAV1Cu5f+LDHGx200tGYxIorE01AS5WhqSaIYJstWckzgaquWsWm8RB0e2MkptC6cKREBA
 GRWBjExXUYe4+UzJ/QpjtIZiWHyP1vYrBaM/uK8RbqcjH9qAR5+/gTY0/8Wy7/j8vwIMALWNnOud
-N6aiAAAAAElFTkSuQmCC</content>
-  </attachment>
-  <attachment>
-    <filename>bullet.png</filename>
-    <filesize>956</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.5</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+N6aiAAAAAElFTkSuQmCC</content></attachment><attachment>
+<filename>bullet.png</filename>
+<filesize>956</filesize>
+<author>XWiki.Admin</author>
+<date>1417613445000</date>
+<version>1.5</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -5617,16 +5500,13 @@ Q0JCNzYzQTBBRTA5NCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpBQTk3QzhEOENDREMxMUUx
 OUVEQ0JCNzYzQTBBRTA5NCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1w
 bWV0YT4gPD94cGFja2V0IGVuZD0iciI/PrTpXrIAAAAwSURBVHjaYvj//z8DEJcD8SogNgZxjP8j
 wComBgaGe0D8ngECzjJAtQhCVTIABBgAO6cq7HuEeEcAAAAASUVORK5CYII=
-</content>
-  </attachment>
-  <attachment>
-    <filename>toolbarbg.png</filename>
-    <filesize>1685</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.5</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAArcAAAAmCAYAAADeOLO4AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>toolbarbg.png</filename>
+<filesize>1685</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.5</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAArcAAAAmCAYAAADeOLO4AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -5656,16 +5536,13 @@ l1VObgs/fgAAukLcAgAgbgEAQNwCAIC4BQAAcQsAgLgFAABxCwAA4hYAgPXW5hs2rDxuFw+76sMD
 ANCtyC3bPFz9drvhcbwHAEDgLkOxqkOKWgCA7kdt2NdXG8q2DxomtvEKAEC3A7dNRRsHi2s9XsUt
 AED3onaVvVe2edAgntia3gIAdC9uF/dt9l5rLygTsgAA/QrceA0tWF11DCaLwvzs7ExxAgDQBV/z
 qXEqAAAdids/AgwAsweb5m2E19IAAAAASUVORK5CYII=
-</content>
-  </attachment>
-  <attachment>
-    <filename>signaler.png</filename>
-    <filesize>3549</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.4</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAGQAAAAaCAYAAABByvnlAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>signaler.png</filename>
+<filesize>3549</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.4</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAGQAAAAaCAYAAABByvnlAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -5727,16 +5604,13 @@ OU/VknZ+shYD+j3FbzPaWbc+lVuHsqIt6hGRQ/RVR3jcoE0pOytwvm9CuB9hCS1bAiq+kRPBAfFt
 tjCoJ2GGb+BGxPMBxvXs2Di+FbBGtlzmMgOkikjVpUQQfWTOsk1cykMaKSp1brkSE30QCI3qfTkY
 ElvVrr7HsGCA3CXVpTtkQZwkaE70Z/+1CXE4bVxAmLYZeC5Si9rKe2wd5q7+GZCXd8skwd17LPUf
 PooPefQJ0EP/ZkChrFKpqmxnVdmtt/hnQC18fVFUUqJ9KOfHNtrx6EO5n6o4fCj3HwEGAC51V/WY
-3wqEAAAAAElFTkSuQmCC</content>
-  </attachment>
-  <attachment>
-    <filename>facebook.png</filename>
-    <filesize>1114</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.6</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+3wqEAAAAAElFTkSuQmCC</content></attachment><attachment>
+<filename>facebook.png</filename>
+<filesize>1114</filesize>
+<author>XWiki.Admin</author>
+<date>1417613445000</date>
+<version>1.6</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -5756,16 +5630,13 @@ Z2BgkGCgLXgBsug/Ax3A8LOIgUBEXgLicCCWBrkHiNmA2BiIK4D4HikpAp9FB6AGM+DAD0mxCF/Q
 GQLxBTQxISD+CMTSQPyQGkH3AYsPpgHxHyD+DMS7SM1MuHx0B4hV0cS+ATEntVPdZSDWQ/c8NZP3
 IyCWJ0LfJSDWpbVFoATxCoiZSbGIiYxQsCTVErrGERMDncCoRaMWjVpEnTbDE2hFRkvwFFSheYDa
 djRsQILM9gAIMABCeyxMIOc4sQAAAABJRU5ErkJggg==
-</content>
-  </attachment>
-  <attachment>
-    <filename>subscriptionbg.jpg</filename>
-    <filesize>72704</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.6</version>
-    <comment/>
-    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+</content></attachment><attachment>
+<filename>subscriptionbg.jpg</filename>
+<filesize>72704</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.6</version>
+<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -7041,16 +6912,13 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAFa9+vy1+kBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/9k=
-</content>
-  </attachment>
-  <attachment>
-    <filename>profiletabsbg.jpg</filename>
-    <filesize>1326</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+</content></attachment><attachment>
+<filename>profiletabsbg.jpg</filename>
+<filesize>1326</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -7073,16 +6941,13 @@ AwMDAwMDAwMDAQEBAQEBAQIBAQICAgECAgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
 AwMDAwMDAwMDAwMDAwMDAwP/wAARCAAsAAUDAREAAhEBAxEB/8QAXgABAQEAAAAAAAAAAAAAAAAA
 BgQKAQEAAAAAAAAAAAAAAAAAAAAAEAAAAggGAwAAAAAAAAAAAAAAAfBhgdECUgMUkaES0lOTJWam
 EQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDfPqocVLrg2ADV6uJGABl+cxYm4AKvVxIw
-ASujmPNwCbwPvHxYD//Z</content>
-  </attachment>
-  <attachment>
-    <filename>textareabg.jpg</filename>
-    <filesize>4369</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+ASujmPNwCbwPvHxYD//Z</content></attachment><attachment>
+<filename>textareabg.jpg</filename>
+<filesize>4369</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -7159,16 +7024,13 @@ XE0+XlYRAJ/f9xHc71f9KBcIu/kn7WJxI+k+5QjP99X2Jny86AZXfu+xxMvedoLgkt10kl7htf8A
 sQIipbm60zJ9rtrneAZxbcUn/Am0AymLbe69XicS8kQgExbb0zWrLtRMjOLbO6+eS/0re1hc6EZt
 lL2X7xE+yEaVfTEB+kxLY+cP9TTbypl5Fcu7WLBvc9GRbDGKvZd1c7eNJ2ElkRqtHUs6EHLs273Y
 xNMrjSt6ZdJ9mwme07R5cXQfaub0HRuxLpGPjdmSTsDadfb/2Q==
-</content>
-  </attachment>
-  <attachment>
-    <filename>flagfr.jpg</filename>
-    <filesize>7078</filesize>
-    <author>XWiki.jcoury</author>
-    <date>1357927496000</date>
-    <version>1.2</version>
-    <comment/>
-    <content>/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+</content></attachment><attachment>
+<filename>flagfr.jpg</filename>
+<filesize>7078</filesize>
+<author>XWiki.jcoury</author>
+<date>1417613445000</date>
+<version>1.2</version>
+<comment></comment><content>/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
 CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
 FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCABsAJYDAREA
 AhEBAxEB/8QAHQABAAEFAQEBAAAAAAAAAAAAAAUBBAYHCAkDAv/EAEMQAAEEAQMCAwMHCgQFBQAA
@@ -7293,16 +7155,13 @@ o8n3Yj4XbbmT4kmLGfduJeKGv8pth9yOltlnrS6rnyOXTySrqU4T8IAAgGP4r4SLfF8d29oWsyjO
 sT1JcIfSyAOlKQkc8q5HpoCS2D2Mv9naKmopeUV1jT09O1UxzX0whyZPQrlLsh0uL6ilPUAlISPj
 UTyToDdegGgGgGgGgGgGgKeugK6AaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaA
 aAaAaAaAaA//2Q==
-</content>
-  </attachment>
-  <attachment>
-    <filename>installbookmarklet.png</filename>
-    <filesize>8193</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAM8AAABtCAYAAAAGVTW6AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>installbookmarklet.png</filename>
+<filesize>8193</filesize>
+<author>XWiki.Admin</author>
+<date>1417613444000</date>
+<version>1.3</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAM8AAABtCAYAAAAGVTW6AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -7445,16 +7304,13 @@ ffD7K6UvKajFdNYeIue4BCoYsCo0qaX66k9XLZFaDM9KJzw7xiF4VCH1b3qoUOkwwfD0f8sBj5Kj
 vySlQiXwm6QQhPs8VKhcERLM3/NQoRLW7ATjGwZUqFwR8Hg8w4DCQ4VKa7w2Ak8N2iKpWqhQCYwe
 tcHkgMfGwed2DibS/yxChYp/q6PPuA6UOmJrKpWNdu5JnVo3XtFUr6LqoUJFWuwqDfSauQTvfoe2
 Gnx39Ejsrb+bEHnDOAurNVANUaEiECZCB4YBN0OfV/8HUX2uw09UmOOIeRzyae8//wv//G8R2vC/
-jqMxEBUqnlKPtu1oexJtP+CC/xdgAKHsKOsFAbIFAAAAAElFTkSuQmCC</content>
-  </attachment>
-  <attachment>
-    <filename>miniplanetesankore.png</filename>
-    <filesize>6553</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAEUAAABECAYAAADX0fiMAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+jqMxEBUqnlKPtu1oexJtP+CC/xdgAKHsKOsFAbIFAAAAAElFTkSuQmCC</content></attachment><attachment>
+<filename>miniplanetesankore.png</filename>
+<filesize>6553</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.3</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAEUAAABECAYAAADX0fiMAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -7569,16 +7425,13 @@ gNFExC6A1K+8q+Ort6z6wR5VaD0EhQnrFhNrwrk9+TJb9deD7LRopIP5GxBd5CL5Q1v373dPviJ9
 JB0P6U1QWuTXVhAbfXw717zKZ8ngyc5S7o8BChN2JIZVXTOOAzj7rQbZ66TrjsUNjxUoLcJizBUW
 p5nWy2AwAFjR9AFsViN+SqAcqRth/jceZ5CeTTrmGN13m9VL/sKKHXt6Y/C9BUpbYWxsqKWs/8i2
 qLJGKWuDpaKfrLvO+glsyzdVefy/HmJ/74DN2vexlv8TYADpuDdFHhnEGwAAAABJRU5ErkJggg==
-</content>
-  </attachment>
-  <attachment>
-    <filename>youtube.png</filename>
-    <filesize>1406</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.6</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAYAAABvCO8sAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>youtube.png</filename>
+<filesize>1406</filesize>
+<author>XWiki.Admin</author>
+<date>1417613445000</date>
+<version>1.6</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAYAAABvCO8sAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -7603,16 +7456,13 @@ ZWz37PbfGBe2kIkfqNa5qEpa8nNgA4CKUbK0g+wiM4V7bydTNqZWBYUV+BZg7+GFEFYZCe9o7JzR
 o9Y21tWBbcDHdxuP2yV/XRiBnoNc5/mDOBZLpD9QPy5D3vLg8BDXzKHl6TqHLZ87zA8ipJ9ibWf5
 BrJ83HkhXFW1Pt/Zn6Abw3sFxun7pVrUjPYw0jdNFnaqx6ZRG2QVvg3494Ux+GaEV/T4Sv9Lp+Fe
 mhfOCycC2jiPKO2O9+79FGAABPZoyytBtqYAAAAASUVORK5CYII=
-</content>
-  </attachment>
-  <attachment>
-    <filename>playerleftend.png</filename>
-    <filesize>2006</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.2</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>playerleftend.png</filename>
+<filesize>2006</filesize>
+<author>XWiki.Admin</author>
+<date>1417613444000</date>
+<version>1.2</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -7648,16 +7498,13 @@ rLUTmIgj4s7959TUi7qDB4vxozH7Ol6wHIcnX58+za+XgB8S/jPwO1ey4+5d4+1bt4ZR/WZu9anI
 ntJS+qazk0pKSpjRBnzPjUH25yRG9mBiQoF6OfLTnTvnHQ6HCb9SFED3Xi84U740RaP9sLych9zA
 l2vPV/9uxXoU98CJhw/V+GwBmr1eb/VCIGDkfrclO1tcGZApYAi4xvUi5/F/AgwAisGLq2oxdr4A
 AAAASUVORK5CYII=
-</content>
-  </attachment>
-  <attachment>
-    <filename>arrowright.png</filename>
-    <filesize>1402</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.5</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAABQAAAAdCAYAAACqhkzFAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>arrowright.png</filename>
+<filesize>1402</filesize>
+<author>XWiki.Admin</author>
+<date>1417613445000</date>
+<version>1.5</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABQAAAAdCAYAAACqhkzFAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -7682,16 +7529,13 @@ OYRQnwc0Ame9NDgwcFQqlRQvYK0CTS2Xj6OCMBsGWgeCfeu6rqmqehyNRgNDGZePoV9hoUzDutBQ
 xedNNahGUNiHA/NTAtqC+SkBbcHqJWAimZxqVQLagdWB5xcXhf+AOUBcHk3dMPbDwtzigECwr3p4
 fgwSM4wfWJalQVnYkSQJX9onPzB3lvEvyIPFeZ4f6o/HR6+LRRGLA9iL+575BTrQTrAuO3KsNp9g
 hi1ngRuygXSQl38EGADbQyUb/hbp6wAAAABJRU5ErkJggg==
-</content>
-  </attachment>
-  <attachment>
-    <filename>home.png</filename>
-    <filesize>1390</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.5</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAA4AAAAeCAYAAAAcni9KAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>home.png</filename>
+<filesize>1390</filesize>
+<author>XWiki.Admin</author>
+<date>1417613445000</date>
+<version>1.5</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAA4AAAAeCAYAAAAcni9KAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -7716,16 +7560,13 @@ cvikX0kHv+E5MijFthFUHV5GVhb+mj+i67rH+1sVqR0tDVhGJ5rwAs24jnWcyp/SCqnCFVyDeo0S
 XEAaq8iiyg7G8Artcv9YAiHUI+P+GmU6GJTi12iVUNL9PeYRwCWs4Q7CqqgLTxGV0Bh+uH+OGdmg
 EnMYUYXnUYNiCRUaaXnnCBr1+zkYMoo+SGefYcuYn4bfbE4YG0bBbaNp9435HKrV/P/f6i+/1U8B
 BgDsENoP+6uZRAAAAABJRU5ErkJggg==
-</content>
-  </attachment>
-  <attachment>
-    <filename>ressources-educatives-libres.png</filename>
-    <filesize>9584</filesize>
-    <author>XWiki.jcoury</author>
-    <date>1357927496000</date>
-    <version>1.4</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAJEAAABYCAYAAAD1PxVfAAAC0WlDQ1BJQ0MgUHJvZmlsZQAAKJGN
+</content></attachment><attachment>
+<filename>ressources-educatives-libres.png</filename>
+<filesize>9584</filesize>
+<author>XWiki.jcoury</author>
+<date>1417613446000</date>
+<version>1.4</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAJEAAABYCAYAAAD1PxVfAAAC0WlDQ1BJQ0MgUHJvZmlsZQAAKJGN
 lM9LFGEYx7+zjRgoQWBme4ihQ0ioTBZlROWuv9i0bVl/lBLE7Oy7u5Ozs9PM7JoiEV46ZtE9Kg8e
 +gM8eOiUl8LALALpblFEgpeS7Xlnxt0R7ccLM/N5nx/f53nf4X2BGlkxTT0kAXnDsZJ9Uen66JhU
 +xEhHEEdwqhTVNuMJBIDoMFjsWtsvofAvyute/v/OurStpoHhP1A6Eea2Sqw7xfZC1lqBBC5XsOE
@@ -7894,16 +7735,13 @@ CJIffEWDcLRA879oxH5y7+NYeKK4s6tKTgukVm4s/ltLJkJH5Ed4URJ0XFjgcZBa7cy7AEXURczN
 DRvUx8LTFGmJfMRR1bC7uTs+tuj8om0iSC2NOOwZmVjtLpJa77fe+7e+tecs1LLjMY06btgrWUbk
 T15Bkh8s1V+ewt87e1VeIXKi0g6vyiSWV0H0qhy3vAqiV+W45VUQvSrHLf8f/qNSjwXL6IIAAAAA
 SUVORK5CYII=
-</content>
-  </attachment>
-  <attachment>
-    <filename>button-orange-white-arrow.png</filename>
-    <filesize>3594</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.4</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAcIAAABKCAYAAAAojFREAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>button-orange-white-arrow.png</filename>
+<filesize>3594</filesize>
+<author>XWiki.Admin</author>
+<date>1417613446000</date>
+<version>1.4</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAcIAAABKCAYAAAAojFREAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -7966,16 +7804,13 @@ fTatdDh6EtXp2hBSEhLuPgEACJiL1hGO8/1MjppNth1dASZDpiLUX1u5tYem2uTSKAAgSIbGCMWr
 TBDmwzBiycUTYyr0/gAAVDwI9Rf9HkEFAKi2IBQZWkf4Dx2Ei2kSAEBVVoRpz3vatZy7PTfDkncA
 QNVUg4n3LMotnzD++uWln838e99T0pNijQMA4LIPwZqWVrl6/Y/PBaHRc+zQsp4jB7ZkujpiNFP1
 6tq/R1QRH6K4/hABqFy/KvUXOX2wPMp2pGbGLElcc73ZW3TX/wQYAJirO+PJv/ytAAAAAElFTkSu
-QmCC</content>
-  </attachment>
-  <attachment>
-    <filename>inputbg.jpg</filename>
-    <filesize>2401</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.3</version>
-    <comment/>
-    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+QmCC</content></attachment><attachment>
+<filename>inputbg.jpg</filename>
+<filesize>2401</filesize>
+<author>XWiki.Admin</author>
+<date>1417613444000</date>
+<version>1.3</version>
+<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -8018,16 +7853,13 @@ WoAo7zhTALUAUd5wpgFqAKO84UwC1AFHecKYBagCjvOFMAtQBR3nCmAWoAo7zhTALUAUd5wpgFqA
 KO84UwC1AFHecKYBagCjvOFMAtQBR3nCmAWoAo7zhTALUAUd5wpgFqAKO84UwC1AFHecKYBagCjv
 OFMAtQBXg3FnmuVieSKZMunSbMu96UevpmWSOsBDvHP5/wDObl8U+MU/tkDwZfK0Ofu3le8vq97f
 od+kQ6//2Q==
-</content>
-  </attachment>
-  <attachment>
-    <filename>playercontrolsbg.png</filename>
-    <filesize>2075</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.2</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAhMAAAA4CAYAAABHV3r4AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>playercontrolsbg.png</filename>
+<filesize>2075</filesize>
+<author>XWiki.Admin</author>
+<date>1417613444000</date>
+<version>1.2</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAhMAAAA4CAYAAABHV3r4AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -8064,16 +7896,13 @@ P/OQOM1DIs63oBoTYR4TnVJQTOX3O48ePXo/jmNjCQBouCiKkvX19YP05iDfTkshMchDIrkoJspB
 UURFcTvKnwcAmi3Jg6GIidel20VInMVE3a85gvygoHTgoBQSYSk8AIDmRUS5AeJSVMTVkKiLiWpQ
 FAeHwfmphJgAgObGRFCKiaTSBSO/5uiOWSVh8HZaISIAoD1RUQ2Ic9eL6F6hTAIxAQCti4mL7g/9
 J8AAco9mT0yF/g8AAAAASUVORK5CYII=
-</content>
-  </attachment>
-  <attachment>
-    <filename>more.png</filename>
-    <filesize>990</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.5</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAAAYAAAAHCAYAAAArkDztAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content></attachment><attachment>
+<filename>more.png</filename>
+<filesize>990</filesize>
+<author>XWiki.Admin</author>
+<date>1417613445000</date>
+<version>1.5</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAAYAAAAHCAYAAAArkDztAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -8090,16 +7919,13 @@ Q0JCNzYzQTBBRTA5NCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDoyQTE3MUNBM0NDREQxMUUx
 OUVEQ0JCNzYzQTBBRTA5NCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1w
 bWV0YT4gPD94cGFja2V0IGVuZD0iciI/PioCJ2IAAABSSURBVHjaYkxISJBmYGB4yoAGmIA4FohP
 ArExugQImAHxGSCeA8QSyBIwkAzEN4A4BF3iIxDXAPF6FiTBuUBcBsTvQByQxDUgNgTiC8haAQIM
-AEOPDMQeLpxdAAAAAElFTkSuQmCC</content>
-  </attachment>
-  <attachment>
-    <filename>playerexpand.png</filename>
-    <filesize>1647</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.2</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAABYAAAAaCAYAAACzdqxAAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+AEOPDMQeLpxdAAAAAElFTkSuQmCC</content></attachment><attachment>
+<filename>playerexpand.png</filename>
+<filesize>1647</filesize>
+<author>XWiki.Admin</author>
+<date>1417613444000</date>
+<version>1.2</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABYAAAAaCAYAAACzdqxAAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -8127,16 +7953,13 @@ c3cmJkLwzHxcXdUymcz156nUE5/PF/mysbEO/zxnFlkwzAIRRt7YGGPiwuzcHPeyCFSC5w0MDKRe
 ptM30L15tbd31awFC4ZiAFctEbVdh2t4LGh6oFiuF0tL7wxNOzo6pBR1Q4omxqzvAYz1nCOArlk9
 mDe/lE67cCtO46olsxYsGEaBVJlJcnGR0jgi+v6/3Oj8URC3Rkb4Qk9wbHZ3dz04tZfHOO9NYAC9
 Buuzb/N5XhQBy8i/8rm4uflrLz1d3W43BQJSmb0WvcKmrvX392yXShfomF8Q3Ok0EY2S1+st4/U9
-X8zU3dVFH1ZWPHw02MUTfEO/wR7AcuK/+1/xU4ABANHYkWAPoO0EAAAAAElFTkSuQmCC</content>
-  </attachment>
-  <attachment>
-    <filename>playerright.png</filename>
-    <filesize>2132</filesize>
-    <author>XWiki.Admin</author>
-    <date>1357927496000</date>
-    <version>1.2</version>
-    <comment/>
-    <content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+X8zU3dVFH1ZWPHw02MUTfEO/wR7AcuK/+1/xU4ABANHYkWAPoO0EAAAAAElFTkSuQmCC</content></attachment><attachment>
+<filename>playerright.png</filename>
+<filesize>2132</filesize>
+<author>XWiki.Admin</author>
+<date>1417613444000</date>
+<version>1.2</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
@@ -8174,599 +7997,598 @@ H1UoxpKCUmw/eRpRZvMvNCyZuIBnPANw7nK7/OyXR7Lzymuq49asx3yyUyiUJXMlNlY3YttXR2E0
 mWrJ7Wl15+g+Tta4crCADthE3xhOdNxY1366qbLn3JkVd39qxvidHs37wWhfhKT1TyB9+0vI2Jqv
 HrjtNH2AtGlezy1x4jCMkf2w+b2ou96trq5o/P7gU76hoWRO30wL42Glo4XkX9LzpPUTAHKkBvlP
 gAEARCLfOYtc5IoAAAAASUVORK5CYII=
-</content>
-  </attachment>
-  <object>
-    <class>
-      <name>XWiki.XWikiRights</name>
-      <customClass/>
-      <customMapping/>
-      <defaultViewSheet/>
-      <defaultEditSheet/>
-      <defaultWeb/>
-      <nameField/>
-      <validationScript/>
-      <allow>
-        <defaultValue>1</defaultValue>
-        <disabled>0</disabled>
-        <displayFormType>select</displayFormType>
-        <displayType>allow</displayType>
-        <name>allow</name>
-        <number>4</number>
-        <prettyName>Allow/Deny</prettyName>
-        <unmodifiable>0</unmodifiable>
-        <classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
-      </allow>
-      <groups>
-        <cache>0</cache>
-        <disabled>0</disabled>
-        <displayType>select</displayType>
-        <multiSelect>1</multiSelect>
-        <name>groups</name>
-        <number>1</number>
-        <prettyName>Groups</prettyName>
-        <relationalStorage>0</relationalStorage>
-        <separator> </separator>
-        <size>5</size>
-        <unmodifiable>0</unmodifiable>
-        <usesList>1</usesList>
-        <classType>com.xpn.xwiki.objects.classes.GroupsClass</classType>
-      </groups>
-      <levels>
-        <cache>0</cache>
-        <disabled>0</disabled>
-        <displayType>select</displayType>
-        <multiSelect>1</multiSelect>
-        <name>levels</name>
-        <number>2</number>
-        <prettyName>Levels</prettyName>
-        <relationalStorage>0</relationalStorage>
-        <separator> </separator>
-        <size>3</size>
-        <unmodifiable>0</unmodifiable>
-        <classType>com.xpn.xwiki.objects.classes.LevelsClass</classType>
-      </levels>
-      <users>
-        <cache>0</cache>
-        <disabled>0</disabled>
-        <displayType>select</displayType>
-        <multiSelect>1</multiSelect>
-        <name>users</name>
-        <number>3</number>
-        <prettyName>Users</prettyName>
-        <relationalStorage>0</relationalStorage>
-        <separator> </separator>
-        <size>5</size>
-        <unmodifiable>0</unmodifiable>
-        <usesList>1</usesList>
-        <classType>com.xpn.xwiki.objects.classes.UsersClass</classType>
-      </users>
-    </class>
-    <name>CurrikiCode.SankoreSkin</name>
-    <number>0</number>
-    <className>XWiki.XWikiRights</className>
-    <guid>15f20ec6-d1fd-461e-86e0-11595aa23631</guid>
-    <property>
-      <allow>1</allow>
-    </property>
-    <property>
-      <groups>XWiki.XWikiAllGroup,</groups>
-    </property>
-    <property>
-      <levels/>
-    </property>
-    <property>
-      <users>XWiki.XWikiGuest</users>
-    </property>
-  </object>
-  <object>
-    <class>
-      <name>XWiki.XWikiSkins</name>
-      <customClass/>
-      <customMapping/>
-      <defaultViewSheet/>
-      <defaultEditSheet/>
-      <defaultWeb/>
-      <nameField/>
-      <validationScript/>
-      <advancedsearch.vm>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>advancedsearch.vm</name>
-        <number>28</number>
-        <picker>1</picker>
-        <prettyName>advancedsearch.vm</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </advancedsearch.vm>
-      <baseskin>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <name>baseskin</name>
-        <number>10</number>
-        <picker>1</picker>
-        <prettyName>baseskin</prettyName>
-        <size>30</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
-      </baseskin>
-      <bookmarklet.vm>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>bookmarklet.vm</name>
-        <number>27</number>
-        <picker>0</picker>
-        <prettyName>bookmarklet.vm</prettyName>
-        <rows>5</rows>
-        <size>40</size>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </bookmarklet.vm>
-      <comments.vm>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>comments.vm</name>
-        <number>8</number>
-        <picker>1</picker>
-        <prettyName>comments.vm</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </comments.vm>
-      <contentmenu.vm>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>contentmenu.vm</name>
-        <number>7</number>
-        <picker>1</picker>
-        <prettyName>contentmenu.vm</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </contentmenu.vm>
-      <curriki.css>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>curriki.css</name>
-        <number>28</number>
-        <picker>0</picker>
-        <prettyName>curriki.css</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </curriki.css>
-      <edit.vm>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>edit.vm</name>
-        <number>31</number>
-        <picker>0</picker>
-        <prettyName>Edit</prettyName>
-        <rows>15</rows>
-        <size>80</size>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </edit.vm>
-      <footer.vm>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>footer.vm</name>
-        <number>4</number>
-        <picker>1</picker>
-        <prettyName>footer.vm</prettyName>
-        <rows>30</rows>
-        <size>100</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </footer.vm>
-      <global.vm>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>global.vm</name>
-        <number>28</number>
-        <picker>1</picker>
-        <prettyName>global.vm</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </global.vm>
-      <groups.css>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>groups.css</name>
-        <number>19</number>
-        <picker>1</picker>
-        <prettyName>groups.css</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </groups.css>
-      <header.vm>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>header.vm</name>
-        <number>3</number>
-        <picker>1</picker>
-        <prettyName>header.vm</prettyName>
-        <rows>30</rows>
-        <size>100</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </header.vm>
-      <hierarchy.vm>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>hierarchy.vm</name>
-        <number>32</number>
-        <picker>0</picker>
-        <prettyName>hierarchy.vm</prettyName>
-        <rows>5</rows>
-        <size>40</size>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </hierarchy.vm>
-      <htmlfooter.vm>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>htmlfooter.vm</name>
-        <number>11</number>
-        <picker>1</picker>
-        <prettyName>htmlfooter.vm</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </htmlfooter.vm>
-      <htmlheader.vm>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>htmlheader.vm</name>
-        <number>6</number>
-        <picker>1</picker>
-        <prettyName>htmlheader.vm</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </htmlheader.vm>
-      <javascript.vm>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>javascript.vm</name>
-        <number>20</number>
-        <picker>1</picker>
-        <prettyName>javascript.vm</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </javascript.vm>
-      <layoutExtraVars.vm>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>layoutExtraVars.vm</name>
-        <number>13</number>
-        <picker>1</picker>
-        <prettyName>layoutExtraVars.vm</prettyName>
-        <rows>45</rows>
-        <size>15</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </layoutExtraVars.vm>
-      <login.vm>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>login.vm</name>
-        <number>24</number>
-        <picker>1</picker>
-        <prettyName>login.vm</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </login.vm>
-      <logininline.vm>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>logininline.vm</name>
-        <number>26</number>
-        <picker>0</picker>
-        <prettyName>logininline.vm</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </logininline.vm>
-      <logo>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <name>logo</name>
-        <number>30</number>
-        <picker>0</picker>
-        <prettyName>logo</prettyName>
-        <size>30</size>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
-      </logo>
-      <menuview.vm>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>menuview.vm</name>
-        <number>17</number>
-        <picker>1</picker>
-        <prettyName>menuview.vm</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </menuview.vm>
-      <mycurriki.css>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>mycurriki.css</name>
-        <number>27</number>
-        <picker>0</picker>
-        <prettyName>mycurriki.css</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </mycurriki.css>
-      <name>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <name>name</name>
-        <number>1</number>
-        <picker>1</picker>
-        <prettyName>name</prettyName>
-        <size>30</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
-      </name>
-      <panel.vm>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>panel.vm</name>
-        <number>25</number>
-        <picker>0</picker>
-        <prettyName>panel.vm</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </panel.vm>
-      <panels.css>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>panels.css</name>
-        <number>31</number>
-        <picker>0</picker>
-        <prettyName>panels.css</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </panels.css>
-      <sankore.css>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>sankore.css</name>
-        <number>29</number>
-        <picker>0</picker>
-        <prettyName>sankore.css</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </sankore.css>
-      <siteembed.vm>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>siteembed.vm</name>
-        <number>26</number>
-        <picker>0</picker>
-        <prettyName>siteembed.vm</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </siteembed.vm>
-      <style.css>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>style.css</name>
-        <number>2</number>
-        <picker>1</picker>
-        <prettyName>style.css</prettyName>
-        <rows>30</rows>
-        <size>100</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </style.css>
-      <stylesheets.vm>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>stylesheets.vm</name>
-        <number>25</number>
-        <picker>0</picker>
-        <prettyName>stylesheets.vm</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </stylesheets.vm>
-      <view.vm>
-        <contenttype>FullyRenderedText</contenttype>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>view.vm</name>
-        <number>5</number>
-        <picker>1</picker>
-        <prettyName>view.vm</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <tooltip/>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </view.vm>
-      <viewheader.vm>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>viewheader.vm</name>
-        <number>30</number>
-        <picker>0</picker>
-        <prettyName>View Header</prettyName>
-        <rows>15</rows>
-        <size>80</size>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </viewheader.vm>
-      <views.css>
-        <customDisplay/>
-        <disabled>0</disabled>
-        <editor>---</editor>
-        <name>views.css</name>
-        <number>23</number>
-        <picker>0</picker>
-        <prettyName>views.css</prettyName>
-        <rows>15</rows>
-        <size>100</size>
-        <unmodifiable>0</unmodifiable>
-        <validationMessage/>
-        <validationRegExp/>
-        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-      </views.css>
-    </class>
-    <name>CurrikiCode.SankoreSkin</name>
-    <number>0</number>
-    <className>XWiki.XWikiSkins</className>
-    <guid>6510427c-6eb2-42fc-899b-33cf930c841a</guid>
-    <property>
-      <advancedsearch.vm>&lt;div class="row" id="search-term"&gt;&lt;/div&gt;
+</content></attachment>
+<object>
+<class>
+<name>XWiki.XWikiRights</name>
+<customClass></customClass>
+<customMapping></customMapping>
+<defaultViewSheet></defaultViewSheet>
+<defaultEditSheet></defaultEditSheet>
+<defaultWeb></defaultWeb>
+<nameField></nameField>
+<validationScript></validationScript>
+<allow>
+<defaultValue>1</defaultValue>
+<disabled>0</disabled>
+<displayFormType>select</displayFormType>
+<displayType>allow</displayType>
+<name>allow</name>
+<number>4</number>
+<prettyName>Allow/Deny</prettyName>
+<unmodifiable>0</unmodifiable>
+<classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
+</allow>
+<groups>
+<cache>0</cache>
+<disabled>0</disabled>
+<displayType>select</displayType>
+<multiSelect>1</multiSelect>
+<name>groups</name>
+<number>1</number>
+<prettyName>Groups</prettyName>
+<relationalStorage>0</relationalStorage>
+<separator> </separator>
+<size>5</size>
+<unmodifiable>0</unmodifiable>
+<usesList>1</usesList>
+<classType>com.xpn.xwiki.objects.classes.GroupsClass</classType>
+</groups>
+<levels>
+<cache>0</cache>
+<disabled>0</disabled>
+<displayType>select</displayType>
+<multiSelect>1</multiSelect>
+<name>levels</name>
+<number>2</number>
+<prettyName>Levels</prettyName>
+<relationalStorage>0</relationalStorage>
+<separator> </separator>
+<size>3</size>
+<unmodifiable>0</unmodifiable>
+<classType>com.xpn.xwiki.objects.classes.LevelsClass</classType>
+</levels>
+<users>
+<cache>0</cache>
+<disabled>0</disabled>
+<displayType>select</displayType>
+<multiSelect>1</multiSelect>
+<name>users</name>
+<number>3</number>
+<prettyName>Users</prettyName>
+<relationalStorage>0</relationalStorage>
+<separator> </separator>
+<size>5</size>
+<unmodifiable>0</unmodifiable>
+<usesList>1</usesList>
+<classType>com.xpn.xwiki.objects.classes.UsersClass</classType>
+</users>
+</class>
+<name>CurrikiCode.SankoreSkin</name>
+<number>0</number>
+<className>XWiki.XWikiRights</className>
+<guid>15f20ec6-d1fd-461e-86e0-11595aa23631</guid>
+<property>
+<allow>1</allow>
+</property>
+<property>
+<groups>XWiki.XWikiAllGroup,</groups>
+</property>
+<property>
+<levels></levels>
+</property>
+<property>
+<users>XWiki.XWikiGuest</users>
+</property>
+</object>
+<object>
+<class>
+<name>XWiki.XWikiSkins</name>
+<customClass></customClass>
+<customMapping></customMapping>
+<defaultViewSheet></defaultViewSheet>
+<defaultEditSheet></defaultEditSheet>
+<defaultWeb></defaultWeb>
+<nameField></nameField>
+<validationScript></validationScript>
+<advancedsearch.vm>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>advancedsearch.vm</name>
+<number>28</number>
+<picker>1</picker>
+<prettyName>advancedsearch.vm</prettyName>
+<rows>15</rows>
+<size>100</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</advancedsearch.vm>
+<baseskin>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<name>baseskin</name>
+<number>10</number>
+<picker>1</picker>
+<prettyName>baseskin</prettyName>
+<size>30</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+</baseskin>
+<bookmarklet.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>bookmarklet.vm</name>
+<number>27</number>
+<picker>0</picker>
+<prettyName>bookmarklet.vm</prettyName>
+<rows>5</rows>
+<size>40</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</bookmarklet.vm>
+<comments.vm>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>comments.vm</name>
+<number>8</number>
+<picker>1</picker>
+<prettyName>comments.vm</prettyName>
+<rows>15</rows>
+<size>100</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</comments.vm>
+<contentmenu.vm>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>contentmenu.vm</name>
+<number>7</number>
+<picker>1</picker>
+<prettyName>contentmenu.vm</prettyName>
+<rows>15</rows>
+<size>100</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</contentmenu.vm>
+<curriki.css>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>curriki.css</name>
+<number>28</number>
+<picker>0</picker>
+<prettyName>curriki.css</prettyName>
+<rows>15</rows>
+<size>100</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</curriki.css>
+<edit.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>edit.vm</name>
+<number>31</number>
+<picker>0</picker>
+<prettyName>Edit</prettyName>
+<rows>15</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</edit.vm>
+<footer.vm>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>footer.vm</name>
+<number>4</number>
+<picker>1</picker>
+<prettyName>footer.vm</prettyName>
+<rows>30</rows>
+<size>100</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</footer.vm>
+<global.vm>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>global.vm</name>
+<number>28</number>
+<picker>1</picker>
+<prettyName>global.vm</prettyName>
+<rows>15</rows>
+<size>100</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</global.vm>
+<groups.css>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>groups.css</name>
+<number>19</number>
+<picker>1</picker>
+<prettyName>groups.css</prettyName>
+<rows>15</rows>
+<size>100</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</groups.css>
+<header.vm>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>header.vm</name>
+<number>3</number>
+<picker>1</picker>
+<prettyName>header.vm</prettyName>
+<rows>30</rows>
+<size>100</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</header.vm>
+<hierarchy.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>hierarchy.vm</name>
+<number>32</number>
+<picker>0</picker>
+<prettyName>hierarchy.vm</prettyName>
+<rows>5</rows>
+<size>40</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</hierarchy.vm>
+<htmlfooter.vm>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>htmlfooter.vm</name>
+<number>11</number>
+<picker>1</picker>
+<prettyName>htmlfooter.vm</prettyName>
+<rows>15</rows>
+<size>100</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</htmlfooter.vm>
+<htmlheader.vm>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>htmlheader.vm</name>
+<number>6</number>
+<picker>1</picker>
+<prettyName>htmlheader.vm</prettyName>
+<rows>15</rows>
+<size>100</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</htmlheader.vm>
+<javascript.vm>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>javascript.vm</name>
+<number>20</number>
+<picker>1</picker>
+<prettyName>javascript.vm</prettyName>
+<rows>15</rows>
+<size>100</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</javascript.vm>
+<layoutExtraVars.vm>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>layoutExtraVars.vm</name>
+<number>13</number>
+<picker>1</picker>
+<prettyName>layoutExtraVars.vm</prettyName>
+<rows>45</rows>
+<size>15</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</layoutExtraVars.vm>
+<login.vm>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>login.vm</name>
+<number>24</number>
+<picker>1</picker>
+<prettyName>login.vm</prettyName>
+<rows>15</rows>
+<size>100</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</login.vm>
+<logininline.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>logininline.vm</name>
+<number>26</number>
+<picker>0</picker>
+<prettyName>logininline.vm</prettyName>
+<rows>15</rows>
+<size>100</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</logininline.vm>
+<logo>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<name>logo</name>
+<number>30</number>
+<picker>0</picker>
+<prettyName>logo</prettyName>
+<size>30</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+</logo>
+<menuview.vm>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>menuview.vm</name>
+<number>17</number>
+<picker>1</picker>
+<prettyName>menuview.vm</prettyName>
+<rows>15</rows>
+<size>100</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</menuview.vm>
+<mycurriki.css>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>mycurriki.css</name>
+<number>27</number>
+<picker>0</picker>
+<prettyName>mycurriki.css</prettyName>
+<rows>15</rows>
+<size>100</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</mycurriki.css>
+<name>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<name>name</name>
+<number>1</number>
+<picker>1</picker>
+<prettyName>name</prettyName>
+<size>30</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+</name>
+<panel.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>panel.vm</name>
+<number>25</number>
+<picker>0</picker>
+<prettyName>panel.vm</prettyName>
+<rows>15</rows>
+<size>100</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</panel.vm>
+<panels.css>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>panels.css</name>
+<number>31</number>
+<picker>0</picker>
+<prettyName>panels.css</prettyName>
+<rows>15</rows>
+<size>100</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</panels.css>
+<sankore.css>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>sankore.css</name>
+<number>29</number>
+<picker>0</picker>
+<prettyName>sankore.css</prettyName>
+<rows>15</rows>
+<size>100</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</sankore.css>
+<siteembed.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>siteembed.vm</name>
+<number>26</number>
+<picker>0</picker>
+<prettyName>siteembed.vm</prettyName>
+<rows>15</rows>
+<size>100</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</siteembed.vm>
+<style.css>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>style.css</name>
+<number>2</number>
+<picker>1</picker>
+<prettyName>style.css</prettyName>
+<rows>30</rows>
+<size>100</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</style.css>
+<stylesheets.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>stylesheets.vm</name>
+<number>25</number>
+<picker>0</picker>
+<prettyName>stylesheets.vm</prettyName>
+<rows>15</rows>
+<size>100</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</stylesheets.vm>
+<view.vm>
+<contenttype>FullyRenderedText</contenttype>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>view.vm</name>
+<number>5</number>
+<picker>1</picker>
+<prettyName>view.vm</prettyName>
+<rows>15</rows>
+<size>100</size>
+<tooltip></tooltip>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</view.vm>
+<viewheader.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>viewheader.vm</name>
+<number>30</number>
+<picker>0</picker>
+<prettyName>View Header</prettyName>
+<rows>15</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</viewheader.vm>
+<views.css>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>---</editor>
+<name>views.css</name>
+<number>23</number>
+<picker>0</picker>
+<prettyName>views.css</prettyName>
+<rows>15</rows>
+<size>100</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</views.css>
+</class>
+<name>CurrikiCode.SankoreSkin</name>
+<number>0</number>
+<className>XWiki.XWikiSkins</className>
+<guid>6510427c-6eb2-42fc-899b-33cf930c841a</guid>
+<property>
+<advancedsearch.vm>&lt;div class="row" id="search-term"&gt;&lt;/div&gt;
 #if ($doc.space.startsWith('Coll_') &amp;&amp; $context.action == 'view')
 &lt;script type="text/javascript" src="/xwiki/js/curriki-module-search${debugging}.js"&gt;&lt;/script&gt;
 &lt;script type="text/javascript"&gt;
@@ -8777,12 +8599,12 @@ Ext.onReady(function(){
 });
 &lt;/script&gt;
 #end</advancedsearch.vm>
-    </property>
-    <property>
-      <baseskin>curriki20</baseskin>
-    </property>
-    <property>
-      <bookmarklet.vm>#template("xwikivars.vm")
+</property>
+<property>
+<baseskin>curriki20</baseskin>
+</property>
+<property>
+<bookmarklet.vm>#template("xwikivars.vm")
 #template("layoutvars.vm")
 #template("htmlheader.vm")
 $context.setLinksQueryString("xpage=bookmarklet")
@@ -8809,23 +8631,23 @@ $context.unsetLinksQueryString()
 &lt;div class="clearfloats"&gt;&lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;</bookmarklet.vm>
-    </property>
-    <property>
-      <comments.vm/>
-    </property>
-    <property>
-      <contentmenu.vm>##
+</property>
+<property>
+<comments.vm></comments.vm>
+</property>
+<property>
+<contentmenu.vm>##
 ## contentmenu.vm moved to menuview.vm
 ##</contentmenu.vm>
-    </property>
-    <property>
-      <curriki.css/>
-    </property>
-    <property>
-      <edit.vm/>
-    </property>
-    <property>
-      <footer.vm>#if($isInServletMode)## Visible only in a page
+</property>
+<property>
+<curriki.css></curriki.css>
+</property>
+<property>
+<edit.vm></edit.vm>
+</property>
+<property>
+<footer.vm>#if($isInServletMode)## Visible only in a page
 &lt;div id="footerglobal" class="layoutsection"&gt;
 
 &lt;div class="bottom-content"&gt;
@@ -8924,9 +8746,9 @@ $context.unsetLinksQueryString()
 &lt;/div&gt;
 #end
 ### TODO: Format the footer for pdf output</footer.vm>
-    </property>
-    <property>
-      <global.vm>###
+</property>
+<property>
+<global.vm>###
 ### Global header
 ###
 ### The uppermost area of each page
@@ -9010,20 +8832,20 @@ $string
 &lt;/div&gt;&lt;!-- / #header--&gt;
 #end
 ### TODO: Format the header for pdf output</global.vm>
-    </property>
-    <property>
-      <groups.css/>
-    </property>
-    <property>
-      <header.vm/>
-    </property>
-    <property>
-      <hierarchy.vm>##
+</property>
+<property>
+<groups.css></groups.css>
+</property>
+<property>
+<header.vm></header.vm>
+</property>
+<property>
+<hierarchy.vm>##
 ## hierarchy.vm replaced by breadcrumbs.vm
 ##</hierarchy.vm>
-    </property>
-    <property>
-      <htmlfooter.vm>#if($isInServletMode)
+</property>
+<property>
+<htmlfooter.vm>#if($isInServletMode)
 #if("$!request.action" != "editinfo" &amp;&amp; "$!context.action" == "view")
 &lt;script src="//assets.zendesk.com/external/zenbox/v2.5/zenbox.js" type="text/javascript"&gt;&lt;/script&gt;
 &lt;style type="text/css" media="screen, projection"&gt;
@@ -9046,9 +8868,9 @@ $string
 #else ## Portlet Mode
 &lt;/div&gt;
 #end</htmlfooter.vm>
-    </property>
-    <property>
-      <htmlheader.vm>## -------------------------------------------------------------------------------------------------------------------
+</property>
+<property>
+<htmlheader.vm>## -------------------------------------------------------------------------------------------------------------------
 ## In non-Servlet mode (in Portlet mode for example) we don't display the &lt;HTML&gt;, &lt;HEAD&gt; and &lt;BODY&gt;
 ## elements.
 ## -------------------------------------------------------------------------------------------------------------------
@@ -9144,9 +8966,9 @@ $string
 &lt;$bodyTagName id="body" class="wiki-${xcontext.database} space-${escapetool.xml($doc.space.replaceAll(' ', '_'))} ${bodyAction}body #if($showLeftPanels == "0")hideleft#end#if($showRightPanels == "0")hideright#end#if($hidecolumns &amp;&amp; ($!hidecolumns == 1))hidelefthideright#end"&gt;
 &lt;div id="xwikimaincontainer"&gt;
 &lt;div id="xwikimaincontainerinner"&gt;</htmlheader.vm>
-    </property>
-    <property>
-      <javascript.vm>#**
+</property>
+<property>
+<javascript.vm>#**
   * Setup the external Javascript files loaded for the curriki pages
   * @author Curriki dev team
   *#
@@ -9211,22 +9033,22 @@ $xwiki.jsfx.use('uicomponents/suggest/suggest.js')
 ##
 ## If not using xwiki standalone you need to comment the following line
 &lt;script src="/xwiki/bin/view/Util/JSTrans?xpage=plain&amp;lang=${lang}"&gt;&lt;/script&gt;
-$xwiki.jsfx.use("../../js/i18n-debug.js")
+&lt;script src="/xwiki/js/i18n-debug.js"&gt;&lt;/script&gt;
 ## and uncomment the next one out instead
 ##&lt;script src="/js/1/lang_${lang}.js"&gt;&lt;/script&gt;
-$xwiki.jsfx.use("../../js/curriki-layout${debugging}.js")
-$xwiki.jsfx.use("../../js/curriki-ui-tree${debugging}.js")
-$xwiki.jsfx.use("../../js/curriki-main${debugging}.js")
+&lt;script src="/xwiki/js/curriki-layout${debugging}.js"&gt;&lt;/script&gt;
+&lt;script src="/xwiki/js/curriki-ui-tree${debugging}.js"&gt;&lt;/script&gt;
+&lt;script src="/xwiki/js/curriki-main${debugging}.js"&gt;&lt;/script&gt;
 ##&lt;script src="/xwiki/js/curriki-module-addpath${debugging}.js"&gt;&lt;/script&gt;
-$xwiki.jsfx.use("../../js/sankore-module-addpath${debugging}.js")
-$xwiki.jsfx.use("../../js/sankore-module-addpath-group${debugging}.js")
-$xwiki.jsfx.use("../../js/curriki-module-organize${debugging}.js")
-$xwiki.jsfx.use("../../js/curriki-module-nominate${debugging}.js")
-$xwiki.jsfx.use("../../js/curriki-module-review${debugging}.js")
-$xwiki.jsfx.use("../../js/curriki-module-unnominate${debugging}.js")
-$xwiki.jsfx.use("../../js/curriki-module-partner${debugging}.js")
-$xwiki.jsfx.use("../../js/curriki-module-asterixReview${debugging}.js")
-$xwiki.jsfx.use("../../js/curriki-module-flag${debugging}.js")
+&lt;script src="/xwiki/js/sankore-module-addpath${debugging}.js"&gt;&lt;/script&gt;
+&lt;script src="/xwiki/js/sankore-module-addpath-group${debugging}.js"&gt;&lt;/script&gt;
+&lt;script src="/xwiki/js/curriki-module-organize${debugging}.js"&gt;&lt;/script&gt;
+&lt;script src="/xwiki/js/curriki-module-nominate${debugging}.js"&gt;&lt;/script&gt;
+&lt;script src="/xwiki/js/curriki-module-review${debugging}.js"&gt;&lt;/script&gt;
+&lt;script src="/xwiki/js/curriki-module-unnominate${debugging}.js"&gt;&lt;/script&gt;
+&lt;script src="/xwiki/js/curriki-module-partner${debugging}.js"&gt;&lt;/script&gt;
+&lt;script src="/xwiki/js/curriki-module-asterixReview${debugging}.js"&gt;&lt;/script&gt;
+&lt;script src="/xwiki/js/curriki-module-flag${debugging}.js"&gt;&lt;/script&gt;
 #end
 &lt;script type="text/javascript"&gt;
 /* &lt;![CDATA[ */
@@ -9337,9 +9159,9 @@ Event.observe(document, "dom:loaded", prepareCancelEdit);
 ## Placed at the very end of the stream so that skin file extensions code can be deprecated easily as well.
 ##
 &lt;script type="text/javascript" src="$xwiki.getSkinFile("js/xwiki/compatibility.js", false)" defer="defer"&gt;&lt;/script&gt;</javascript.vm>
-    </property>
-    <property>
-      <layoutExtraVars.vm>#*
+</property>
+<property>
+<layoutExtraVars.vm>#*
  * Voluntary left empty.
  * This template is intended to be used by custom skin that want to override values from layoutvars.vm safely.
  *
@@ -9360,9 +9182,9 @@ Event.observe(document, "dom:loaded", prepareCancelEdit);
 #if(!$hasAdmin)
   #set($displayMainMenu = false)
 #end</layoutExtraVars.vm>
-    </property>
-    <property>
-      <login.vm>#if ($xcontext.user != 'XWiki.XWikiGuest')
+</property>
+<property>
+<login.vm>#if ($xcontext.user != 'XWiki.XWikiGuest')
   #if ($request.xredirect)
     $response.sendRedirect($request.xredirect)
   #else
@@ -9398,15 +9220,15 @@ Event.observe(document, "dom:loaded", prepareCancelEdit);
 #template("endpage.vm")
 #end
 #end</login.vm>
-    </property>
-    <property>
-      <logininline.vm/>
-    </property>
-    <property>
-      <logo/>
-    </property>
-    <property>
-      <menuview.vm>#if($isInServletMode &amp;&amp; ($hasGlobalAdmin || $hasAdmin))## Visible only in a page
+</property>
+<property>
+<logininline.vm></logininline.vm>
+</property>
+<property>
+<logo></logo>
+</property>
+<property>
+<menuview.vm>#if($isInServletMode &amp;&amp; ($hasGlobalAdmin || $hasAdmin))## Visible only in a page
 &lt;div id="mainmenu" class="layoutsubsection actionmenu"&gt;
 &lt;strong id="xwikimenutitle" class="hidden"&gt;$msg.get('core.menu.main.title')&lt;/strong&gt;
 &lt;div class="rightmenu"&gt;
@@ -9697,15 +9519,15 @@ Event.observe(document, "dom:loaded", prepareCancelEdit);
 &lt;/div&gt;
 &lt;/div&gt;
 #end</menuview.vm>
-    </property>
-    <property>
-      <mycurriki.css/>
-    </property>
-    <property>
-      <name/>
-    </property>
-    <property>
-      <panel.vm>#template("xwikivars.vm")
+</property>
+<property>
+<mycurriki.css></mycurriki.css>
+</property>
+<property>
+<name></name>
+</property>
+<property>
+<panel.vm>#template("xwikivars.vm")
 #template("layoutvars.vm")
 ## -------------------------------------------------------------------------------------------------------------------
 ## In non-Servlet mode (in Portlet mode for example) we don't display the &lt;HTML&gt;, &lt;HEAD&gt; and &lt;BODY&gt;
@@ -9805,16 +9627,7 @@ Event.observe(document, "dom:loaded", prepareCancelEdit);
 &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;
-</panel.vm>
-    </property>
-    <property>
-      <panels.css/>
-    </property>
-    <property>
-      <sankore.css/>
-    </property>
-    <property>
-      <siteembed.vm>#**
+</panel.vm></property><property><panels.css></panels.css></property><property><sankore.css></sankore.css></property><property><siteembed.vm>#**
   * Embed entry point. It is called from view.vm
   * It displays assets in embed mode. Links stay in the same windows
   *#
@@ -9869,10 +9682,7 @@ Event.observe(document, "dom:loaded", prepareCancelEdit);
 &lt;/div&gt;
 #end
 #template("htmlfooter.vm")
-</siteembed.vm>
-    </property>
-    <property>
-      <style.css>/*
+</siteembed.vm></property><property><style.css>/*
 Import standard files to follow Colibri Skin path
 */
 @import "$xwiki.getSkinFile('css/microformats.css')";
@@ -11956,9 +11766,9 @@ img.subcategory-sankore_ubw, .filetype-ubw a.icon-link {
 img.subcategory-sankore_ubz, .filetype-ubz a.icon-link {
   background-position: 0 -6660px;
 }</style.css>
-    </property>
-    <property>
-      <stylesheets.vm>&lt;link href="$xwiki.getSkinFile('extjs-3.4.0/resources/css/ext-all.css', true)" rel="stylesheet" type="text/css" media="all" /&gt;
+</property>
+<property>
+<stylesheets.vm>&lt;link href="$xwiki.getSkinFile('extjs-3.4.0/resources/css/ext-all.css', true)" rel="stylesheet" type="text/css" media="all" /&gt;
 #*
 &lt;script type="text/javascript"&gt;
 //&lt;![CDATA[
@@ -11996,7 +11806,7 @@ document.write(unescape("%3Clink rel='stylesheet' type='text/css' href='" + ejcL
 #**
   * Curriki Specific 
   *#
-$xwiki.ssfx.use('../../js/curriki-js.css')
+&lt;link href="/xwiki/js/curriki-js.css" type="text/css" rel="stylesheet" type="text/css" /&gt;
 &lt;link href="$xwiki.getSkinFile("curriki/ictcrs.css", false)" rel="stylesheet" type="text/css"  /&gt;
 ##&lt;link href="$xwiki.getSkinFile("panels.css", false)" rel="stylesheet" type="text/css"  /&gt;
 ##&lt;link href="$xwiki.getSkinFile("addpath.css", false)" rel="stylesheet" type="text/css"  /&gt;
@@ -12033,9 +11843,9 @@ $xwiki.ssfx.use('../../js/curriki-js.css')
 &lt;!-- com.xpn.xwiki.plugin.skinx.CssSkinFileExtensionPlugin --&gt;
 &lt;!-- Custom Open Sans Condensed Font--&gt;
 &lt;link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;</stylesheets.vm>
-    </property>
-    <property>
-      <view.vm>###
+</property>
+<property>
+<view.vm>###
 ### Main "view" template
 ###
 ### General wrapper for view actions
@@ -12073,13 +11883,12 @@ $xwiki.ssfx.use('../../js/curriki-js.css')
   &lt;/div&gt;## main
   #template("endpage.vm")
 #end</view.vm>
-    </property>
-    <property>
-      <viewheader.vm/>
-    </property>
-    <property>
-      <views.css/>
-    </property>
-  </object>
-  <content>{{include document="XWiki.XWikiSkinsSheet" /}}</content>
-</xwikidoc>
+</property>
+<property>
+<viewheader.vm></viewheader.vm>
+</property>
+<property>
+<views.css></views.css>
+</property>
+</object>
+<content>{{include document="XWiki.XWikiSkinsSheet" /}}</content></xwikidoc>
