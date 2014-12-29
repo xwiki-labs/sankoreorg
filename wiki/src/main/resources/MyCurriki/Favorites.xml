@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xwikidoc>
+<web>MyCurriki</web>
+<name>Favorites</name>
+<language></language>
+<defaultLanguage>en</defaultLanguage>
+<translation>0</translation>
+<parent>MyCurriki.WebHome</parent>
+<creator>XWiki.superadmin</creator>
+<author>XWiki.Admin</author>
+<customClass></customClass>
+<contentAuthor>XWiki.Admin</contentAuthor>
+<creationDate>1262296800000</creationDate>
+<date>1419607623000</date>
+<contentUpdateDate>1419607623000</contentUpdateDate>
+<version>2.1</version>
+<title>Favorites</title>
+<template></template>
+<defaultTemplate></defaultTemplate>
+<validationScript></validationScript>
+<comment>Importé depuis un le XAR</comment>
+<minorEdit>false</minorEdit>
+<syntaxId>xwiki/1.0</syntaxId>
+<hidden>false</hidden>
+<content>#**
+  * MyCurriki Favorites Profile Page
+  *
+  *#
+#mycurriki_pageheader("favorites" "")
+##mycurriki_favoritesbutton($userobj)
+#mycurriki_pagecontentheader("favorites" "")
+#mycurriki_favoritesbox($userdoc $userobj)
+#mycurriki_pagefooter("")</content></xwikidoc>

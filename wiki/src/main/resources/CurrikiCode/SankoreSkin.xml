@@ -5,27 +5,27 @@
 <language></language>
 <defaultLanguage>fr</defaultLanguage>
 <translation>0</translation>
-<parent>XWiki.XWikiSkins</parent>
-<creator>XWiki.Admin</creator>
+<parent>Sandbox.WebHome</parent>
+<creator>XWiki.FlaviusOlaru</creator>
 <author>XWiki.Admin</author>
 <customClass></customClass>
 <contentAuthor>XWiki.Admin</contentAuthor>
 <creationDate>1357927496000</creationDate>
-<date>1418736632000</date>
-<contentUpdateDate>1418736632000</contentUpdateDate>
-<version>2.1</version>
+<date>1419607078000</date>
+<contentUpdateDate>1419607078000</contentUpdateDate>
+<version>3.1</version>
 <title>SankoreSkin</title>
 <template></template>
 <defaultTemplate></defaultTemplate>
 <validationScript></validationScript>
-<comment>Retour à la version 1.1</comment>
+<comment>Importé depuis un le XAR</comment>
 <minorEdit>false</minorEdit>
 <syntaxId>xwiki/2.0</syntaxId>
 <hidden>false</hidden><attachment>
 <filename>commentbg.jpg</filename>
 <filesize>6623</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
@@ -147,8 +147,8 @@ R+H4ej+PQBkA/9k=
 </content></attachment><attachment>
 <filename>playerrightend.png</filename>
 <filesize>2002</filesize>
-<author>XWiki.Admin</author>
-<date>1417613444000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.2</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -189,8 +189,8 @@ RU5ErkJggg==
 </content></attachment><attachment>
 <filename>buttonbg.jpg</filename>
 <filesize>1391</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
@@ -220,8 +220,8 @@ xqeYCmzYC50BW5U1pxbQLLXge8U//9k=
 </content></attachment><attachment>
 <filename>buttonconfirmbg.jpg</filename>
 <filesize>1414</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
@@ -251,8 +251,8 @@ k5YhKXJGIBL17Br0rB73vE15Ndf9oizXH5xil85XVfMFdxT65gem88rvrx//2Q==
 </content></attachment><attachment>
 <filename>account.png</filename>
 <filesize>4900</filesize>
-<author>XWiki.Admin</author>
-<date>1417613445000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.5</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAACsAAAAyCAYAAADFhCKTAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -343,8 +343,8 @@ IFu0mQP9vzxEnnxBjoXBtvQq3MINkv7/HGaOjY0a/7cAAwDCiqxhITlLvgAAAABJRU5ErkJggg==
 </content></attachment><attachment>
 <filename>profiletabsbghover.png</filename>
 <filesize>1325</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAPgAAAAyCAYAAABxohbZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -374,7 +374,7 @@ SPcAAAAASUVORK5CYII=
 <filename>spritestars.gif</filename>
 <filesize>6421</filesize>
 <author>XWiki.mstaicu</author>
-<date>1417613446000</date>
+<date>1357927496000</date>
 <version>1.2</version>
 <comment></comment><content>R0lGODlhVQAgAffbANjY2Nzc3OZHAOZLANra2uZCANfX18/Pz9XV1dLS0uY5AM/LydTU1ODY1OY7
 AOY0ANDQ0OYuAOYoAMDAwOZBAN/f39PT0+YzAOHZ1eZYEd7W0sLBwdrT0MHAv9fRzsbEw83NzdbW
@@ -492,8 +492,8 @@ qq3QV0zFqx3RsO3aCF0tFr0NGB3GGp3RHL3RHt3RFz0tAQEAOw==
 </content></attachment><attachment>
 <filename>spritestars.png</filename>
 <filesize>4006</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAFUAAAEgCAYAAADFbT+cAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -569,8 +569,8 @@ p9LDtAAAAABJRU5ErkJggg==
 </content></attachment><attachment>
 <filename>rejoignez.jpg</filename>
 <filesize>35865</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
@@ -1204,8 +1204,8 @@ j3U8+n3ESJAjAO6gOWLqCpYBASxIGvHMnMexodX27sbTNQtbvWbvdGktN3UqOlrDBqFvK7zOpKIS
 UChGYNlJcgKAT//Z</content></attachment><attachment>
 <filename>arrows.gif</filename>
 <filesize>1396</filesize>
-<author>XWiki.Admin</author>
-<date>1417613444000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.2</version>
 <comment></comment><content>R0lGODlhQAASANUjAMItHOKclEpKSqqqqsY6KsIvHuy8t89ZTEtLS+3Au/PW0vrv7dp/dfnq6fLR
 zVVVVfjo5v/9/eWlnsIuHdl+c/78++vr65GRkZCQkP7+/tfX1/z8/MnJydzc3LKysvHx8cbGxnBw
@@ -1235,8 +1235,8 @@ BQwLhqSmWxwdTwkKTa5lsrO0tba3uLm6SUEAOw==
 </content></attachment><attachment>
 <filename>inscription.png</filename>
 <filesize>13105</filesize>
-<author>XWiki.Admin</author>
-<date>1417613445000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAN4AAACLCAYAAAAOJCfzAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAA7VpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -1471,8 +1471,8 @@ iWjNR0D/291JAE9gtYa6zqXROhW/NgeCw206/leAAQCTQHK8iNqNNgAAAABJRU5ErkJggg==
 </content></attachment><attachment>
 <filename>toolbaricons.png</filename>
 <filesize>2813</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAADIAAAFeCAYAAADHfkwkAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -1527,8 +1527,8 @@ zYYWAiy8ZjUAAAAASUVORK5CYII=
 </content></attachment><attachment>
 <filename>logininline.vm</filename>
 <filesize>4321</filesize>
-<author>XWiki.Admin</author>
-<date>1417613444000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.9</version>
 <comment></comment><content>PCEtLSBMT0dJTiBCT1ggLS0+CjwhLS0gbWVtYmVyIGFyZWEgLS0+CjxkaXYgaWQ9ImhlYWRlci1t
 ZW1iZXIiPgojaWYoJGlzR3Vlc3QpCiAgI2lmKCRyZXF1ZXN0LnhyZWRpcmVjdCkKICAgICNzZXQo
@@ -1609,8 +1609,8 @@ L2Rpdj4KI2VuZAo8L2Rpdj4KPCEtLSBlbmQgb2YgbWVtYmVyIGFyZWEgLS0+Cg==
 </content></attachment><attachment>
 <filename>miniseparator.jpg</filename>
 <filesize>1273</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
@@ -1639,7 +1639,7 @@ CgEBAAAAAAAAAAAAAAAAAAAAABABAQAAAAAAAAAAAAAAAAAAAJgRAQAAAAAAAAAAAAAAAAAAAAD/
 <filename>mycurrikimacros.vm</filename>
 <filesize>62455</filesize>
 <author>XWiki.mstaicu</author>
-<date>1417613446000</date>
+<date>1357927496000</date>
 <version>1.7</version>
 <comment></comment><content>IyMgdmltOiB0cz00OnN3PTQKIyoqCiAgKgogICogTXkgQ3VycmlraSBNYWNyb3MKICAqCiAgKiBU
 aGUgbXkgY3VycmlraSBtb2R1bGUgaXMgdGhlIHBlcnNvbmFsIHBhZ2VzIG9mIGVhY2ggdXNlcgog
@@ -2740,8 +2740,8 @@ dXR0b25tYWNybwoKIyMgRW5kIG9mIE15U2Fua29yZSBNYWNyb3MgCg==
 </content></attachment><attachment>
 <filename>separator.png</filename>
 <filesize>943</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.6</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAAEAAADnCAYAAADfCDwWAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -2763,8 +2763,8 @@ SoxKjErQVgIgwAAvEjKmd3sOtwAAAABJRU5ErkJggg==
 </content></attachment><attachment>
 <filename>separatpr.png</filename>
 <filesize>981</filesize>
-<author>XWiki.Admin</author>
-<date>1417613445000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.5</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAAIAAAAjCAIAAAAxJEzgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -2786,8 +2786,8 @@ bWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgBJ4lMAAABJSURBVHjaYn5srsz26QMTAxgw/f8PphgY
 AAAAAElFTkSuQmCC</content></attachment><attachment>
 <filename>monactivitebg.jpg</filename>
 <filesize>7768</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
@@ -2929,8 +2929,8 @@ H0gZX8uj/wAf4/8AkD//2Q==
 </content></attachment><attachment>
 <filename>selectbg.jpg</filename>
 <filesize>1365</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
@@ -2958,8 +2958,8 @@ BxdXEQABAQUJAAAAAAAAAAAAAAAAAgERUZETIWGh0VIDUwQU/9oADAMBAAIRAxEAPwDLHqDhfzja
 Ol4F0FQ2dLJGr29vkXMCTIURoa0J64E7TOmKVhOA1FXFvJ6mJURTHAxnogzDMV+dpUIKf//Z</content></attachment><attachment>
 <filename>arrow-down-black.gif</filename>
 <filesize>1171</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>R0lGODlhDgAOALMIAEJCQri4uE5OTmZmZvPz89vb23FxcdDQ0P///wAAAAAAAAAAAAAAAAAAAAAA
 AAAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpy
@@ -2986,7 +2986,7 @@ UXAAx8dZ30AgYjeVp5S6gFml7CXGrY1nfO//lggAOw==
 <filename>search.png</filename>
 <filesize>14283</filesize>
 <author>XWiki.jcoury</author>
-<date>1417613445000</date>
+<date>1357927496000</date>
 <version>1.6</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAGsAAACACAYAAAAMPJdNAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -3241,8 +3241,8 @@ O+F6Had2sB6hXDt3ZmTzST7NZWzvHtnkYGdpO1iPUG6cOGJ1VpZZyHmICBKu9a1tB+sRCzK95oCh
 f+MUguwn+WH+T4ABAOLEeVU0VlK4AAAAAElFTkSuQmCC</content></attachment><attachment>
 <filename>arrow-left-white.png</filename>
 <filesize>1523</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAAwAAAAXCAYAAAA/ZK6/AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAA7VpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -3274,8 +3274,8 @@ yIgLtLiYK2+gYtcVNQ7c48a3AAMAs48NQlZyTQQAAAAASUVORK5CYII=
 </content></attachment><attachment>
 <filename>inscriptionp1.png</filename>
 <filesize>7674</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAN4AAABLCAYAAAAfzDlHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -3414,8 +3414,8 @@ h7dMvgfNjqD//Gn4S3O7QY+ygOwJLeAa8KzGF2BGcrMln31mPxRrEk4iWv0JmL/7QhLAU0StoWlK
 abTOxa8NA4MjbTr+X4ABAMqI2mwqsMe0AAAAAElFTkSuQmCC</content></attachment><attachment>
 <filename>inscriptionp2.png</filename>
 <filesize>6365</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAN4AAABACAYAAAB1C8mEAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -3532,8 +3532,8 @@ swZNmG7GOxsRGY8KP7BsiZaFLVT83EDrsXr4cmz5+CYotztp8d7vBOh4Mlig8YfwjrZNCzpxsLJ1
 </content></attachment><attachment>
 <filename>rsswhite.png</filename>
 <filesize>1727</filesize>
-<author>XWiki.Admin</author>
-<date>1417613445000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.7</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -3569,8 +3569,8 @@ oEoFkhYAAAAASUVORK5CYII=
 </content></attachment><attachment>
 <filename>toolbarbgmain.png</filename>
 <filesize>1107</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAakAAAAmCAYAAAB+vWTiAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -3594,8 +3594,8 @@ iBQAIgUAIgWASAGASAGASAEgUgAgUgD8zemvSADYpADAJgWATQoAbFIAiBQApEWqu00BgEhu5gUg
 1i3AACOGJF5XtmLZAAAAAElFTkSuQmCC</content></attachment><attachment>
 <filename>playerleft.png</filename>
 <filesize>2169</filesize>
-<author>XWiki.Admin</author>
-<date>1417613444000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.2</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -3638,8 +3638,8 @@ qW/wATRX+NzT232Tk8kU75vWbAFjwmrm7kL9KRi8mT35wjXIPwIMANu/PXBMdB10AAAAAElFTkSu
 QmCC</content></attachment><attachment>
 <filename>twitter.png</filename>
 <filesize>1367</filesize>
-<author>XWiki.Admin</author>
-<date>1417613445000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.6</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAACAAAAAVCAYAAAAnzezqAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -3668,8 +3668,8 @@ bx31qGIiJs1t7DcO3oqCDFgGMzSOg3fy1B29F01Dr1k/AgwAFIxztOwl6eQAAAAASUVORK5CYII=
 </content></attachment><attachment>
 <filename>rss.png</filename>
 <filesize>2709</filesize>
-<author>XWiki.Admin</author>
-<date>1417613445000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.5</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -3721,8 +3721,8 @@ mOkxj03keSpnZWlIFs7Cyvtg+uadF4lVsKz5su6v2qRhQUysNqUO8N/EnXFuJjnZLc36zuqYt57T
 Vnmx2+avfwowAB/3/p8MTZfVAAAAAElFTkSuQmCC</content></attachment><attachment>
 <filename>logo.png</filename>
 <filesize>16608</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.5</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAP8AAABZCAYAAADxTfI5AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -4018,8 +4018,8 @@ ngp/mE59sLCvs+L6Ay0XkaNvzKCuP3QuiPCfkXPChOXqjKBOISj6nb/nixJ4252luvCc9ID+T4AB
 ANHcDWaBdW7XAAAAAElFTkSuQmCC</content></attachment><attachment>
 <filename>arrow-right-black.gif</filename>
 <filesize>1169</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>R0lGODlhBwAOALMIAEJCQri4uE5OTmZmZvPz89vb23FxcdDQ0P///wAAAAAAAAAAAAAAAAAAAAAA
 AAAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpy
@@ -4045,8 +4045,8 @@ m+nGFfJ1Ihd+YSEAlQoElAsjcrzOyB0aOBUBADs=
 </content></attachment><attachment>
 <filename>profilemaainactions.jpg</filename>
 <filesize>51835</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.FlaviusOlaru</author>
+<date>1357927496000</date>
 <version>1.4</version>
 <comment></comment><content>/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
 AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
@@ -4961,8 +4961,8 @@ X/hr/wBoT/6KKgA/4jMP+Cnw6fAj9gsf90v/AGhP/ooqAFH/AAeY/wDBT8f80I/YL/8ADX/tCf8A
 </content></attachment><attachment>
 <filename>placeholderphoto.jpg</filename>
 <filesize>8258</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QMraHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
@@ -5112,8 +5112,8 @@ aUEqKaoqnGJwwly11UzMYTGH7Q5+DpcoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/9k=
 </content></attachment><attachment>
 <filename>bullets.png</filename>
 <filesize>1375</filesize>
-<author>XWiki.Admin</author>
-<date>1417613445000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.5</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAA4AAAAcCAYAAABRVo5BAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -5143,8 +5143,8 @@ RU5ErkJggg==
 </content></attachment><attachment>
 <filename>arrowleft.png</filename>
 <filesize>1385</filesize>
-<author>XWiki.Admin</author>
-<date>1417613445000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.5</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABMAAAAdCAYAAABIWle8AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -5174,8 +5174,8 @@ eBckH4YAAAAASUVORK5CYII=
 </content></attachment><attachment>
 <filename>displayprofilebg.png</filename>
 <filesize>1216</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAAoAAAIjCAYAAAA6DopqAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAA7VpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -5202,8 +5202,8 @@ jwn6HLmmdwAAAABJRU5ErkJggg==
 </content></attachment><attachment>
 <filename>question-mark.png</filename>
 <filesize>1320</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -5231,8 +5231,8 @@ yF8gzgDiGCC+h0PzA2jeSYaqx5qLQWApNB8ZA7EJEAtBY+8sEJ+GhgUKAAgwAJQLaAgq37iQAAAA
 AElFTkSuQmCC</content></attachment><attachment>
 <filename>rejoindre-title.png</filename>
 <filesize>13866</filesize>
-<author>XWiki.Admin</author>
-<date>1417613444000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAASMAAAAeCAYAAABns3jqAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAA7VpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -5480,8 +5480,8 @@ GRWBjExXUYe4+UzJ/QpjtIZiWHyP1vYrBaM/uK8RbqcjH9qAR5+/gTY0/8Wy7/j8vwIMALWNnOud
 N6aiAAAAAElFTkSuQmCC</content></attachment><attachment>
 <filename>bullet.png</filename>
 <filesize>956</filesize>
-<author>XWiki.Admin</author>
-<date>1417613445000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.5</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -5503,8 +5503,8 @@ wComBgaGe0D8ngECzjJAtQhCVTIABBgAO6cq7HuEeEcAAAAASUVORK5CYII=
 </content></attachment><attachment>
 <filename>toolbarbg.png</filename>
 <filesize>1685</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.5</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAArcAAAAmCAYAAADeOLO4AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -5539,8 +5539,8 @@ qXEqAAAdids/AgwAsweb5m2E19IAAAAASUVORK5CYII=
 </content></attachment><attachment>
 <filename>signaler.png</filename>
 <filesize>3549</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.4</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAGQAAAAaCAYAAABByvnlAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -5607,8 +5607,8 @@ PooPefQJ0EP/ZkChrFKpqmxnVdmtt/hnQC18fVFUUqJ9KOfHNtrx6EO5n6o4fCj3HwEGAC51V/WY
 3wqEAAAAAElFTkSuQmCC</content></attachment><attachment>
 <filename>facebook.png</filename>
 <filesize>1114</filesize>
-<author>XWiki.Admin</author>
-<date>1417613445000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.6</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -5633,8 +5633,8 @@ djRsQILM9gAIMABCeyxMIOc4sQAAAABJRU5ErkJggg==
 </content></attachment><attachment>
 <filename>subscriptionbg.jpg</filename>
 <filesize>72704</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.6</version>
 <comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
@@ -6915,8 +6915,8 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/9k=
 </content></attachment><attachment>
 <filename>profiletabsbg.jpg</filename>
 <filesize>1326</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
@@ -6944,8 +6944,8 @@ EQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDfPqocVLrg2ADV6uJGABl+cxYm4AKvVxIw
 ASujmPNwCbwPvHxYD//Z</content></attachment><attachment>
 <filename>textareabg.jpg</filename>
 <filesize>4369</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
@@ -7028,7 +7028,7 @@ xNMrjSt6ZdJ9mwme07R5cXQfaub0HRuxLpGPjdmSTsDadfb/2Q==
 <filename>flagfr.jpg</filename>
 <filesize>7078</filesize>
 <author>XWiki.jcoury</author>
-<date>1417613445000</date>
+<date>1357927496000</date>
 <version>1.2</version>
 <comment></comment><content>/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
 CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
@@ -7158,8 +7158,8 @@ aAaAaAaAaA//2Q==
 </content></attachment><attachment>
 <filename>installbookmarklet.png</filename>
 <filesize>8193</filesize>
-<author>XWiki.Admin</author>
-<date>1417613444000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAM8AAABtCAYAAAAGVTW6AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -7307,8 +7307,8 @@ Gnx39Ejsrb+bEHnDOAurNVANUaEiECZCB4YBN0OfV/8HUX2uw09UmOOIeRzyae8//wv//G8R2vC/
 jqMxEBUqnlKPtu1oexJtP+CC/xdgAKHsKOsFAbIFAAAAAElFTkSuQmCC</content></attachment><attachment>
 <filename>miniplanetesankore.png</filename>
 <filesize>6553</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAEUAAABECAYAAADX0fiMAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -7428,8 +7428,8 @@ qLJGKWuDpaKfrLvO+glsyzdVefy/HmJ/74DN2vexlv8TYADpuDdFHhnEGwAAAABJRU5ErkJggg==
 </content></attachment><attachment>
 <filename>youtube.png</filename>
 <filesize>1406</filesize>
-<author>XWiki.Admin</author>
-<date>1417613445000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.6</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAYAAABvCO8sAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -7459,8 +7459,8 @@ mhfOCycC2jiPKO2O9+79FGAABPZoyytBtqYAAAAASUVORK5CYII=
 </content></attachment><attachment>
 <filename>playerleftend.png</filename>
 <filesize>2006</filesize>
-<author>XWiki.Admin</author>
-<date>1417613444000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.2</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -7501,8 +7501,8 @@ AAAASUVORK5CYII=
 </content></attachment><attachment>
 <filename>arrowright.png</filename>
 <filesize>1402</filesize>
-<author>XWiki.Admin</author>
-<date>1417613445000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.5</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABQAAAAdCAYAAACqhkzFAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -7532,8 +7532,8 @@ hi1ngRuygXSQl38EGADbQyUb/hbp6wAAAABJRU5ErkJggg==
 </content></attachment><attachment>
 <filename>home.png</filename>
 <filesize>1390</filesize>
-<author>XWiki.Admin</author>
-<date>1417613445000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.5</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAA4AAAAeCAYAAAAcni9KAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -7564,7 +7564,7 @@ BgDsENoP+6uZRAAAAABJRU5ErkJggg==
 <filename>ressources-educatives-libres.png</filename>
 <filesize>9584</filesize>
 <author>XWiki.jcoury</author>
-<date>1417613446000</date>
+<date>1357927496000</date>
 <version>1.4</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAJEAAABYCAYAAAD1PxVfAAAC0WlDQ1BJQ0MgUHJvZmlsZQAAKJGN
 lM9LFGEYx7+zjRgoQWBme4ihQ0ioTBZlROWuv9i0bVl/lBLE7Oy7u5Ozs9PM7JoiEV46ZtE9Kg8e
@@ -7738,8 +7738,8 @@ SUVORK5CYII=
 </content></attachment><attachment>
 <filename>button-orange-white-arrow.png</filename>
 <filesize>3594</filesize>
-<author>XWiki.Admin</author>
-<date>1417613446000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.4</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAcIAAABKCAYAAAAojFREAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -7807,8 +7807,8 @@ QNVUg4n3LMotnzD++uWln838e99T0pNijQMA4LIPwZqWVrl6/Y/PBaHRc+zQsp4jB7ZkujpiNFP1
 QmCC</content></attachment><attachment>
 <filename>inputbg.jpg</filename>
 <filesize>2401</filesize>
-<author>XWiki.Admin</author>
-<date>1417613444000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.3</version>
 <comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
@@ -7856,8 +7856,8 @@ od+kQ6//2Q==
 </content></attachment><attachment>
 <filename>playercontrolsbg.png</filename>
 <filesize>2075</filesize>
-<author>XWiki.Admin</author>
-<date>1417613444000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.2</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAhMAAAA4CAYAAABHV3r4AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -7899,8 +7899,8 @@ J8AAco9mT0yF/g8AAAAASUVORK5CYII=
 </content></attachment><attachment>
 <filename>more.png</filename>
 <filesize>990</filesize>
-<author>XWiki.Admin</author>
-<date>1417613445000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.5</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAAYAAAAHCAYAAAArkDztAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -7922,8 +7922,8 @@ ArExugQImAHxGSCeA8QSyBIwkAzEN4A4BF3iIxDXAPF6FiTBuUBcBsTvQByQxDUgNgTiC8haAQIM
 AEOPDMQeLpxdAAAAAElFTkSuQmCC</content></attachment><attachment>
 <filename>playerexpand.png</filename>
 <filesize>1647</filesize>
-<author>XWiki.Admin</author>
-<date>1417613444000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.2</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABYAAAAaCAYAAACzdqxAAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -7956,8 +7956,8 @@ Buuzb/N5XhQBy8i/8rm4uflrLz1d3W43BQJSmb0WvcKmrvX392yXShfomF8Q3Ok0EY2S1+st4/U9
 X8zU3dVFH1ZWPHw02MUTfEO/wR7AcuK/+1/xU4ABANHYkWAPoO0EAAAAAElFTkSuQmCC</content></attachment><attachment>
 <filename>playerright.png</filename>
 <filesize>2132</filesize>
-<author>XWiki.Admin</author>
-<date>1417613444000</date>
+<author>XWiki.IonutMaxim</author>
+<date>1357927496000</date>
 <version>1.2</version>
 <comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -8772,9 +8772,14 @@ $context.unsetLinksQueryString()
         &lt;li&gt;&lt;a href="http://sankore.org/fr/enseigner-avec-le-numerique"&gt;Enseigner avec le numérique&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
       
-      &lt;p class="nav pull-right"&gt;
-        &lt;a href="$xwiki.getURL('MySankore.Profile', 'view')"&gt;&lt;span class="icon account"&gt;&amp;nbsp;&lt;/span&gt; Mon Compte&lt;/a&gt;
-      &lt;/p&gt;
+      &lt;ul class="nav pull-right"&gt;
+        &lt;li&gt;
+          &lt;a href="$xwiki.getURL('MySankore.Profile', 'view')" style="letter-spacing: normal; text-transform: none;" #if (!$isGuest) onmouseover="$(this).addClassName('hover');$(this).next().show()" onmouseout="$(this).removeClassName('hover');var hideit = function(e){if(!e.hasClassName('hover') &amp;&amp; !e.previous().hasClassName('hover')){e.hide()}}; hideit.delay(1, $(this).next())" #end&gt;&lt;span class="icon account"&gt;&amp;nbsp;&lt;/span&gt; Mon Compte&lt;/a&gt;
+          #if (!$isGuest)
+          &lt;ul class="navbar-inner nav" style="position: absolute; width: 100px; display:none; float:none; padding-left:10px; padding-right: 10px;"&gt;&lt;li&gt;&lt;a style="padding-left:0; padding-right:0; letter-spacing: normal; text-transform: none;" href="$xwiki.getURL('Main.WebHome', 'logout')" onmouseover="$(this).up(1).addClassName('hover')" onmouseout="$(this).up(1).removeClassName('hover')"&gt;Quiter la session&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;/ul&gt;
+        #end
     &lt;/div&gt;      
   &lt;/div&gt;
 &lt;/div&gt;
@@ -10771,7 +10776,7 @@ Edit Profile
 }
 
 .messagestream-tools select {
-  background: black;   
+  background: #424242;   
   background: url("$xwiki.getSkinFile('selectbg.jpg')") repeat-x center center;
   color: white;
   font-weight: bold; 
@@ -10785,8 +10790,8 @@ Edit Profile
 }
 
 .messagestream-tools select option {
-  background: black;     
-  background: url("$xwiki.getSkinFile('selectbg.jpg')") repeat-x center center;
+  background: #424242;     
+  /*background: url("$xwiki.getSkinFile('selectbg.jpg')") repeat-x center center;*/
   color: white;
   line-height: 36px;
   height: 26px;

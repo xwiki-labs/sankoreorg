@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xwikidoc>
+<web>SankoreCode</web>
+<name>MetadataMapping</name>
+<language></language>
+<defaultLanguage>fr</defaultLanguage>
+<translation>0</translation>
+<parent></parent>
+<creator>XWiki.FlaviusOlaru</creator>
+<author>XWiki.Admin</author>
+<customClass></customClass>
+<contentAuthor>XWiki.Admin</contentAuthor>
+<creationDate>1385982594000</creationDate>
+<date>1419607337000</date>
+<contentUpdateDate>1419607337000</contentUpdateDate>
+<version>1.1</version>
+<title></title>
+<template></template>
+<defaultTemplate></defaultTemplate>
+<validationScript></validationScript>
+<comment>Importé depuis un le XAR</comment>
+<minorEdit>false</minorEdit>
+<syntaxId>xwiki/2.0</syntaxId>
+<hidden>false</hidden>
+<content>Maternelle Petite Section (3-4 ans)=AssetMetadata.FRMaternelle,AssetMetadata.FR34
+Maternelle Moyenne Section (4-5 ans)=AssetMetadata.FRMaternelle,AssetMetadata.FR45
+Maternelle Grande Section (5-6 ans)=AssetMetadata.FRMaternelle,AssetMetadata.FR56
+CP (6-7 ans)=AssetMetadata.FRElementaire,AssetMetadata.FR67
+CE1 (7-8 ans)=AssetMetadata.FRElementaire,AssetMetadata.FR78
+CE2 (8-9 ans)=AssetMetadata.FRElementaire,AssetMetadata.FR89
+CM1 (9-10ans)=AssetMetadata.FRElementaire,AssetMetadata.FR910
+CM2 (10-11 ans)=AssetMetadata.FRElementaire,AssetMetadata.FR1011
+6ème (11-12 ans)=AssetMetadata.FRCollege,AssetMetadata.FR1112
+5ème (12-13 ans)=AssetMetadata.FRCollege,AssetMetadata.FR1213
+4ème (13-14 ans)=AssetMetadata.FRCollege,AssetMetadata.FR1314
+3ème (14-15 ans)=AssetMetadata.FRCollege,AssetMetadata.FR1415
+2nde dont CAP/BEP (15-16 ans)=AssetMetadata.FRLycee,AssetMetadata.FR1516
+1ère dont CAP/BEP (16-17 ans)=AssetMetadata.FRLycee,AssetMetadata.FR1617
+Terminale dont Bac Pro (17-18 ans)=AssetMetadata.FRLycee,AssetMetadata.FR1718
+Bac+2 professionnel=AssetMetadata.FRProfessionnel
+Niveau universitaire=AssetMetadata.FRUniversite
+Formation continue Professionnelle=AssetMetadata.FRFormationContinue
+Education Spécialisée=AssetMetadata.FREducationSpecialisee
+Arts Percevoir,sentir,imaginer,créer=Disciplines.Arts,Disciplines.InfantArts
+Maîtrise de la langue Découvrir l'écrit=Disciplines.LanguageArts,Disciplines.Writing
+Maîtrise de la langue S'approprier le langage=Disciplines.LanguageArts,Disciplines.Language
+Santé Agir et s'exprimer avec son corps=Disciplines.Health,Disciplines.InfantHealth
+Sciences Découvrir le monde=Disciplines.Science Disciplines.DiscoverTheWorld
+Pratiques artistiques=Disciplines.Arts,Disciplines.ArtsPractices
+Pratiques artistiques - arts visuels=Disciplines.Arts,Disciplines.ArtsArtsVisuels
+Pratiques artistiques - éducation musicale=Disciplines.Arts,Disciplines.ArtsEducationMusicale
+Histoire des arts=Disciplines.Arts,Disciplines.ArtsHistory
+Langues vivantes étrangères=Disciplines.WorldLanguages Disciplines.ModernForeignLanguages
+Langues vivantes étrangères - anglais=Disciplines.WorldLanguages Disciplines.ModernForeignLanguagesEnglish
+Langues vivantes étrangères - allemand=Disciplines.WorldLanguages Disciplines.ModernForeignLanguagesGerman
+Langues vivantes étrangères - espagnol=Disciplines.WorldLanguages Disciplines.ModernForeignLanguagesSpanish
+Langues vivantes étrangères - italien=Disciplines.WorldLanguages Disciplines.ModernForeignLanguagesItalian
+Langues vivantes étrangères - néerlandais=Disciplines.WorldLanguages Disciplines.ModernForeignLanguagesDutch
+Langues vivantes étrangères - chinois=Disciplines.WorldLanguages Disciplines.ModernForeignLanguagesChinese
+Langues vivantes étrangères - portugais=Disciplines.WorldLanguages Disciplines.ModernForeignLanguagesPortuguese
+Langues vivantes étrangères - russe=Disciplines.WorldLanguages Disciplines.ModernForeignLanguagesRussian
+Langues vivantes étrangères - arabe=Disciplines.WorldLanguages Disciplines.ModernForeignLanguagesArab
+Langues et cultures de l'Antiquité (latin,grec ancien)=Disciplines.WorldLanguages Disciplines.AncientLanguagesAndCulture
+Langue nationale français=Disciplines.LanguageArts,Disciplines.FrenchLanguage
+Langue nationale français - lecture=Disciplines.LanguageArts,Disciplines.FrenchLanguageReading
+Langue nationale français - écriture=Disciplines.LanguageArts,Disciplines.FrenchLanguageWriting
+Langue nationale français - langage oral=Disciplines.LanguageArts,Disciplines.FrenchLanguageOral
+Langue nationale français - grammaire=Disciplines.LanguageArts,Disciplines.FrenchLanguageGrammar
+Langue nationale français - orthographe=Disciplines.LanguageArts,Disciplines.FrenchLanguageSpelling
+Langue nationale français - vocabulaire=Disciplines.LanguageArts,Disciplines.FrenchLanguageVocabulary
+Mathématiques - informatique=Disciplines.Mathematics Disciplines.Informatics
+EPS (éducation physique et sportive)=Disciplines.Health,Disciplines.PhysicalEducationAndSports
+Education à la sécurité=Disciplines.Health,Disciplines.SafetyEducation
+Education à la santé=Disciplines.Health,Disciplines.HealthEducation
+SVT (sciences de la vie et de la Terre)=Disciplines.Science Disciplines.LifeAndEarthSciences
+Sciences physiques et chimiques=Disciplines.Science Disciplines.PhysicsAndChemistry
+Technologie=Disciplines.Science Disciplines.Technology
+Culture scientifique et technique=Disciplines.Science Disciplines.ScientificAndTechnologicalLiteracy
+Découverte du monde=Disciplines.Science Disciplines.WorldDiscovery
+Sciences expérimentales et technologie=Disciplines.Science Disciplines.ExperimentalScienceAndTechnology
+Instruction civique et morale=Disciplines.SocialStudies Disciplines.CivicsAndEthics
+Histoire et géographie=Disciplines.SocialStudies Disciplines.HistoryAndGeography
+TUIC=Disciplines.EducationalTechnology,
+Histoire - éducation civique=Disciplines.SocialStudies Disciplines.History
+Géographie=Disciplines.SocialStudies Disciplines.Geography
+EDD (éducation au développement durable)=Disciplines.SocialStudies Disciplines.EducationForSustainableDevelopment
+Education aux médias=Disciplines.InformationAndMediaLiteracy,Disciplines.MediaEducation
+Enseignements artistiques=Disciplines.Arts,Disciplines.ArtsEducation
+Agriculture=Disciplines.CareerAndTechnicalEducation,Disciplines.proAgriculture
+Arts=Disciplines.CareerAndTechnicalEducation,Disciplines.proArts
+Banque - Assurances - Immobilier=Disciplines.CareerAndTechnicalEducation,Disciplines.proBankInsuranceEstate
+Commerce=Disciplines.CareerAndTechnicalEducation,Disciplines.proCommerce
+Défense publique - Sécurité=Disciplines.CareerAndTechnicalEducation,Disciplines.proPublicDefenderSecurity
+Economie - Droit - Sciences politiques=Disciplines.CareerAndTechnicalEducation,Disciplines.proEconomyLawPoliticalSciences
+Electricité - Electronique=Disciplines.CareerAndTechnicalEducation,Disciplines.proElectricityElectronics
+Environnement - Energies - Aménagement - Propreté=Disciplines.CareerAndTechnicalEducation,Disciplines.proEnvironmentEnergyFacilitiesClean
+Fonction production - Transport=Disciplines.CareerAndTechnicalEducation,Disciplines.proProductionFonctionTransport
+Formation générale - Lettres et langues - Enseignement=Disciplines.CareerAndTechnicalEducation,Disciplines.proGeneralEducation
+Génie civil - Construction - Architecture=Disciplines.CareerAndTechnicalEducation,Disciplines.proCivilEngineeringConstructionArchitecture
+Gestion des entreprises=Disciplines.CareerAndTechnicalEducation,Disciplines.ProGestionEntreprises
+Hôtellerie - Restauration - Tourisme=Disciplines.CareerAndTechnicalEducation,Disciplines.proHotelsRestaurantsTourism
+Information - Communication=Disciplines.CareerAndTechnicalEducation,Disciplines.proInformationCommunication
+Informatique=Disciplines.CareerAndTechnicalEducation,Disciplines.proInformatics
+Mécanique=Disciplines.CareerAndTechnicalEducation,Disciplines.proMechanic
+Santé - Social - Sport=Disciplines.CareerAndTechnicalEducation,Disciplines.proHealthSocialSports
+Sciences=Disciplines.CareerAndTechnicalEducation,Disciplines.proScience
+Sciences humaines et sociales=Disciplines.CareerAndTechnicalEducation,Disciplines.proHumanitiesSocialSciences
+Transformation=Disciplines.CareerAndTechnicalEducation,Disciplines.proTransformation
+Histoire-géographie et éducation civique=Disciplines.SocialStudies Disciplines.HistoryGeographyAndCivics
+SES (sciences économiques et sociales)=Disciplines.SocialStudies Disciplines.SocialAndEconomicSciences
+Economie=Disciplines.SocialStudies Disciplines.Economy
+Droit=Disciplines.SocialStudies Disciplines.Law
+Philosophie=Disciplines.SocialStudies Disciplines.Philosophy
+Langues et cultures de l'Antiquité=Disciplines.WorldLanguages Disciplines.AncientLanguagesAndCulture
+Enseignements artistiques=Disciplines.Arts,Disciplines.ArtsEducation
+Arts=Disciplines.Arts
+Formation Professionnelle=Disciplines.CareerAndTechnicalEducation
+Education=Disciplines.Education
+Technologies de l'Education Disciplines.EducationalTechnology
+Santé=Disciplines.Health
+Informations et Medias=Disciplines.InformationAndMediaLiteracy
+Maîtrise de la langue=Disciplines.LanguageArts 
+Mathématiques=Disciplines.Mathematics
+Sciences=Disciplines.Science 
+Sciences sociales=Disciplines.SocialStudies
+Langues étrangères=Disciplines.WorldLanguages
+Activité : Evaluation/Travail à la maison=AssetMetadata.Activity,AssetMetadata.Assigment
+Activité : Exercice=AssetMetadata.Activity,AssetMetadata.Exercise
+Activité : Travaux Pratiques=AssetMetadata.Activity,AssetMetadata.Experiment
+Activité : Jeux=AssetMetadata.Activity,AssetMetadata.Games
+Activité : Grapheur/Tableur=AssetMetadata.Activity,AssetMetadata.Worksheet
+Activité : Collection de sujets=AssetMetadata.Activity,AssetMetadata.ProblemSet
+Activité : WebQuest=AssetMetadata.Activity,AssetMetadata.WebQuest
+Composant : Animation/Simulation=AssetMetadata.Asset,AssetMetadata.Animation
+Composant : Article=AssetMetadata.Asset,AssetMetadata.Article
+Composant : Audio=AssetMetadata.Asset,AssetMetadata.Audio
+Composant : Diagramme/illustration=AssetMetadata.Asset,AssetMetadata.Diagram
+Composant : Glossaire / Liste de vocabulaire=AssetMetadata.Asset,AssetMetadata.Glossary
+Composant : Table des Matières=AssetMetadata.Asset,AssetMetadata.Index
+Composant : Photographie=AssetMetadata.Asset,AssetMetadata.Photograph
+Composant : Référence=AssetMetadata.Asset,AssetMetadata.Reference
+Composant : Scénario=AssetMetadata.Asset,AssetMetadata.Transcript
+Composant : Etude/Données/Recherche=AssetMetadata.Asset,AssetMetadata.Research
+Composant : Graphique/Diagramme=AssetMetadata.Asset,AssetMetadata.Chart
+Composant : Modèle de Document=AssetMetadata.Asset,AssetMetadata.Template
+Composant : Video/Présentation/Diapo=AssetMetadata.Asset,AssetMetadata.Video
+Composant : Webcast/Podcast=AssetMetadata.Asset,AssetMetadata.Webcast
+Livre : Fiction=AssetMetadata.Book,AssetMetadata.Fiction
+Livre : Documentaire=AssetMetadata.Book,AssetMetadata.NonFiction
+Livre : Notes de lecture=AssetMetadata.Book,AssetMetadata.Readings
+Livre : Manuel scolaire=AssetMetadata.Book,AssetMetadata.Textbook
+Parcours : Réponse=AssetMetadata.Curriculum,AssetMetadata.Answer
+Parcours : Evaluation/Test=AssetMetadata.Curriculum,AssetMetadata.Assessment
+Parcours : Cours complet=AssetMetadata.Curriculum,AssetMetadata.FullCourse
+Parcours : Plan de cours=AssetMetadata.Curriculum,AssetMetadata.LessonPlan
+Parcours : Rubrique=AssetMetadata.Curriculum,AssetMetadata.Rubric
+Parcours : Séquence=AssetMetadata.Curriculum,AssetMetadata.Sequence
+Parcours : Standard ou programme=AssetMetadata.Curriculum,AssetMetadata.Standards
+Parcours : Polycopié / notes de cours=AssetMetadata.Curriculum,AssetMetadata.StudyGuide
+Parcours : Programme=AssetMetadata.Curriculum,AssetMetadata.Syllabus
+Parcours : Tutoriel=AssetMetadata.Curriculum,AssetMetadata.Tutorial
+Parcours : Unité pédagogique=AssetMetadata.Curriculum,AssetMetadata.Unit
+Parcours : Cahier d'activité=AssetMetadata.Curriculum,AssetMetadata.Workbook
+Autres=AssetMetadata.Other
+0=Licences.CreativeCommonsAttributionSharealike
+1=CurrikiCode.AssetLicenseClass_licenseType_Licences.CurrikiLicense
+2=CurrikiCode.AssetLicenseClass_licenseType_Licences.CreativeCommonsAttributionNoDerivatives
+3=CurrikiCode.AssetLicenseClass_licenseType_Licences.CreativeCommonsAttributionNon-Commercial
+4=CurrikiCode.AssetLicenseClass_licenseType_Licences.CreativeCommonsAttributionNoDerivatives
+5=CurrikiCode.AssetLicenseClass_licenseType_Licences.CreativeCommonsAttributionNon-CommercialShareAlike
+6=CurrikiCode.AssetLicenseClass_licenseType_Licences.PublicDomain
+7</content></xwikidoc>

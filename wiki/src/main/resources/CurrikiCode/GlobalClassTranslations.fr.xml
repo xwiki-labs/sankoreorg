@@ -6,19 +6,19 @@
 <defaultLanguage>en</defaultLanguage>
 <translation>1</translation>
 <parent></parent>
-<creator>XWiki.Admin</creator>
+<creator>XWiki.FlaviusOlaru</creator>
 <author>XWiki.Admin</author>
 <customClass></customClass>
 <contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1349087524000</creationDate>
-<date>1349087524000</date>
-<contentUpdateDate>1349087524000</contentUpdateDate>
-<version>1.1</version>
+<creationDate>1330973829000</creationDate>
+<date>1419607081000</date>
+<contentUpdateDate>1419607081000</contentUpdateDate>
+<version>2.1</version>
 <title></title>
 <template></template>
 <defaultTemplate></defaultTemplate>
 <validationScript></validationScript>
-<comment></comment>
+<comment>Importé depuis un le XAR</comment>
 <minorEdit>false</minorEdit>
 <syntaxId>xwiki/2.0</syntaxId>
 <hidden>false</hidden>
@@ -36,6 +36,7 @@ CurrikiCode.AssetClass_instructional_component_UNSPECIFIED=Type de ressource: to
 CurrikiCode.AssetClass_instructional_component_AssetMetadata.Activity=Activité
 CurrikiCode.AssetClass_instructional_component_AssetMetadata.Animation=Animation/Simulation
 CurrikiCode.AssetClass_instructional_component_AssetMetadata.Answer=Réponse
+CurrikiCode.AssetClass_instructional_component_AssetMetadata.Application=Application
 CurrikiCode.AssetClass_instructional_component_AssetMetadata.Article=Article
 CurrikiCode.AssetClass_instructional_component_AssetMetadata.Assessment=Evaluation/Test
 CurrikiCode.AssetClass_instructional_component_AssetMetadata.Asset=Composant
@@ -52,6 +53,7 @@ CurrikiCode.AssetClass_instructional_component_AssetMetadata.FullCourse=Cours co
 CurrikiCode.AssetClass_instructional_component_AssetMetadata.Games=Jeux
 CurrikiCode.AssetClass_instructional_component_AssetMetadata.Glossary=Glossaire / Liste de vocabulaire
 CurrikiCode.AssetClass_instructional_component_AssetMetadata.Index=Table des Matières
+CurrikiCode.AssetClass_instructional_component_AssetMetadata.Interactivite=Interactivité
 CurrikiCode.AssetClass_instructional_component_AssetMetadata.LessonPlan=Plan de cours
 CurrikiCode.AssetClass_instructional_component_AssetMetadata.NonFiction=Documentaire
 CurrikiCode.AssetClass_instructional_component_AssetMetadata.Other=Autres

@@ -6,19 +6,19 @@
 <defaultLanguage>en</defaultLanguage>
 <translation>1</translation>
 <parent></parent>
-<creator>XWiki.Admin</creator>
+<creator>XWiki.ShermanTank</creator>
 <author>XWiki.Admin</author>
 <customClass></customClass>
 <contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1404743061000</creationDate>
-<date>1404743061000</date>
-<contentUpdateDate>1404743061000</contentUpdateDate>
-<version>1.1</version>
+<creationDate>1317810044000</creationDate>
+<date>1419607077000</date>
+<contentUpdateDate>1419607077000</contentUpdateDate>
+<version>2.1</version>
 <title>Edit And View Resources Translations</title>
 <template></template>
 <defaultTemplate></defaultTemplate>
 <validationScript></validationScript>
-<comment></comment>
+<comment>Importé depuis un le XAR</comment>
 <minorEdit>false</minorEdit>
 <syntaxId>xwiki/1.0</syntaxId>
 <hidden>false</hidden>

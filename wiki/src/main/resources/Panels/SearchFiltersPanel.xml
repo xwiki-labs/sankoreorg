@@ -3,24 +3,24 @@
 <web>Panels</web>
 <name>SearchFiltersPanel</name>
 <language></language>
-<defaultLanguage>en</defaultLanguage>
+<defaultLanguage>fr</defaultLanguage>
 <translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
+<parent>Panels.WebHome</parent>
+<creator>XWiki.FlaviusOlaru</creator>
 <author>XWiki.Admin</author>
 <customClass></customClass>
 <contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1418902248000</creationDate>
-<date>1418903493000</date>
-<contentUpdateDate>1418903493000</contentUpdateDate>
-<version>1.5</version>
+<creationDate>1344505151000</creationDate>
+<date>1418982502000</date>
+<contentUpdateDate>1418982502000</contentUpdateDate>
+<version>2.1</version>
 <title></title>
 <template></template>
 <defaultTemplate></defaultTemplate>
 <validationScript></validationScript>
-<comment></comment>
-<minorEdit>true</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
+<comment>Importé depuis un le XAR</comment>
+<minorEdit>false</minorEdit>
+<syntaxId>xwiki/1.0</syntaxId>
 <hidden>false</hidden>
 <object>
 <class>
@@ -121,27 +121,23 @@
 <name>Panels.SearchFiltersPanel</name>
 <number>0</number>
 <className>Panels.PanelClass</className>
-<guid>8e5dedba-6f74-498d-92c4-93d19c06ca71</guid>
+<guid>dd9d6161-0a6b-4cc4-97f0-e3f0470566dd</guid>
 <property>
 <category>Information</category>
 </property>
 <property>
-<content>{{html}}
-&lt;div class="panel expanded"&gt;
-&lt;h5 class="xwikipaneltitle" onclick="togglePanelVisibility(this.parentNode);"&gt;Recherche avancee&lt;/h5&gt;&lt;div class="xwikipanelcontents"&gt;
+<content>#panelheader('Recherche avancee')
 &lt;div id="search-filters"&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-{{/html}}</content>
+#panelfooter()</content>
 </property>
 <property>
-<description></description>
+<description>Panel Description</description>
 </property>
 <property>
-<name></name>
+<name>SearchFiltersPanel</name>
 </property>
 <property>
 <type>view</type>
 </property>
 </object>
-<content></content></xwikidoc>
+<content>#includeForm("Panels.PanelSheet")</content></xwikidoc>

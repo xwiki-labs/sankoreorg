@@ -6,19 +6,19 @@
 <defaultLanguage>en</defaultLanguage>
 <translation>0</translation>
 <parent>CurrikiCode.DisciplineClass</parent>
-<creator>XWiki.Admin</creator>
+<creator>XWiki.FlaviusOlaru</creator>
 <author>XWiki.Admin</author>
 <customClass></customClass>
 <contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1339495332000</creationDate>
-<date>1339495332000</date>
-<contentUpdateDate>1339495332000</contentUpdateDate>
-<version>1.1</version>
+<creationDate>1329837142000</creationDate>
+<date>1419607085000</date>
+<contentUpdateDate>1419607085000</contentUpdateDate>
+<version>2.1</version>
 <title>DisciplineClass Sheet</title>
 <template></template>
 <defaultTemplate></defaultTemplate>
 <validationScript></validationScript>
-<comment></comment>
+<comment>Importé depuis un le XAR</comment>
 <minorEdit>false</minorEdit>
 <syntaxId>xwiki/2.0</syntaxId>
 <hidden>false</hidden>

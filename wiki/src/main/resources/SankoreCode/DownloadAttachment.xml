@@ -6,53 +6,23 @@
 <defaultLanguage>fr</defaultLanguage>
 <translation>0</translation>
 <parent></parent>
-<creator>XWiki.Admin</creator>
+<creator>XWiki.achelariu</creator>
 <author>XWiki.Admin</author>
 <customClass></customClass>
 <contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1386776005000</creationDate>
-<date>1386776005000</date>
-<contentUpdateDate>1386776005000</contentUpdateDate>
-<version>1.1</version>
+<creationDate>1385559825000</creationDate>
+<date>1419607336000</date>
+<contentUpdateDate>1419607336000</contentUpdateDate>
+<version>2.1</version>
 <title></title>
 <template></template>
 <defaultTemplate></defaultTemplate>
 <validationScript></validationScript>
-<comment></comment>
+<comment>Importé depuis un le XAR</comment>
 <minorEdit>false</minorEdit>
 <syntaxId>xwiki/2.0</syntaxId>
 <hidden>false</hidden>
 <object>
-<class>
-<name>XWiki.RequiredRightClass</name>
-<customClass></customClass>
-<customMapping></customMapping>
-<defaultViewSheet></defaultViewSheet>
-<defaultEditSheet></defaultEditSheet>
-<defaultWeb></defaultWeb>
-<nameField></nameField>
-<validationScript></validationScript>
-<level>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>0</multiSelect>
-<name>level</name>
-<number>1</number>
-<picker>0</picker>
-<prettyName>level</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<separators> ,|</separators>
-<size>1</size>
-<sort>none</sort>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<values>edit|programming</values>
-<classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
-</level>
-</class>
 <name>SankoreCode.DownloadAttachment</name>
 <number>0</number>
 <className>XWiki.RequiredRightClass</className>
@@ -112,7 +82,12 @@ class Downloader
     private void flushOutput(InputStream inputStream, String fileName, String extension, String contentType)
     {
         String fileNameEscaped = Pattern.compile("\\p{Punct}").matcher(fileName).replaceAll("");
-        fileName = URLEncoder.encode(fileNameEscaped, "UTF-8");
+        //fileName = URLEncoder.encode(fileNameEscaped, "UTF-8");
+        //fileName = this.context.getWiki().clearName(fileNameEscaped, true, false, this.context);
+        fileNameEscaped = fileNameEscaped.replaceAll("[_':,;\\\\/]", " ");
+        fileNameEscaped = fileNameEscaped.replaceAll("\\s+", "_");
+        fileNameEscaped = fileNameEscaped.replaceAll("[\\(\\)]", " ");
+        fileName  = fileNameEscaped.replaceAll("[\\.]", "");
         if(extension.startsWith(".")) {
             extension = extension.substring(1);
         }
@@ -123,6 +98,10 @@ class Downloader
     }
 }
 
-def downloader = new Downloader(xcontext);
-downloader.downloadAttachment(request.get('document'), request.get('fileExtension'));
+def document = request.get('document')
+def extension = request.get('fileExtension')
+if (xwiki.hasAccessLevel('view', xcontext.user, "$document")) {
+  def downloader = new Downloader(xcontext);
+  downloader.downloadAttachment(document, extension);
+}
 {{/groovy}}</content></xwikidoc>
