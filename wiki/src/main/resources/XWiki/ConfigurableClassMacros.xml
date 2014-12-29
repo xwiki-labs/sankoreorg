@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <xwikidoc>
-  <web>XWiki</web>
-  <name>ConfigurableClassMacros</name>
-  <language/>
-  <defaultLanguage/>
-  <translation>0</translation>
-  <parent/>
-  <creator>xwiki:XWiki.Admin</creator>
-  <author>xwiki:XWiki.Admin</author>
-  <customClass/>
-  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
-  <creationDate>1418378561000</creationDate>
-  <date>1418380342000</date>
-  <contentUpdateDate>1418380342000</contentUpdateDate>
-  <version>1.1</version>
-  <title/>
-  <template/>
-  <defaultTemplate/>
-  <validationScript/>
-  <comment/>
-  <minorEdit>false</minorEdit>
-  <syntaxId>xwiki/2.0</syntaxId>
-  <hidden>false</hidden>
-  <content>{{velocity output="false"}}
+<web>XWiki</web>
+<name>ConfigurableClassMacros</name>
+<language></language>
+<defaultLanguage>en</defaultLanguage>
+<translation>0</translation>
+<parent>XWiki.ConfigurableClass</parent>
+<creator>XWiki.Admin</creator>
+<author>XWiki.Admin</author>
+<customClass></customClass>
+<contentAuthor>XWiki.Admin</contentAuthor>
+<creationDate>1265771770000</creationDate>
+<date>1419238944000</date>
+<contentUpdateDate>1419238944000</contentUpdateDate>
+<version>3.1</version>
+<title>$msg.get("xe.admin.configurable.macros.title")</title>
+<template></template>
+<defaultTemplate></defaultTemplate>
+<validationScript></validationScript>
+<comment>Imported from XAR</comment>
+<minorEdit>false</minorEdit>
+<syntaxId>xwiki/2.0</syntaxId>
+<hidden>false</hidden>
+<content>{{velocity output="false"}}
 ## Constants:
 #set($redirectParameter = 'xredirect')
 #set($nameOfThisDocument = 'XWiki.ConfigurableClass')
@@ -160,7 +159,7 @@
   ##
   #set ($query = "editor=$escapetool.url(${editor})")
   #if ($editor != 'globaladmin')
-    #set ($query = $query + "&amp;space=$escapetool.url(${currentSpace})")
+    #set ($query = $query + "&amp;amp;space=$escapetool.url(${currentSpace})")
   #end
   #foreach ($appName in $outputList)
     ##
@@ -185,7 +184,7 @@
       #else
         ##
         ## If there is no section for this configurable, then we will have to add one.
-        #set ($appSection = {'id' : $displayInSection, 'name' : $msg.get("admin.${displayInSection.toLowerCase()}"), 'url': $xwiki.getURL($currentDoc, $adminAction, "${query}&amp;section=$escapetool.url(${displayInSection})"), 'configurable' : true})
+        #set ($appSection = {'id' : $displayInSection, 'name' : $msg.get("admin.${displayInSection.toLowerCase()}"), 'url': $xwiki.getURL($currentDoc, $adminAction, "${query}&amp;amp;section=$escapetool.url(${displayInSection})"), 'configurable' : true})
         #if ($app.getValue('configureGlobally', $configurableObject) != 1)
           #set ($appSection.perSpace = true)
         #end
@@ -261,16 +260,15 @@
         &lt;/label&gt;
         #if($linkPrefix != '')
           #set($linkScript = "$linkPrefix$propName")
-&lt;a href="$escapetool.xml("#evaluate($linkScript)")" class="xHelp" title="$msg.get('admin.documentation')"&gt;$msg.get('admin.documentation')&lt;/a&gt;
+          &lt;a href="$escapetool.xml("#evaluate($linkScript)")" class="xHelp" title="$msg.get('admin.documentation')"&gt;$msg.get('admin.documentation')&lt;/a&gt;
         #end
         &lt;/dt&gt;
         #if ($out.indexOf('type=''checkbox''') == -1)
-&lt;dd&gt;$out&lt;/dd&gt;
+          &lt;dd&gt;$out&lt;/dd&gt;
         #end
       #end## If property is in propertiesToShow
     #end## Foreach property in this class
     &lt;/dl&gt;
   #end
 #end## define $formHtml
-{{/velocity}}</content>
-</xwikidoc>
+{{/velocity}}</content></xwikidoc>

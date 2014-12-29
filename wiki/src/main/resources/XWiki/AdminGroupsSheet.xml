@@ -10,15 +10,15 @@
 <author>XWiki.Admin</author>
 <customClass></customClass>
 <contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1314634943000</creationDate>
-<date>1314634943000</date>
-<contentUpdateDate>1314634943000</contentUpdateDate>
-<version>1.1</version>
+<creationDate>1211793631000</creationDate>
+<date>1419239574000</date>
+<contentUpdateDate>1419239574000</contentUpdateDate>
+<version>2.1</version>
 <title>AdminGroupsSheet</title>
 <template></template>
 <defaultTemplate></defaultTemplate>
 <validationScript></validationScript>
-<comment></comment>
+<comment>Imported from XAR</comment>
 <minorEdit>false</minorEdit>
 <syntaxId>xwiki/2.0</syntaxId>
 <hidden>false</hidden>
