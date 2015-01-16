@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Groups</web>
-<name>MailTemplateCreateMessage</name>
-<language>fr</language>
-<defaultLanguage>en</defaultLanguage>
-<translation>1</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1342528182000</creationDate>
-<date>1342528182000</date>
-<contentUpdateDate>1342528182000</contentUpdateDate>
-<version>1.1</version>
-<title>Notification pour $groupTitle -- $msgdoc.get('title')</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden>
-<content>{{velocity filter="none"}}
+  <web>Groups</web>
+  <name>MailTemplateCreateMessage</name>
+  <language>fr</language>
+  <defaultLanguage>en</defaultLanguage>
+  <translation>1</translation>
+  <parent/>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1342528182000</creationDate>
+  <date>1342528182000</date>
+  <contentUpdateDate>1342528182000</contentUpdateDate>
+  <version>1.1</version>
+  <title>Notification pour $groupTitle -- $msgdoc.get('title')</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <content>{{velocity filter="none"}}
 {{html clean="false" wiki="true"}}
 #**
   * Message notification mail template on create message
@@ -46,4 +47,5 @@ $xwiki.getDocument("${groupName}.Members").getExternalURL("view")&lt;br/&gt;
 &lt;br/&gt;
 l'équipe Planète Sankoré
 {{/html}}
-{{/velocity}}</content></xwikidoc>
+{{/velocity}}</content>
+</xwikidoc>

@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Main</web>
-<name>About</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent>Main.WebHome</parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1317809811000</creationDate>
-<date>1317809811000</date>
-<contentUpdateDate>1317809811000</contentUpdateDate>
-<version>1.1</version>
-<title>About Curriki</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<content>1 About Curriki
+  <web>Main</web>
+  <name>About</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>Main.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1317809811000</creationDate>
+  <date>1317809811000</date>
+  <contentUpdateDate>1317809811000</contentUpdateDate>
+  <version>1.1</version>
+  <title>About Curriki</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <content>1 About Curriki
 
 #titlebar("Curriki is Your World of Educational Resources and Curriculum" "Join now" "Main.JoinSankore" "purple")
 Curriki is more than your average Website; we're a community of educators, learners and committed education experts who are working together to create quality materials that will benefit teachers and students around the world.
@@ -45,4 +46,5 @@ These early members and supporters are educators and organizations that believe 
 #subtitlebar("See What's Here" "" "" "purple")
 You can see the resources and courses that are already here by clicking the Search button at the top of the screen. Want to be a part of our community? [Join us now&gt;Main.JoinSankore].
 
-</content></xwikidoc>
+</content>
+</xwikidoc>

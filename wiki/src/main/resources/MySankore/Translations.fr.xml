@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>MySankore</web>
-<name>Translations</name>
-<language>fr</language>
-<defaultLanguage></defaultLanguage>
-<translation>1</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1391527344000</creationDate>
-<date>1391527344000</date>
-<contentUpdateDate>1391527344000</contentUpdateDate>
-<version>1.1</version>
-<title></title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<content>#
+  <web>MySankore</web>
+  <name>Translations</name>
+  <language>fr</language>
+  <defaultLanguage>en</defaultLanguage>
+  <translation>1</translation>
+  <parent/>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1391527344000</creationDate>
+  <date>1391527344000</date>
+  <contentUpdateDate>1391527344000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <content>#
 
 mycurriki.datetimeFormat=dd-MMM-yyyy - hh:mm a z
 mycurriki.dateFormat=dd-MMM-yyyy
@@ -212,4 +213,5 @@ sankore.registration.email.user=Utilisateur Sankoré
 ##Rating avis
 rve.title.member.rating.avis=avis
 
-#&lt;/pre&gt;</content></xwikidoc>
+#&lt;/pre&gt;</content>
+</xwikidoc>

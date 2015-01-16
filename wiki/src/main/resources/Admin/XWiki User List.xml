@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Admin</web>
-<name>XWiki User List</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent>XWiki.XWikiUsers</parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1339056906000</creationDate>
-<date>1339056906000</date>
-<contentUpdateDate>1339056906000</contentUpdateDate>
-<version>1.1</version>
-<title>XWiki User List</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<content>1 Users
+  <web>Admin</web>
+  <name>XWiki User List</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>XWiki.XWikiUsers</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1339056906000</creationDate>
+  <date>1339056906000</date>
+  <contentUpdateDate>1339056906000</contentUpdateDate>
+  <version>1.1</version>
+  <title>XWiki User List</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <content>1 Users
 
    * [XWiki.RegisterNewUser]
 
@@ -43,4 +44,5 @@ Photo | First Name | Last Name | eMail | View Profile
 
    * [XWiki.XWikiUserTemplate]
    * [XWiki.XWikiUserSheet]
-#end</content></xwikidoc>
+#end</content>
+</xwikidoc>

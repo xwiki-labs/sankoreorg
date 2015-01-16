@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Groups</web>
-<name>WebHome</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1316003112000</creationDate>
-<date>1316003112000</date>
-<contentUpdateDate>1316003112000</contentUpdateDate>
-<version>1.1</version>
-<title>Groups</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden><attachment>
-<filename>default_logo.gif</filename>
-<filesize>2280</filesize>
-<author>XWiki.cristi</author>
-<date>1203109696000</date>
-<version>1.2</version>
-<comment></comment><content>R0lGODlhQQAtAPcAAGRmmP///9jZ5Xd1j8/P3+Li7Ozs8vX1+YuMsp6fv6ipxbKzzG5wnnd5pYGD
+  <web>Groups</web>
+  <name>WebHome</name>
+  <language/>
+  <defaultLanguage>en</defaultLanguage>
+  <translation>0</translation>
+  <parent/>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1316003112000</creationDate>
+  <date>1316003112000</date>
+  <contentUpdateDate>1316003112000</contentUpdateDate>
+  <version>1.1</version>
+  <title>Groups</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <attachment>
+    <filename>default_logo.gif</filename>
+    <filesize>2280</filesize>
+    <author>XWiki.cristi</author>
+    <date>1203109696000</date>
+    <version>1.2</version>
+    <comment/>
+    <content>R0lGODlhQQAtAPcAAGRmmP///9jZ5Xd1j8/P3+Li7Ozs8vX1+YuMsp6fv6ipxbKzzG5wnnd5pYGD
 q5SWuLu80sXG2Pf5Tvf6Zvj2Q/f2Q/f2RPf2Rvf1R/f2SPf1SPf4Sff4VdPSWPj3fL28ZfjyQffy
 QffxQff0QvfzQvjxQ/fyQ/fzRfjyRvj0SvjzS/jzTfjzVvj1W/j0avj0bNPRXPj1dfjuP/jtP/nx
 QfjuQPjtQvjuQ/jwRPjvRPjxRvjxSvjwUfjvV/jyYfjwY9POW9PMYPn0hPjqPfjoPfjrPvjsQPjr
@@ -67,13 +70,16 @@ pBxiCAWfosGKUVZANLXoGgIawLUGoFF0BBmCGLKRJRxVgAi7aMUvlHZHPGrQkHiEAAAYAE4RijF/
 SFoFr7g+gC7AfmIEwPkasE90/jCQzESaRMZGDRkMISxc8oVEA8AACBCRd+8rYvwoyNKODjQAvSte
 0iYCDkVQIBjMuFEylpE0BwSAAAiYnRcZYIACMOB8CnjAAXC3PwSczwE25BpF9ASfoB5DGkpDwPDE
 CQFxJm93C+hdBATIvN7t7nZes4g2OBKda/RydChpRiio0IG7QlMlH/Cr5Hoi2MhZpbBzM0dAAAA7
-</content></attachment><attachment>
-<filename>default_logo.png</filename>
-<filesize>9630</filesize>
-<author>XWiki.cristi</author>
-<date>1203109696000</date>
-<version>1.2</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAG4AAABFCAIAAAAkUkRZAAAgAElEQVR4nO286ZMlx3En+HP3iMjM
+</content>
+  </attachment>
+  <attachment>
+    <filename>default_logo.png</filename>
+    <filesize>9630</filesize>
+    <author>XWiki.cristi</author>
+    <date>1203109696000</date>
+    <version>1.2</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAG4AAABFCAIAAAAkUkRZAAAgAElEQVR4nO286ZMlx3En+HP3iMjM
 d9Xd3dUXGg2QuAkCBAHwAAFSMlGa0bFfdtfGZPu/aOdPmE9ra7trMhutyWZWozlEaXSSBAkSxMED
 B3E2gD7QZ1V1Vb0rj4hw3w+vGsfOjDQmdDdnzcY/vJf1Ki0j85ceEe7+c3ey3AIA4b/LZxRSy7dr
 LF2MCNiNA/xXH/NtusfPIE5v311+Fs3//8GscR+9fbZbOc5NgeKW3uFnFgeAb8dL1886wY3+G9dN
@@ -241,10 +247,12 @@ Ei0CzgbOqo68M2GDZSQDGCTKSEALREEiJphBMxQH89dYwQYCSJkAVVKQEcijoNvT6+e/ILcJStNs
 lhcFTHbAFxGZsAlMAGRqlBY9qvKiFolvuPb0yY4C5s0KWLFQ00/W24jg1ho7/5Dcnu5XRMaktGD4
 jLNBiQFSQgaRgQgdUSIDgRfnAw5GBIYu8kFnoAzKdNDaTRiLKP7C5cevvF3obZsRfINyyovSM9hi
 rmccBIuJrASYjAGGOgLRQXXjjVvliIOCY4AyIRspKIESQED/Nj7Of0ZumzGUP82JGhGAbAddFvXg
-ByzaVDHshsF/cIGPmaWDYB5FUGccgQRkgATLC3bhVyX/L0sozAQeZGE4AAAAAElFTkSuQmCC</content></attachment>
-<content>#**
+ByzaVDHshsF/cIGPmaWDYB5FUGccgQRkgATLC3bhVyX/L0sozAQeZGE4AAAAAElFTkSuQmCC</content>
+  </attachment>
+  <content>#**
  * TODO DELETE 
  * Use directly Create New Group page 
  * @refactored ludovic 
  *#
-#includeInContext("CreateNewGroup")</content></xwikidoc>
+#includeInContext("CreateNewGroup")</content>
+</xwikidoc>

@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Search</web>
-<name>Translations</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1339025780000</creationDate>
-<date>1339025780000</date>
-<contentUpdateDate>1339025780000</contentUpdateDate>
-<version>1.1</version>
-<title></title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<content>&lt;pre&gt;
+  <web>Search</web>
+  <name>Translations</name>
+  <language/>
+  <defaultLanguage>en</defaultLanguage>
+  <translation>0</translation>
+  <parent/>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1339025780000</creationDate>
+  <date>1339025780000</date>
+  <contentUpdateDate>1339025780000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <content>&lt;pre&gt;
 ## I am making a global assumption that I only need to include strings that are not already covered in classes. To see the lookup strings for the classes, go here. XWiki/GlobalClassTranslation
 
 ## If a string has the word "placeholder" after the "=" sign, it means text is coming. If it is blank after the "=" sign, that means the string can be ignored until further notice.
@@ -236,4 +237,5 @@ search.statusbar.text.resource=&lt;img src="/xwiki/bin/download/XWiki/Skin/green
 
 search.combo-system.label=Educational system
 search.combo-level.label=Educational level
-search.combo-subject.label=Subject</content></xwikidoc>
+search.combo-subject.label=Subject</content>
+</xwikidoc>

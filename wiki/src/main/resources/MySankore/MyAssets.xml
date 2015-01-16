@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>MySankore</web>
-<name>MyAssets</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1317813223000</creationDate>
-<date>1317813223000</date>
-<contentUpdateDate>1317813223000</contentUpdateDate>
-<version>1.1</version>
-<title></title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<content>1 My Assets
+  <web>MySankore</web>
+  <name>MyAssets</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent/>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1317813223000</creationDate>
+  <date>1317813223000</date>
+  <contentUpdateDate>1317813223000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <content>1 My Assets
 
 #if($request.user)
 #set($user = $request.user)
@@ -61,4 +62,5 @@
 #set($itemDoc = $xwiki.getDocument($item))
 * [$itemDoc.getObject("XWiki.AssetClass").title&gt;$item] (&lt;a href="$xwiki.getURL($item,"edit", "editor=object")"&gt;edit as object&lt;/a&gt;)
 #end
-</content></xwikidoc>
+</content>
+</xwikidoc>

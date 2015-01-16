@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>CreateResources</web>
-<name>NortelLearniTLessonPlan</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent>Main.AboutContributing</parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1312384921000</creationDate>
-<date>1312384921000</date>
-<contentUpdateDate>1312384921000</contentUpdateDate>
-<version>1.1</version>
-<title></title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden>
-<content>{{velocity}}
+  <web>CreateResources</web>
+  <name>NortelLearniTLessonPlan</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>Main.AboutContributing</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1312384921000</creationDate>
+  <date>1312384921000</date>
+  <contentUpdateDate>1312384921000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <content>{{velocity}}
 ## http://next.dev.curriki.org/xwiki/bin/edit/CreateResources/Nortel6ELessonPlan
 ## by Niels P. Mayer ( http://nielsmayer.com )
 ## modified from http://next.dev.curriki.org/xwiki/bin/edit/CreateResources/CurrikiStandardLessonPlan
@@ -800,4 +801,5 @@ function setAttachmentsIframeSize() {
 ## } -- else, aka "$!newAsset"!="" 
 #end 
 ## } -- $context.user=="XWiki.XWikiGuest"
-{{/velocity}}</content></xwikidoc>
+{{/velocity}}</content>
+</xwikidoc>

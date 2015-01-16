@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Panels</web>
-<name>PanelWizard</name>
-<language></language>
-<defaultLanguage></defaultLanguage>
-<translation>0</translation>
-<parent>Panels.WebHome</parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1157368156000</creationDate>
-<date>1419240039000</date>
-<contentUpdateDate>1419240039000</contentUpdateDate>
-<version>1.1</version>
-<title>$msg.get("panelwizard.panelwizard")</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment>Imported from XAR</comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden><attachment>
-<filename>icon.png</filename>
-<filesize>11538</filesize>
-<author>xwiki:XWiki.Admin</author>
-<date>1284976973000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAH0AAABUCAYAAACvIzjbAAAABmJLR0QA/wD/AP+gvaeTAAAsx0lE
+  <web>Panels</web>
+  <name>PanelWizard</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>Panels.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1157368156000</creationDate>
+  <date>1419240039000</date>
+  <contentUpdateDate>1419240039000</contentUpdateDate>
+  <version>1.1</version>
+  <title>$msg.get("panelwizard.panelwizard")</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <attachment>
+    <filename>icon.png</filename>
+    <filesize>11538</filesize>
+    <author>xwiki:XWiki.Admin</author>
+    <date>1284976973000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAH0AAABUCAYAAACvIzjbAAAABmJLR0QA/wD/AP+gvaeTAAAsx0lE
 QVR4XuyYu0trWRTG1+SpJifnkWSiXvGCWIiWgiBaiDKNMiI+SivFxtLCQgsFOxGsxH/AXvAxYqEo
 CBYqgqiFimKjDpjrA2N8JfOtxd0ShzBq7jCjM+eDxT575+x9kvz2t846x5VMJun/JVsu+nCyZUO3
 lY+IIuIfFLqtn6C/+jil1Zqbm/3V1dVmbm6uFY1GC3TI6/WaT09PwUQiYXk8Hh2fNaFPNTU1zCrJ
@@ -229,88 +232,89 @@ wlyzyqnDURvFr9M13FsaB0EbsC9BiOIbKgVIKQtun5DneQFbJb8XvrPC/l0KBmqLSBL0oGSH21dI
 iiuZ/UXBEPtopduk4zKadOpMUKdNBv4+Ccv91YPYubRMvUGjt025VUczXXGz/JhrZ3l4Bx2uE4YW
 ywVtxYF9bEZ60RoQOOLmCpKYaAeccIv0tCkbNGU97uzRQh4nMNwR/AiTvdrg3JDMSMx5DOk8oT4R
 XVq9K2VEJiSMaOtaeISGyPbWWy9oz4jXRgORpHPiOcFunz+jeccQEWSHsYHmAsS/vXPiV5eQDfpi
-7bDBE12Z5nHv0YT2AAAAAElFTkSuQmCC</content></attachment>
-<object>
-<class>
-<name>XWiki.JavaScriptExtension</name>
-<customClass></customClass>
-<customMapping></customMapping>
-<defaultViewSheet></defaultViewSheet>
-<defaultEditSheet></defaultEditSheet>
-<defaultWeb></defaultWeb>
-<nameField></nameField>
-<validationScript></validationScript>
-<cache>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>0</multiSelect>
-<name>cache</name>
-<number>5</number>
-<prettyName>Caching policy</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<separators> ,|</separators>
-<size>1</size>
-<unmodifiable>0</unmodifiable>
-<values>long|short|default|forbid</values>
-<classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
-</cache>
-<code>
-<disabled>0</disabled>
-<name>code</name>
-<number>2</number>
-<prettyName>Code</prettyName>
-<rows>20</rows>
-<size>50</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</code>
-<name>
-<disabled>0</disabled>
-<name>name</name>
-<number>1</number>
-<prettyName>Name</prettyName>
-<size>30</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
-</name>
-<parse>
-<disabled>0</disabled>
-<displayFormType>select</displayFormType>
-<displayType>yesno</displayType>
-<name>parse</name>
-<number>4</number>
-<prettyName>Parse content</prettyName>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
-</parse>
-<use>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>0</multiSelect>
-<name>use</name>
-<number>3</number>
-<prettyName>Use this extension</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<separators> ,|</separators>
-<size>1</size>
-<unmodifiable>0</unmodifiable>
-<values>currentPage=Always on this page|onDemand=On demand|always=Always on this wiki</values>
-<classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
-</use>
-</class>
-<name>Panels.PanelWizard</name>
-<number>0</number>
-<className>XWiki.JavaScriptExtension</className>
-<guid>f4e922fd-a0e0-4630-8df4-425f89637a09</guid>
-<property>
-<cache>long</cache>
-</property>
-<property>
-<code>document.observe('xwiki:dom:loaded', (function() {
+7bDBE12Z5nHv0YT2AAAAAElFTkSuQmCC</content>
+  </attachment>
+  <object>
+    <class>
+      <name>XWiki.JavaScriptExtension</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <cache>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>cache</name>
+        <number>5</number>
+        <prettyName>Caching policy</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>long|short|default|forbid</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </cache>
+      <code>
+        <disabled>0</disabled>
+        <name>code</name>
+        <number>2</number>
+        <prettyName>Code</prettyName>
+        <rows>20</rows>
+        <size>50</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </code>
+      <name>
+        <disabled>0</disabled>
+        <name>name</name>
+        <number>1</number>
+        <prettyName>Name</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </name>
+      <parse>
+        <disabled>0</disabled>
+        <displayFormType>select</displayFormType>
+        <displayType>yesno</displayType>
+        <name>parse</name>
+        <number>4</number>
+        <prettyName>Parse content</prettyName>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
+      </parse>
+      <use>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>use</name>
+        <number>3</number>
+        <prettyName>Use this extension</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>currentPage=Always on this page|onDemand=On demand|always=Always on this wiki</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </use>
+    </class>
+    <name>Panels.PanelWizard</name>
+    <number>0</number>
+    <className>XWiki.JavaScriptExtension</className>
+    <guid>f4e922fd-a0e0-4630-8df4-425f89637a09</guid>
+    <property>
+      <cache>long</cache>
+    </property>
+    <property>
+      <code>document.observe('xwiki:dom:loaded', (function() {
   var _showTooltipOnHover = function(event) {
     var panel = event.element();
     if (!panel.hasClassName('panelcontainer')) {
@@ -360,18 +364,18 @@ XVq9K2VEJiSMaOtaeISGyPbWWy9oz4jXRgORpHPiOcFunz+jeccQEWSHsYHmAsS/vXPiV5eQDfpi
     revert();
   });
 }));</code>
-</property>
-<property>
-<name>Wizard listeners</name>
-</property>
-<property>
-<parse>0</parse>
-</property>
-<property>
-<use>onDemand</use>
-</property>
-</object>
-<content>{pre}
+    </property>
+    <property>
+      <name>Wizard listeners</name>
+    </property>
+    <property>
+      <parse>0</parse>
+    </property>
+    <property>
+      <use>onDemand</use>
+    </property>
+  </object>
+  <content>{pre}
 ##
 ## Redirect to force right and left panels layout
 ##
@@ -611,4 +615,5 @@ XVq9K2VEJiSMaOtaeISGyPbWWy9oz4jXRgORpHPiOcFunz+jeccQEWSHsYHmAsS/vXPiV5eQDfpi
   #xwikimessageboxend()
 #end
 #end ## redirect
-{/pre}</content></xwikidoc>
+{/pre}</content>
+</xwikidoc>

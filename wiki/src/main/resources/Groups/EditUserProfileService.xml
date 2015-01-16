@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Groups</web>
-<name>EditUserProfileService</name>
-<language></language>
-<defaultLanguage>fr</defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1340613044000</creationDate>
-<date>1340613044000</date>
-<contentUpdateDate>1340613044000</contentUpdateDate>
-<version>1.1</version>
-<title></title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden>
-<content>{{velocity}}{{html clean="false" wiki="true"}}
+  <web>Groups</web>
+  <name>EditUserProfileService</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent/>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1340613044000</creationDate>
+  <date>1340613044000</date>
+  <contentUpdateDate>1340613044000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <content>{{velocity}}{{html clean="false" wiki="true"}}
 #**
  * Service for showing the edit member info form
  * @param request.space Space to accept the user in
@@ -32,4 +33,5 @@
  * @refactored ludovic
  *#
 #groups_edit_memberinfo()
-{{/html}}{{/velocity}}</content></xwikidoc>
+{{/html}}{{/velocity}}</content>
+</xwikidoc>

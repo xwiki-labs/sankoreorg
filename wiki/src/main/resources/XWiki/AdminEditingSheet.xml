@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>XWiki</web>
-<name>AdminEditingSheet</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent>XWiki.AdminSheet</parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1211789456000</creationDate>
-<date>1419239498000</date>
-<contentUpdateDate>1419239498000</contentUpdateDate>
-<version>1.1</version>
-<title>AdminEditingSheet</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment>Imported from XAR</comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden>
-<content>{{velocity output="false"}}
+  <web>XWiki</web>
+  <name>AdminEditingSheet</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>XWiki.AdminSheet</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1211789456000</creationDate>
+  <date>1419239498000</date>
+  <contentUpdateDate>1419239498000</contentUpdateDate>
+  <version>1.1</version>
+  <title>AdminEditingSheet</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <content>{{velocity output="false"}}
 ### Administer the wiki editor preferences, at global level
 #set ($legend = ['editor', 'versioning'])
 #set ($params = $util.hashMap)
@@ -30,4 +31,5 @@
 #set ($params.versioning = ['editcomment', 'editcomment_mandatory', 'minoredit'])
 {{/velocity}}
 
-{{include document="XWiki.AdminFieldsDisplaySheet" /}}</content></xwikidoc>
+{{include document="XWiki.AdminFieldsDisplaySheet" /}}</content>
+</xwikidoc>

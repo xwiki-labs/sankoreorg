@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>MySankore</web>
-<name>Collections</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent>MyCurriki.WebHome</parent>
-<creator>XWiki.FlaviusOlaru</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1317813182000</creationDate>
-<date>1419607465000</date>
-<contentUpdateDate>1419607465000</contentUpdateDate>
-<version>3.1</version>
-<title>Collections</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment>Importé depuis un le XAR</comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden>
-<content>{{velocity filter="none"}}
+  <web>MySankore</web>
+  <name>Collections</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>MyCurriki.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1317813182000</creationDate>
+  <date>1419607465000</date>
+  <contentUpdateDate>1419607465000</contentUpdateDate>
+  <version>1.1</version>
+  <title>Collections</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <content>{{velocity filter="none"}}
 {{html clean="false" wiki="true"}}
 #mycurriki_pageheader("collections" "")
 #mycurriki_collections_buttons($userobj)
@@ -30,4 +31,5 @@
 #mycurriki_collections($userdoc $userobj)
 #mycurriki_pagefooter("")
 {{/html}}
-{{/velocity}}</content></xwikidoc>
+{{/velocity}}</content>
+</xwikidoc>

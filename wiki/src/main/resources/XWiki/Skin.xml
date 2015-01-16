@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>XWiki</web>
-<name>Skin</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1342198779000</creationDate>
-<date>1342198779000</date>
-<contentUpdateDate>1342198779000</contentUpdateDate>
-<version>1.1</version>
-<title></title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden><attachment>
-<filename>spritemediatype.gif</filename>
-<filesize>12154</filesize>
-<author>XWiki.IonutMaxim</author>
-<date>1319184792000</date>
-<version>1.1</version>
-<comment></comment><content>R0lGODlhIAA6Fvf/AP/aof3Dif+DAPzAhv/ojetdHvSvhP19Qf5oJf6WVvy2fP6FQ/mjG/+9ff+O
+  <web>XWiki</web>
+  <name>Skin</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent/>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1342198779000</creationDate>
+  <date>1342198779000</date>
+  <contentUpdateDate>1342198779000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <attachment>
+    <filename>spritemediatype.gif</filename>
+    <filesize>12154</filesize>
+    <author>XWiki.IonutMaxim</author>
+    <date>1319184792000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>R0lGODlhIAA6Fvf/AP/aof3Dif+DAPzAhv/ojetdHvSvhP19Qf5oJf6WVvy2fP6FQ/mjG/+9ff+O
 Sf+rfP+qaf6oZ/zKkf98M/2tcPyYZf3Kg9FcJP2jZfy5C/6hXv+jAPmhEvaXSv+zAPq6lPzirf/R
 lP/Hif6OTviXFPrDm/u0i/3krvqtFvrruffVpf6EPv9xKv2ZWf3lsfR3Hf9oIf9lHNBcI/7PlPq9
 mf7hqvrxvvv2xf9dF/+FPfvptfzuu/yyDf2dX/y3EPjsuvvns/OJOv+KRfmxZf/Ut/jkzf20dvzR
@@ -241,13 +244,16 @@ hBB9gdxQD/4T4YQaWohChotseJaHIFI4YoknbpViiSayGKKLTsEYooyskEgjhzc9CMsjlORRjwEG
 +CLMIzqSQAmTj6DYY18e+jcllVVaeSWWWWq5JZddevklmII9olcImWWWCWVcY5ppJpo35cHDIo9s
 J5Kc8KzHmw9xzhmRnD60mVCEi/DwGaFw+jlanotAwSSjjTIJBUSHDrUKhn4qQuhmilDig4V3ongp
 pprehYujpeIyWUAAOw==
-</content></attachment><attachment>
-<filename>logo.png</filename>
-<filesize>8741</filesize>
-<author>XWiki.CiprianAmaritei</author>
-<date>1304511824000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAARoAAABMCAYAAACyE3jkAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content>
+  </attachment>
+  <attachment>
+    <filename>logo.png</filename>
+    <filesize>8741</filesize>
+    <author>XWiki.CiprianAmaritei</author>
+    <date>1304511824000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAARoAAABMCAYAAACyE3jkAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAIcdJREFUeNrsXQl4G8XZXlm2ZNmOY5kcBBMOhQTCz1XspCRQnAYZCg+t
 A0Qm8BfS0vx2C7Qp/AGJkhJ4yiHTtGl+jmI3BcIZbI4EAvSJREJOILFymBwOiZXTuRxL8W3ZlvTP
 t551xuud3VkdjpLs9zz72JZXs7PfzLzzfsfM6MLhMKeJJppoEk9J0lSgiSaaxFuShV8WTTQO+MOn
@@ -401,13 +407,16 @@ w3EnE/SEkJyd679hlrBzHRnec3J9w+ReXFauyD4vIthKHu7IZDjSRoCAsKMYae+7OPb8Hqnv27k4
 6iCATJFMe6vpL+K614r04RaZsm5R3xXr1SHSq8DmCrg47mygrXXSJJHEjmfW02V1oxBeT4QkUiGs
 P0qCnbkIFnhKJEnr25pockaIlOkkJLrmcqc4M10DGk00OXNEbPaTZtEpXRuomU6aaKJJ3OX/BRgA
 5PS1rOaj7xUAAAAASUVORK5CYII=
-</content></attachment><attachment>
-<filename>header-bg.jpg</filename>
-<filesize>10950</filesize>
-<author>XWiki.CiprianAmaritei</author>
-<date>1304513586000</date>
-<version>1.1</version>
-<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABQAAD/4QNtaHR0cDov
+</content>
+  </attachment>
+  <attachment>
+    <filename>header-bg.jpg</filename>
+    <filesize>10950</filesize>
+    <author>XWiki.CiprianAmaritei</author>
+    <date>1304513586000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABQAAD/4QNtaHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjAtYzA2MCA2MS4xMzQ3NzcsIDIwMTAvMDIvMTItMTc6
@@ -599,13 +608,16 @@ QZ/tH0pSlL7P31r/AL8t/nvf4qUpf9Gv4or2Qv8AEH//2gAIAQMDAT8QrKysooorKysrKysrKyso
 oooooorKysrKysrKysoorKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKys
 rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKys
 rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKyv24hCEIT+LE9nITiE9n5/unz+LE/8
-IFfxN//Z</content></attachment><attachment>
-<filename>photoslogan.jpg</filename>
-<filesize>52354</filesize>
-<author>XWiki.CiprianAmaritei</author>
-<date>1304597466000</date>
-<version>1.2</version>
-<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABQAAD/4QMpaHR0cDov
+IFfxN//Z</content>
+  </attachment>
+  <attachment>
+    <filename>photoslogan.jpg</filename>
+    <filesize>52354</filesize>
+    <author>XWiki.CiprianAmaritei</author>
+    <date>1304597466000</date>
+    <version>1.2</version>
+    <comment/>
+    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABQAAD/4QMpaHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjAtYzA2MCA2MS4xMzQ3NzcsIDIwMTAvMDIvMTItMTc6
@@ -1524,13 +1536,16 @@ K5Y+gVli/ohAlep+2Dg5DngptyWLHM0gzwJUea4CW8RjycEvTHcKuNeDglJqHbY6eH/UZEJYAixa
 wisjrEKACU8NnJUrlIxeRYWLwfQqBK9b9oIRJTcOQ5HFvDl4FhzDjgxIysxxGVBwXNQxLgxVFJbF
 lcFJjKYSgL5mmQ+I7at4NY0b8RUlMZijKlRJXDFyax4fpBA+g/aCHBvjSbeg1xNeoZvNZpyQ9LpN
 4+khCdR4Ywj6t+Jr0PXB9Anl9J6CEOH1P2b/2Q==
-</content></attachment><attachment>
-<filename>spritemediatypeblue.gif</filename>
-<filesize>11419</filesize>
-<author>XWiki.CiprianAmaritei</author>
-<date>1305034333000</date>
-<version>1.1</version>
-<comment></comment><content>R0lGODlhIAA6FuZiAExMTHh4eKioqIKCgrOzs1BQUP///8PDw7Gxsc3NzWVlZVNTU9/f31lZWUpK
+</content>
+  </attachment>
+  <attachment>
+    <filename>spritemediatypeblue.gif</filename>
+    <filesize>11419</filesize>
+    <author>XWiki.CiprianAmaritei</author>
+    <date>1305034333000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>R0lGODlhIAA6FuZiAExMTHh4eKioqIKCgrOzs1BQUP///8PDw7Gxsc3NzWVlZVNTU9/f31lZWUpK
 Snl5eVpaWtXV1W9vb5WVlZ2dnaOjo4CAgJeXl5SUlLq6ulxcXFZWVoyMjHV1dc7Ozr29vY6OjklJ
 SaKiopqamnFxcXt7e6+vr2NjY8vLy4eHh8fHx2RkZGpqasnJyYODg8TExGtra9TU1KWlpaysrImJ
 ieDg4N7e3qmpqZCQkLa2toqKim5ubnR0dK2trcbGxlJSUr+/v3Z2dpOTk21tbZubm9LS0sDAwH9/
@@ -1731,13 +1746,16 @@ sSDA1QDD1EDI08ACE+vAirzIjNzIP3oEgNu3R8AMDTBKBnDFu1DJo4TJtqDJosTJmWACQxDJpBy4
 ecwIQ6CuL9u5HosE/ysIKFwAqyy5HlutmBuus4y4tQzKZCzLZfux3BqxvBzLIVzKfauutuy6Fiu/
 wnzLVmvABiyuyYy7KQwBNnDN2JzNNgCvNGy/2VqtBlDKl1zGEPDKYhDAAmzJOjTAQ3DKTRzOpHzJ
 ygAB6izPyXAE0EzAk2wWgQAAOw==
-</content></attachment><attachment>
-<filename>bg-logiciel.png</filename>
-<filesize>676</filesize>
-<author>XWiki.FlaviusOlaru</author>
-<date>1314365591000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAEQAAAAqCAYAAAAK7f2YAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content>
+  </attachment>
+  <attachment>
+    <filename>bg-logiciel.png</filename>
+    <filesize>676</filesize>
+    <author>XWiki.FlaviusOlaru</author>
+    <date>1314365591000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAEQAAAAqCAYAAAAK7f2YAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAkZJREFUeNrsmkFygjAUhsVxX25QjoAnKPYEeoOy7E423dZtu1E37bJ4
 gvYCrXoCuUG5gfQE9r2ZnylVMHFAJyR5MxkmgNB8ee/9L6HObrfrWPuznip/iOM4F3nP7f2DSwcf
 3fTr9TnNr7FzdA10gim1JdqGAI3/TYwqIXMJD6HBT+jwWHJpRS36fHlKjPEQghFUwGAL4DFmhAzy
@@ -1749,13 +1767,16 @@ FQa9JRhbVKkxPMOXgaGT7Pp7ssog5uhPJZRHvzoEodIHEB/J8+TqV6fCbAkYQZ2H6ASkkVWyibvu
 rQGytkAOy2oLpFBZpiig0gu8blF1QckPVdgY9tCKG8h1txh5d2yOIu7AmEWrvtxhz3Us2uMA0Pw8
 1yfZsSV/EUjbZPen4vy8OOAqDzBFdvn7y0RHlZGxrORcqKvsSnnDXj+SyQ2mhMyKYMx0LsxODZ3R
 OR7ca2HIhEik2Vnk3/7TnV3tWiAWiAXSnP0KMADD98KypN9T+QAAAABJRU5ErkJggg==
-</content></attachment><attachment>
-<filename>bg-planete.png</filename>
-<filesize>1003</filesize>
-<author>XWiki.FlaviusOlaru</author>
-<date>1314365656000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAEUAAAAqCAYAAADlL5amAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content>
+  </attachment>
+  <attachment>
+    <filename>bg-planete.png</filename>
+    <filesize>1003</filesize>
+    <author>XWiki.FlaviusOlaru</author>
+    <date>1314365656000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAEUAAAAqCAYAAADlL5amAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAA41JREFUeNrsms2x2jAQx00mBfhdczINJFBBSAUPKgAOyRVcAY8KgGsu
 8CoAKsCpAL80EHJIzk4FZJf5a7LRrMFg3sx6xprRCBtZ0v7YL8k0jsdjUJf/y5saQQ2lhnJreWth
 EY1Go3Dfr+/fdalpUf2ofJ1S/UP1wPXL99/JNetw/rVhwdEWgUIwxtSMqEZXDr+huigCqDJQCEZI
@@ -1773,13 +1794,16 @@ JyXncqBdVFvJgywzUJS9SKCl+DhGPNxhyrXYWkwtHzINc3zLBO99nJrHdwDjEsKpH7JNQcHi4rw9
 DA6MIqh6D2DmJX3L3Gry5ucVwzM76T0Oq0McTk+1/UtRzdQOxc2+DEOytbwQltPg3zHjtRGKzeZJ
 3qjSG8IZ9kD33FKobwkr9YId4XMC8ymT0CUAom0rqvevA+88pINNXZiTtfqawTAu/vPAFBRrpf4n
 Uw2lhlJDqaG8cvkrwAAkC5XdK8i+ogAAAABJRU5ErkJggg==
-</content></attachment><attachment>
-<filename>bg-plugin.png</filename>
-<filesize>565</filesize>
-<author>XWiki.FlaviusOlaru</author>
-<date>1314365686000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAEUAAAAqCAYAAADlL5amAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content>
+  </attachment>
+  <attachment>
+    <filename>bg-plugin.png</filename>
+    <filesize>565</filesize>
+    <author>XWiki.FlaviusOlaru</author>
+    <date>1314365686000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAEUAAAAqCAYAAADlL5amAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAddJREFUeNrsmu1twjAQhnHF/4YN2gnIBg0jZALCABQ6AWWCfg0AGzSd
 IGGCphM0I3iD9E4ykms5KCUxOtd3kmXFgQQ/Od+95yCaphmx/TbBUAhDEUJ0+txqOc2gm6tDCW37
 8vZV9bm3yWDs0xMEIAV0iTGMx5Mh73PlEZDMAgQtgnNJkFDAbi51I5+gyDPP/Wsoecvk676B1lso
@@ -1789,13 +1813,16 @@ rx35GlNiKj+EoRCHEjEUwsZQLDYObcKggbCGytThXolCsjql0eqYB9WvWirjc2ymrrUxxtPn1yqn
 AMwntEiD9TSQsEtVsM2NOLb3Ifscf+wB2t2Q2QcCeNmlSqaqU5IBYbCiDRGKVMsA8/etqS9ChbI4
 xgWU59BSF+naq1ccAMHmGVXonmJqm8hFQPYJCr4efTTG3kcONqcoQemyDDbq9Yeeugc3alWy/OOE
 5QlPqbUgLNuEm7U45T/tMBSGwlAYCkNhKAyFqP0IMADgQLGR4aG1HgAAAABJRU5ErkJggg==
-</content></attachment><attachment>
-<filename>resources.png</filename>
-<filesize>3589</filesize>
-<author>XWiki.FlaviusOlaru</author>
-<date>1314368249000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAJAAAACVCAYAAAC3i3MLAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content>
+  </attachment>
+  <attachment>
+    <filename>resources.png</filename>
+    <filesize>3589</filesize>
+    <author>XWiki.FlaviusOlaru</author>
+    <date>1314368249000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAJAAAACVCAYAAAC3i3MLAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAA+VpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -1858,13 +1885,16 @@ qAR1DnoAiQwvqRF5vEQqQD6ntJoAtO66WTY02Wuu1q4sqLjVIQ2fKazthd8OFZ48SJrRNjLSXQWo
 zYVTpfVBIfJG26SAiLoKUBPp7W2lZQmihQFEnQWobiRKyJnoPYaotwD1vkyXAJHN2Yk+ATqmKGtW
 HpzU3ByipkXGqIsAfTxWaQEeo1J/qgJMEfEJ0LrgA+5RaVmDaMcdj7fK44S1U48f8FBZaaksQaXl
 pJ3pYaQlPCsfihRqXRiZuAQpy0tbR1y6zzTVX9tq+/8FGACZ2Ih8B6WTJQAAAABJRU5ErkJggg==
-</content></attachment><attachment>
-<filename>resources2.png</filename>
-<filesize>1328</filesize>
-<author>XWiki.FlaviusOlaru</author>
-<date>1314368556000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAACkAAAAqCAYAAAAu9HJYAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A
+</content>
+  </attachment>
+  <attachment>
+    <filename>resources2.png</filename>
+    <filesize>1328</filesize>
+    <author>XWiki.FlaviusOlaru</author>
+    <date>1314368556000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAACkAAAAqCAYAAAAu9HJYAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A
 /wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9sIGhAoGgfgTtYAAASwSURBVFjD
 zZhNqFRlHMZ/z1iQHwl9mXPSMo20dE5FFuUVKbVNIRRtSlxk0juVULQwykUUlbnow0WbOUEQIRVB
 btq06EvRrCzhnCIjiUI9R0WoTZKGPi1mRsfrjF5nzsX7wjCHmf/5v8/7/L9fKHklcfRsEkf3lamz
@@ -1888,13 +1918,16 @@ freeFau6Tpg2luYLvm8VxDONJIdCml/Rp0/q3l4AgQX1rFiV1KKu9T9kBfU03wFcanzwDAANXJzE
 mgIWgd8FzepinKGQ5tvOjUn7QZ9awjbW03yon9vbE92/vTmkxXXAUuDoML4Wnru5petlWjcmhJDm
 Kxq1iEHuG0NWtFn9HHPzsOif049PvoF8BHFvSPN3kjhqVqASLl6b3X/+CzAD+LT115Ru8v8DT9f8
 /Ii5FFsAAAAASUVORK5CYII=
-</content></attachment><attachment>
-<filename>arrow2.png</filename>
-<filesize>6950</filesize>
-<author>XWiki.FlaviusOlaru</author>
-<date>1332174476000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAI0AAAAUCAYAAACwN74uAAAXimlDQ1BJQ0MgUHJvZmlsZQAAeAGt
+</content>
+  </attachment>
+  <attachment>
+    <filename>arrow2.png</filename>
+    <filesize>6950</filesize>
+    <author>XWiki.FlaviusOlaru</author>
+    <date>1332174476000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAI0AAAAUCAYAAACwN74uAAAXimlDQ1BJQ0MgUHJvZmlsZQAAeAGt
 WXc8Vu/7v88zrcfee++99yZ7z1Q89mN7jDJKqSgrIZtCdmkYoRJSKFkJIaEUUSkkI76H6vP9/PH7
 /vc7r5dz3s91ruu6r/u+7nNfAwAsDfiQkAAENQCBQeFEm0O63E7Oh7mxUwACCEALMIAV7xEWomNl
 ZQb+5/VjFOaGr5cS+7r+J9v//YLG0yvMAwDICn7t7hnmEQjjBgAQTR4hxHAAUPv6+I+Hh+zjdBjT
@@ -2016,13 +2049,16 @@ H2AIOnZ2GtWLVzF6/gqGRsfRVyZPOJ7bfBLC7OO9vxhrhxcBZ0bs+RNfvSyvJQl17F5NptFubmPr
 5wqOTp5DcbIgptkuySWaRdJY0MK55cqS/w3C7dnYyVvasOT6mWl3dNDdLQeXkTThsCWfqV/2WC8j
 S+485Xoj5Zw0hsqSi1Be5zay3Q2Wbr+b4x6NWURgfwSi0uyP0eEa4aVFZkV58f+TAY8XRG0Kt8JV
 UsftOAjE/kp79DQOkGAyF35ckCnCkpCpqHTA+JtU0vMHQHgi7jRD0TwAAAAASUVORK5CYII=
-</content></attachment><attachment>
-<filename>footer-share.png</filename>
-<filesize>1971</filesize>
-<author>XWiki.FlaviusOlaru</author>
-<date>1314650393000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABUAAAB8CAMAAACxMgs2AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content>
+  </attachment>
+  <attachment>
+    <filename>footer-share.png</filename>
+    <filesize>1971</filesize>
+    <author>XWiki.FlaviusOlaru</author>
+    <date>1314650393000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAABUAAAB8CAMAAACxMgs2AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAwBQTFRF0MzIycXBx8S+xsO+trKrr6ukrKehqKKb3dzX3NrV2tjT09DM
 y8jDw8C6sa2nl5CI4uHcp6Kblo+Hv7u1lY+H3NrXzcrEkIqBv7y2lpCI5ubhzszGu7expZ6XlI6G
 lY6GqqWep6KalI2F3t3YlI6FlpCHurawxMG7k4yE6+rnu7ewk42F7+/smJKKlY+GtbCpz8zGqaWd
@@ -2056,13 +2092,16 @@ zRwBZWfJIiYBRpH5FQIdMNsEGw3l+Kd3uu7X28jkugFaykmqVGtLgvx9QFXPJEAblnaARRHI8UJC
 SgZBEd3QFLtCqFjh4pRQDT1g+ErK62YE2UEF7VIydEVEwOlBz4Yr3gksujh+ho0eNIaaG2YHHQaZ
 7fE0aEZDM0TUvs9oVaKPn4ekgt+9xGCjPnC8STLHpSnJ5/twT1ruoyGvlBY3EWhuD/NOGxVJSRHd
 DI5QXSFJVRWbuH09DEFxNjHAuJSUt9+SCGplqcawnw1isE1TUQUXqXoqIuAqR1WJzZZB+UIJWmSW
-9CszVGE2S9yrAAIMAIGYirEVSvo2AAAAAElFTkSuQmCC</content></attachment><attachment>
-<filename>green-arrow-right.gif</filename>
-<filesize>1239</filesize>
-<author>XWiki.IonutMaxim</author>
-<date>1319115334000</date>
-<version>1.1</version>
-<comment></comment><content>R0lGODlhDAAOAMQaAHOeM4GoR3ehOXWfNXmiPKjDgXSeNMbXrN7oz9rlydnkx5a2ZqK+d4OpSqnE
+9CszVGE2S9yrAAIMAIGYirEVSvo2AAAAAElFTkSuQmCC</content>
+  </attachment>
+  <attachment>
+    <filename>green-arrow-right.gif</filename>
+    <filesize>1239</filesize>
+    <author>XWiki.IonutMaxim</author>
+    <date>1319115334000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>R0lGODlhDAAOAMQaAHOeM4GoR3ehOXWfNXmiPKjDgXSeNMbXrN7oz9rlydnkx5a2ZqK+d4OpSqnE
 grXMlJK0YePs1vj69X2lQpCyXYyvWL/TovX48XSfNf3+/f///wAAAAAAAAAAAAAAAAAAACH/C1hN
 UCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtj
 OWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUg
@@ -2083,32 +2122,41 @@ vr28u7q5uLe2tbSzsrGwr66trKuqqainpqWko6KhoJ+enZybmpmYl5aVlJOSkZCPjo2Mi4qJiIeG
 hYSDgoGAf359fHt6eXh3dnV0c3JxcG9ubWxramloZ2ZlZGNiYWBfXl1cW1pZWFdWVVRTUlFQT05N
 TEtKSUhHRkVEQ0JBQD8+PTw7Ojk4NzY1NDMyMTAvLi0sKyopKCcmJSQjIiEgHx4dHBsaGRgXFhUU
 ExIREA8ODQwLCgkIBwYFBAMCAQAAIfkEAQAAGgAsAAAAAAwADgAABThgkGhkaQIAJZknOhQsic7E
-wc54E5U4biwZTa83cAx7kCMqgBAOBRYeDsO4zSqXGGqiiJEED28pBAA7</content></attachment><attachment>
-<filename>menuhome.png</filename>
-<filesize>211</filesize>
-<author>XWiki.FlaviusOlaru</author>
-<date>1313477638000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAAkAAAALCAMAAACah1cpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+wc54E5U4biwZTa83cAx7kCMqgBAOBRYeDsO4zSqXGGqiiJEED28pBAA7</content>
+  </attachment>
+  <attachment>
+    <filename>menuhome.png</filename>
+    <filesize>211</filesize>
+    <author>XWiki.FlaviusOlaru</author>
+    <date>1313477638000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAAkAAAALCAMAAACah1cpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAC1QTFRFr6un////19XT8O/utLCt+vr5vru49fT0w8C90tDO5uXjubay
 zcvI4d/eyMXDPWWnWgAAADxJREFUeNpcxgsKwCAMBNGJJlb7u/9xuwSl4MAmD1Oj6qA9+JE6gRZS
 dYnXiIvsprGyMv+m0pdyvz4BBgAtTgCmg6YzqgAAAABJRU5ErkJggg==
-</content></attachment><attachment>
-<filename>arrowdown.png</filename>
-<filesize>180</filesize>
-<author>XWiki.FlaviusOlaru</author>
-<date>1313477760000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAYAAAD+Bd/7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content>
+  </attachment>
+  <attachment>
+    <filename>arrowdown.png</filename>
+    <filesize>180</filesize>
+    <author>XWiki.FlaviusOlaru</author>
+    <date>1313477760000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAYAAAD+Bd/7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAFZJREFUeNpiDA+POs/AwGDAgB1cYAISjkD8AYskSMyREcQCmgIy4Tya
 AseVK5cdYAaxrl69/EJHR/chkBkAlSwESq7AMBNo0nwQRhZj/P//PwM+ABBgAEqtGLn4843xAAAA
-AElFTkSuQmCC</content></attachment><attachment>
-<filename>arrowDownload.png</filename>
-<filesize>401</filesize>
-<author>XWiki.FlaviusOlaru</author>
-<date>1313478222000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAB0AAAAaCAYAAABLlle3AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+AElFTkSuQmCC</content>
+  </attachment>
+  <attachment>
+    <filename>arrowDownload.png</filename>
+    <filesize>401</filesize>
+    <author>XWiki.FlaviusOlaru</author>
+    <date>1313478222000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAB0AAAAaCAYAAABLlle3AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAATNJREFUeNpiZCAA2qet1AZS/AzEgY+VWeFX8Sn4//8/AyMhU758/T4P
 SJkSaelpHm7OJEKWshAyhZuLQxFI6RBp6RtiFDExDAAYtXTU0lFLRy3FCliABTorkLYCYj5sCr5+
 +yECLAqJMgykFmieLw7pT0B8DIh/gwpgASA+/5/24DzULnDwfgXiaiA+QcMQ3QvEBVC74NUNKxCb
@@ -2116,13 +2164,16 @@ AvFGGvhwNhAbIFdt6HWdNhBPoJJlX4C4FYiV0OtTbJWsLBDnQTWRBf7++/cGSGUBsQS2ShxX7c4H
 xHFAfI8MO0F6/EFm4Go54GtWcAGxFxAfJ8HCPT9//XYCpRF8zRUGAu0ZohPYn79/5yEnGLItJTKB
 ffnz528HeoKh2FJcCQxfgqGKpVgSGN4EQzVLkRMYoQSDz1KAAAMAuJXGghwh6KgAAAAASUVORK5C
 YII=
-</content></attachment><attachment>
-<filename>logoplanetesankore.png</filename>
-<filesize>14509</filesize>
-<author>XWiki.jcoury</author>
-<date>1320248999000</date>
-<version>1.4</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAa8AAAA6CAYAAAAHt9ZFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAK
+</content>
+  </attachment>
+  <attachment>
+    <filename>logoplanetesankore.png</filename>
+    <filesize>14509</filesize>
+    <author>XWiki.jcoury</author>
+    <date>1320248999000</date>
+    <version>1.4</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAa8AAAA6CAYAAAAHt9ZFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAK
 TWlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVN3WJP3Fj7f92UPVkLY8LGXbIEAIiOsCMgQ
 WaIQkgBhhBASQMWFiApWFBURnEhVxILVCkidiOKgKLhnQYqIWotVXDjuH9yntX167+3t+9f7vOec
 5/zOec8PgBESJpHmomoAOVKFPDrYH49PSMTJvYACFUjgBCAQ5svCZwXFAADwA3l4fnSwP/wBr28A
@@ -2377,521 +2428,522 @@ h6LcdPrWL0+jUuzbhbjg1f4kzr0FR138qAw8K8usGyo4nXuY590rFu6aDgxcFnA8g3LdvYPKWByJ
 chFG0xGlRJ7Hs4cxhqUEu4JvxTlmFa3UodzdS2h5LZaTrEel0j9LIMHE3Z3YFZd5uczLVr6Jyuqq
 QHXzX+pOx1aRHig31zBU8kqOMIshYig4xXnLBBh+S+vs6JyLilP1Q2218sphMuujIYmo+NoElDuy
 3Ww94jKv9if/PwBCHKrtvUBa6wAAAABJRU5ErkJggg==
-</content></attachment>
-<object>
-<class>
-<name>XWiki.XWikiSkins</name>
-<customClass></customClass>
-<customMapping></customMapping>
-<defaultViewSheet></defaultViewSheet>
-<defaultEditSheet></defaultEditSheet>
-<defaultWeb></defaultWeb>
-<nameField></nameField>
-<validationScript></validationScript>
-<addpath.css>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>addpath.css</name>
-<number>13</number>
-<picker>1</picker>
-<prettyName>addpath.css</prettyName>
-<rows>45</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</addpath.css>
-<advancedsearch.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>advancedsearch.vm</name>
-<number>28</number>
-<picker>1</picker>
-<prettyName>advancedsearch.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</advancedsearch.vm>
-<baseskin>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<name>baseskin</name>
-<number>10</number>
-<picker>1</picker>
-<prettyName>baseskin</prettyName>
-<size>30</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
-</baseskin>
-<bookmarklet.vm>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>bookmarklet.vm</name>
-<number>27</number>
-<picker>0</picker>
-<prettyName>bookmarklet.vm</prettyName>
-<rows>5</rows>
-<size>40</size>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</bookmarklet.vm>
-<comments.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>comments.vm</name>
-<number>8</number>
-<picker>1</picker>
-<prettyName>comments.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</comments.vm>
-<curriki.css>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>curriki.css</name>
-<number>28</number>
-<picker>0</picker>
-<prettyName>curriki.css</prettyName>
-<rows>15</rows>
-<size>100</size>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</curriki.css>
-<edit.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>edit.vm</name>
-<number>9</number>
-<picker>1</picker>
-<prettyName>edit.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</edit.vm>
-<editmeta.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>editmeta.vm</name>
-<number>29</number>
-<picker>1</picker>
-<prettyName>editmeta.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</editmeta.vm>
-<footer.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>footer.vm</name>
-<number>4</number>
-<picker>1</picker>
-<prettyName>footer.vm</prettyName>
-<rows>30</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</footer.vm>
-<global.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>global.vm</name>
-<number>28</number>
-<picker>1</picker>
-<prettyName>global.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</global.vm>
-<groups.css>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>groups.css</name>
-<number>19</number>
-<picker>1</picker>
-<prettyName>groups.css</prettyName>
-<rows>15</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</groups.css>
-<header.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>header.vm</name>
-<number>3</number>
-<picker>1</picker>
-<prettyName>header.vm</prettyName>
-<rows>30</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</header.vm>
-<htmlfooter.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>htmlfooter.vm</name>
-<number>11</number>
-<picker>1</picker>
-<prettyName>htmlfooter.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</htmlfooter.vm>
-<htmlheader.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>htmlheader.vm</name>
-<number>12</number>
-<picker>1</picker>
-<prettyName>htmlheader.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</htmlheader.vm>
-<javascript.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>javascript.vm</name>
-<number>20</number>
-<picker>1</picker>
-<prettyName>javascript.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</javascript.vm>
-<login.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>login.vm</name>
-<number>24</number>
-<picker>1</picker>
-<prettyName>login.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</login.vm>
-<logininline.vm>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>logininline.vm</name>
-<number>26</number>
-<picker>0</picker>
-<prettyName>logininline.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</logininline.vm>
-<logo>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<name>logo</name>
-<number>30</number>
-<picker>0</picker>
-<prettyName>logo</prettyName>
-<size>30</size>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
-</logo>
-<menuview.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>menuview.vm</name>
-<number>17</number>
-<picker>1</picker>
-<prettyName>menuview.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</menuview.vm>
-<mycurriki.css>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>mycurriki.css</name>
-<number>27</number>
-<picker>0</picker>
-<prettyName>mycurriki.css</prettyName>
-<rows>15</rows>
-<size>100</size>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</mycurriki.css>
-<name>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<name>name</name>
-<number>1</number>
-<picker>1</picker>
-<prettyName>name</prettyName>
-<size>30</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
-</name>
-<pagemenu.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>pagemenu.vm</name>
-<number>7</number>
-<picker>1</picker>
-<prettyName>pagemenu.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</pagemenu.vm>
-<panel.vm>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>panel.vm</name>
-<number>25</number>
-<picker>0</picker>
-<prettyName>panel.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</panel.vm>
-<panels.css>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>panels.css</name>
-<number>31</number>
-<picker>0</picker>
-<prettyName>panels.css</prettyName>
-<rows>15</rows>
-<size>100</size>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</panels.css>
-<sankore.css>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>sankore.css</name>
-<number>29</number>
-<picker>0</picker>
-<prettyName>sankore.css</prettyName>
-<rows>15</rows>
-<size>100</size>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</sankore.css>
-<siteembed.vm>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>siteembed.vm</name>
-<number>26</number>
-<picker>0</picker>
-<prettyName>siteembed.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</siteembed.vm>
-<style.css>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>style.css</name>
-<number>2</number>
-<picker>1</picker>
-<prettyName>style.css</prettyName>
-<rows>30</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</style.css>
-<stylesheets.vm>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>stylesheets.vm</name>
-<number>25</number>
-<picker>0</picker>
-<prettyName>stylesheets.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</stylesheets.vm>
-<view.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>view.vm</name>
-<number>5</number>
-<picker>1</picker>
-<prettyName>view.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</view.vm>
-<viewheader.vm>
-<contenttype>FullyRenderedText</contenttype>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>viewheader.vm</name>
-<number>6</number>
-<picker>1</picker>
-<prettyName>viewheader.vm</prettyName>
-<rows>15</rows>
-<size>100</size>
-<tooltip></tooltip>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</viewheader.vm>
-<views.css>
-<customDisplay></customDisplay>
-<disabled>0</disabled>
-<editor>---</editor>
-<name>views.css</name>
-<number>23</number>
-<picker>0</picker>
-<prettyName>views.css</prettyName>
-<rows>15</rows>
-<size>100</size>
-<unmodifiable>0</unmodifiable>
-<validationMessage></validationMessage>
-<validationRegExp></validationRegExp>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</views.css>
-</class>
-<name>XWiki.Skin</name>
-<number>0</number>
-<className>XWiki.XWikiSkins</className>
-<guid>d471eda1-a1e8-4e4f-a15f-cf51f1f64ee0</guid>
-<property>
-<addpath.css>/* Add Path */
+</content>
+  </attachment>
+  <object>
+    <class>
+      <name>XWiki.XWikiSkins</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <addpath.css>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>addpath.css</name>
+        <number>13</number>
+        <picker>1</picker>
+        <prettyName>addpath.css</prettyName>
+        <rows>45</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </addpath.css>
+      <advancedsearch.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>advancedsearch.vm</name>
+        <number>28</number>
+        <picker>1</picker>
+        <prettyName>advancedsearch.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </advancedsearch.vm>
+      <baseskin>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <name>baseskin</name>
+        <number>10</number>
+        <picker>1</picker>
+        <prettyName>baseskin</prettyName>
+        <size>30</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </baseskin>
+      <bookmarklet.vm>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>bookmarklet.vm</name>
+        <number>27</number>
+        <picker>0</picker>
+        <prettyName>bookmarklet.vm</prettyName>
+        <rows>5</rows>
+        <size>40</size>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </bookmarklet.vm>
+      <comments.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>comments.vm</name>
+        <number>8</number>
+        <picker>1</picker>
+        <prettyName>comments.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </comments.vm>
+      <curriki.css>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>curriki.css</name>
+        <number>28</number>
+        <picker>0</picker>
+        <prettyName>curriki.css</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </curriki.css>
+      <edit.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>edit.vm</name>
+        <number>9</number>
+        <picker>1</picker>
+        <prettyName>edit.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </edit.vm>
+      <editmeta.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>editmeta.vm</name>
+        <number>29</number>
+        <picker>1</picker>
+        <prettyName>editmeta.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </editmeta.vm>
+      <footer.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>footer.vm</name>
+        <number>4</number>
+        <picker>1</picker>
+        <prettyName>footer.vm</prettyName>
+        <rows>30</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </footer.vm>
+      <global.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>global.vm</name>
+        <number>28</number>
+        <picker>1</picker>
+        <prettyName>global.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </global.vm>
+      <groups.css>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>groups.css</name>
+        <number>19</number>
+        <picker>1</picker>
+        <prettyName>groups.css</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </groups.css>
+      <header.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>header.vm</name>
+        <number>3</number>
+        <picker>1</picker>
+        <prettyName>header.vm</prettyName>
+        <rows>30</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </header.vm>
+      <htmlfooter.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>htmlfooter.vm</name>
+        <number>11</number>
+        <picker>1</picker>
+        <prettyName>htmlfooter.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </htmlfooter.vm>
+      <htmlheader.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>htmlheader.vm</name>
+        <number>12</number>
+        <picker>1</picker>
+        <prettyName>htmlheader.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </htmlheader.vm>
+      <javascript.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>javascript.vm</name>
+        <number>20</number>
+        <picker>1</picker>
+        <prettyName>javascript.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </javascript.vm>
+      <login.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>login.vm</name>
+        <number>24</number>
+        <picker>1</picker>
+        <prettyName>login.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </login.vm>
+      <logininline.vm>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>logininline.vm</name>
+        <number>26</number>
+        <picker>0</picker>
+        <prettyName>logininline.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </logininline.vm>
+      <logo>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <name>logo</name>
+        <number>30</number>
+        <picker>0</picker>
+        <prettyName>logo</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </logo>
+      <menuview.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>menuview.vm</name>
+        <number>17</number>
+        <picker>1</picker>
+        <prettyName>menuview.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </menuview.vm>
+      <mycurriki.css>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>mycurriki.css</name>
+        <number>27</number>
+        <picker>0</picker>
+        <prettyName>mycurriki.css</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </mycurriki.css>
+      <name>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <name>name</name>
+        <number>1</number>
+        <picker>1</picker>
+        <prettyName>name</prettyName>
+        <size>30</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </name>
+      <pagemenu.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>pagemenu.vm</name>
+        <number>7</number>
+        <picker>1</picker>
+        <prettyName>pagemenu.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </pagemenu.vm>
+      <panel.vm>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>panel.vm</name>
+        <number>25</number>
+        <picker>0</picker>
+        <prettyName>panel.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </panel.vm>
+      <panels.css>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>panels.css</name>
+        <number>31</number>
+        <picker>0</picker>
+        <prettyName>panels.css</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </panels.css>
+      <sankore.css>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>sankore.css</name>
+        <number>29</number>
+        <picker>0</picker>
+        <prettyName>sankore.css</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </sankore.css>
+      <siteembed.vm>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>siteembed.vm</name>
+        <number>26</number>
+        <picker>0</picker>
+        <prettyName>siteembed.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </siteembed.vm>
+      <style.css>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>style.css</name>
+        <number>2</number>
+        <picker>1</picker>
+        <prettyName>style.css</prettyName>
+        <rows>30</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </style.css>
+      <stylesheets.vm>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>stylesheets.vm</name>
+        <number>25</number>
+        <picker>0</picker>
+        <prettyName>stylesheets.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </stylesheets.vm>
+      <view.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>view.vm</name>
+        <number>5</number>
+        <picker>1</picker>
+        <prettyName>view.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </view.vm>
+      <viewheader.vm>
+        <contenttype>FullyRenderedText</contenttype>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>viewheader.vm</name>
+        <number>6</number>
+        <picker>1</picker>
+        <prettyName>viewheader.vm</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <tooltip/>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </viewheader.vm>
+      <views.css>
+        <customDisplay/>
+        <disabled>0</disabled>
+        <editor>---</editor>
+        <name>views.css</name>
+        <number>23</number>
+        <picker>0</picker>
+        <prettyName>views.css</prettyName>
+        <rows>15</rows>
+        <size>100</size>
+        <unmodifiable>0</unmodifiable>
+        <validationMessage/>
+        <validationRegExp/>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </views.css>
+    </class>
+    <name>XWiki.Skin</name>
+    <number>0</number>
+    <className>XWiki.XWikiSkins</className>
+    <guid>d471eda1-a1e8-4e4f-a15f-cf51f1f64ee0</guid>
+    <property>
+      <addpath.css>/* Add Path */
 .x-panel, .x-window { text-align: left; }
 .x-panel-ghost ul, .x-panel-ghost .x-window-tl { border: none; }
 .x-panel-noborder .x-panel-bbar-noborder .x-toolbar { border: none;  }
@@ -3231,7 +3283,10 @@ margin-right:3px;
   width: 100%;
 }
 
-</addpath.css></property><property><advancedsearch.vm>#set($defaultsearchtext = $msg.get("header.defaultsearchtext"))
+</addpath.css>
+    </property>
+    <property>
+      <advancedsearch.vm>#set($defaultsearchtext = $msg.get("header.defaultsearchtext"))
 &lt;form id="searchform" name="searchform" class="search-box" action="$xwiki.getURL('Search.URL')" onsubmit="document.location.href=this.action+'#o%3As%3Ds%253Aexternal%5Ef%3Do%253Aexternal%253Do%25253A'+(($('curriki-searchbox').value!=='$defaultsearchtext')?'terms%25253Ds%2525253A'+escape(escape(escape(escape($('curriki-searchbox').value))))+'%25255E':'')+'subjectparent%25253Ds%2525253A%25255Esubject%25253Ds%2525253A%25255Elanguage%25253Ds%2525253A%25255Elevelparent%25253Ds%2525253A%25255Elevel%25253Ds%2525253A%25255Ereview%25253Ds%2525253A%25255Eictparent%25253Ds%2525253A%25255Eict%25253Ds%2525253A%25255Especial%25253Ds%2525253A%5Ep%3Do%253Aexternal%253Do%25253Ac%25253Dn%2525253A0%25255Es%25253Dn%2525253A25%5Ea%3Do%253A'; return false"&gt;
   &lt;input type="hidden" class="hidden" name="area" value=""/&gt;
   #set($brsqry = $request.brsqry)
@@ -3241,12 +3296,12 @@ margin-right:3px;
   &lt;input type="text" id="curriki-searchbox" name="brsqry" class="input" value="$!brsqry" onfocus="if (this.value=='$defaultsearchtext') this.value=''; else this.select()" onblur="if (this.value=='') this.value='$defaultsearchtext'" size="25" /&gt;
   &lt;input type="submit" class="form-submit" value=" " name="op" id="searchbtn" /&gt;      
 &lt;/form&gt;</advancedsearch.vm>
-</property>
-<property>
-<baseskin>curriki20</baseskin>
-</property>
-<property>
-<bookmarklet.vm>#template("xwikivars.vm")
+    </property>
+    <property>
+      <baseskin>curriki20</baseskin>
+    </property>
+    <property>
+      <bookmarklet.vm>#template("xwikivars.vm")
 #template("layoutvars.vm")
 #template("htmlheader.vm")
 &lt;style type="text/css"&gt;
@@ -3300,12 +3355,12 @@ $context.unsetLinksQueryString()
 &lt;div class="clearfloats"&gt;&lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;</bookmarklet.vm>
-</property>
-<property>
-<comments.vm></comments.vm>
-</property>
-<property>
-<curriki.css>#template('colorThemeInit.vm')
+    </property>
+    <property>
+      <comments.vm/>
+    </property>
+    <property>
+      <curriki.css>#template('colorThemeInit.vm')
 
 /** TABS **/
 
@@ -3782,7 +3837,10 @@ input.button-cancel, button.button-cancel, a.button-cancel, table.button-cancel 
 input.button-cancel:hover, button.button-cancel:hover, a.button-cancel:hover, table.button-cancel button:hover, body.p-CRS-Review button#ext-gen48:hover /** ONE OFF **/  {
   text-decoration: none;
 }
-</curriki.css></property><property><edit.vm>###
+</curriki.css>
+    </property>
+    <property>
+      <edit.vm>###
 ### Main "edit" template
 ###
 ### General wrapper for edit actions
@@ -3911,9 +3969,9 @@ input.button-cancel:hover, button.button-cancel:hover, a.button-cancel:hover, ta
 #template("footer.vm")
 #template("htmlfooter.vm")
 #end</edit.vm>
-</property>
-<property>
-<editmeta.vm>#set($docTitle = $request.getParameter('title'))
+    </property>
+    <property>
+      <editmeta.vm>#set($docTitle = $request.getParameter('title'))
 #if("$!docTitle" == '')
   #set($docTitle = $!tdoc.title)
 #end
@@ -3935,9 +3993,9 @@ input.button-cancel:hover, button.button-cancel:hover, a.button-cancel:hover, ta
     &lt;label for="content"&gt;$msg.get('core.editors.content.contentField.label')&lt;/label&gt;
   &lt;/div&gt;
 #end</editmeta.vm>
-</property>
-<property>
-<footer.vm>#if($isInServletMode)## Visible only in a page
+    </property>
+    <property>
+      <footer.vm>#if($isInServletMode)## Visible only in a page
 &lt;/div&gt;&lt;!-- xwikimaincontainerinner --&gt;
 &lt;/div&gt;&lt;!-- xwikimaincontainer --&gt;
 &lt;div id="footerglobal" class="layoutsection"&gt;
@@ -4015,9 +4073,9 @@ input.button-cancel:hover, button.button-cancel:hover, a.button-cancel:hover, ta
 &lt;/div&gt;&lt;!-- footerglobal --&gt;
 #end
 ### TODO: Format the footer for pdf output</footer.vm>
-</property>
-<property>
-<global.vm>###
+    </property>
+    <property>
+      <global.vm>###
 ### Global header
 ###
 ### The uppermost area of each page
@@ -4098,9 +4156,9 @@ input.button-cancel:hover, button.button-cancel:hover, a.button-cancel:hover, ta
 &lt;/div&gt; ## headerglobal
 #end
 ### TODO: Format the header for pdf output</global.vm>
-</property>
-<property>
-<groups.css>/* Groups */
+    </property>
+    <property>
+      <groups.css>/* Groups */
 
 #groups-curriculum #groups-main-header .button {float: right;}
 
@@ -4529,7 +4587,13 @@ font-size: 13px; font-weight:bold;}
     height: auto;
     padding: 0;
 }
-</groups.css></property><property><header.vm></header.vm></property><property><htmlfooter.vm>#if($isInServletMode)
+</groups.css>
+    </property>
+    <property>
+      <header.vm/>
+    </property>
+    <property>
+      <htmlfooter.vm>#if($isInServletMode)
 #if("$!request.action" != "editinfo" &amp;&amp; "$!context.action" == "view")
 &lt;script src="//asset0.zendesk.com/external/zenbox/v2.1/zenbox.js" type="text/javascript"&gt;&lt;/script&gt;
 &lt;script type="text/javascript"&gt;
@@ -4549,9 +4613,9 @@ font-size: 13px; font-weight:bold;}
 #else ## Portlet Mode
 &lt;/div&gt;
 #end</htmlfooter.vm>
-</property>
-<property>
-<htmlheader.vm>## -------------------------------------------------------------------------------------------------------------------
+    </property>
+    <property>
+      <htmlheader.vm>## -------------------------------------------------------------------------------------------------------------------
 ## In non-Servlet mode (in Portlet mode for example) we don't display the &lt;HTML&gt;, &lt;HEAD&gt; and &lt;BODY&gt;
 ## elements.
 ## -------------------------------------------------------------------------------------------------------------------
@@ -4649,9 +4713,9 @@ font-size: 13px; font-weight:bold;}
 &lt;$bodyTagName id="body" class="wiki-${xcontext.database} space-${escapetool.xml($doc.space.replaceAll(' ', '_'))} page-${escapetool.xml($doc.name.replaceAll(' ', '_'))} ${bodyAction}body $!{bodyxpage} #if($showLeftPanels == "0")hideleft#end#if($showRightPanels == "0")hideright#end#if($hidecolumns &amp;&amp; ($!hidecolumns == 1))hidelefthideright#end"&gt;
 &lt;div id="xwikimaincontainer"&gt;
 &lt;div id="xwikimaincontainerinner"&gt;</htmlheader.vm>
-</property>
-<property>
-<javascript.vm>#**
+    </property>
+    <property>
+      <javascript.vm>#**
   * Setup the external Javascript files loaded for the curriki pages
   * @author Curriki dev team
   *#
@@ -4841,9 +4905,9 @@ Event.observe(document, "dom:loaded", prepareCancelEdit);
 ## Placed at the very end of the stream so that skin file extensions code can be deprecated easily as well.
 ##
 &lt;script type="text/javascript" src="$xwiki.getSkinFile("js/xwiki/compatibility.js", false)" defer="defer"&gt;&lt;/script&gt;</javascript.vm>
-</property>
-<property>
-<login.vm>#if ($xcontext.user != 'XWiki.XWikiGuest')
+    </property>
+    <property>
+      <login.vm>#if ($xcontext.user != 'XWiki.XWikiGuest')
   #if ($request.xredirect)
     $response.sendRedirect($request.xredirect)
   #else
@@ -4879,9 +4943,9 @@ Event.observe(document, "dom:loaded", prepareCancelEdit);
 #template("endpage.vm")
 #end
 #end</login.vm>
-</property>
-<property>
-<logininline.vm>&lt;div id="header-member"&gt;
+    </property>
+    <property>
+      <logininline.vm>&lt;div id="header-member"&gt;
 #if($isGuest)
   #if($request.xredirect)
     #set($logredir = $request.xredirect)
@@ -4968,10 +5032,13 @@ Event.observe(document, "dom:loaded", prepareCancelEdit);
   &lt;div class="clearfloats"&gt;&lt;/div&gt;
 #end
 &lt;/div&gt;
-</logininline.vm></property><property><logo>logoplanetesankore.png</logo>
-</property>
-<property>
-<menuview.vm>#if($isInServletMode &amp;&amp; ($hasGlobalAdmin || $hasAdmin))## Visible only in a page
+</logininline.vm>
+    </property>
+    <property>
+      <logo>logoplanetesankore.png</logo>
+    </property>
+    <property>
+      <menuview.vm>#if($isInServletMode &amp;&amp; ($hasGlobalAdmin || $hasAdmin))## Visible only in a page
 &lt;div id="mainmenu" class="layoutsubsection actionmenu"&gt;
 &lt;strong id="xwikimenutitle" class="hidden"&gt;$msg.get('core.menu.main.title')&lt;/strong&gt;
 &lt;div class="rightmenu"&gt;
@@ -5197,9 +5264,9 @@ Event.observe(document, "dom:loaded", prepareCancelEdit);
 &lt;/div&gt;
 &lt;/div&gt;
 #end</menuview.vm>
-</property>
-<property>
-<mycurriki.css>#template('colorThemeInit.vm')
+    </property>
+    <property>
+      <mycurriki.css>#template('colorThemeInit.vm')
 #mycurriki-blog h2 {
   color: #000;
   font-size: 16px;
@@ -5382,15 +5449,15 @@ Event.observe(document, "dom:loaded", prepareCancelEdit);
   font-size:1.1em;
   padding-bottom:10px 0;
 }</mycurriki.css>
-</property>
-<property>
-<name></name>
-</property>
-<property>
-<pagemenu.vm></pagemenu.vm>
-</property>
-<property>
-<panel.vm>#template("xwikivars.vm")
+    </property>
+    <property>
+      <name/>
+    </property>
+    <property>
+      <pagemenu.vm/>
+    </property>
+    <property>
+      <panel.vm>#template("xwikivars.vm")
 #template("layoutvars.vm")
 ## -------------------------------------------------------------------------------------------------------------------
 ## In non-Servlet mode (in Portlet mode for example) we don't display the &lt;HTML&gt;, &lt;HEAD&gt; and &lt;BODY&gt;
@@ -5491,7 +5558,10 @@ Event.observe(document, "dom:loaded", prepareCancelEdit);
 &lt;/body&gt;
 &lt;/html&gt;
 
-</panel.vm></property><property><panels.css>#template('colorThemeInit.vm')
+</panel.vm>
+    </property>
+    <property>
+      <panels.css>#template('colorThemeInit.vm')
 /* Left panel menu */
 #panels {
   clear: left;
@@ -6151,9 +6221,9 @@ ul.login-links {
 .logiciel li {
   margin-bottom: 10px;
 }</panels.css>
-</property>
-<property>
-<sankore.css>#template('colorThemeInit.vm')
+    </property>
+    <property>
+      <sankore.css>#template('colorThemeInit.vm')
 
 #body {
   font-family: "Helvetica Neue",Arial,Helvetica,sans-serif;
@@ -7595,9 +7665,9 @@ tbody.xwiki-livetable-display-body td a.action {
 img.crs-icon {
 background-image: url($xwiki.getSkinFile("/images/sprite_crs_ict_group.gif"));
 }</sankore.css>
-</property>
-<property>
-<siteembed.vm>#**
+    </property>
+    <property>
+      <siteembed.vm>#**
   * Embed entry point. It is called from view.vm
   * It displays assets in embed mode. Links stay in the same windows
   *#
@@ -7653,7 +7723,10 @@ background-image: url($xwiki.getSkinFile("/images/sprite_crs_ict_group.gif"));
 #end
 #template("htmlfooter.vm")
 
-</siteembed.vm></property><property><style.css>@import "$xwiki.getSkinFile('css/microformats.css')";
+</siteembed.vm>
+    </property>
+    <property>
+      <style.css>@import "$xwiki.getSkinFile('css/microformats.css')";
 @import "$xwiki.getSkinFile('colibri.css', true)#if ("$!{request.colorTheme}" != '')?colorTheme=${request.colorTheme}#end";
 #template('colorThemeInit.vm')
 
@@ -8438,9 +8511,9 @@ body.hideright #footerglobal {
 .code, .code pre, .code * {
   white-space: pre-wrap;
 }</style.css>
-</property>
-<property>
-<stylesheets.vm>&lt;link href="$xwiki.getSkinFile('extjs-3.4.0/resources/css/ext-all.css', true)" rel="stylesheet" type="text/css" media="all" /&gt;
+    </property>
+    <property>
+      <stylesheets.vm>&lt;link href="$xwiki.getSkinFile('extjs-3.4.0/resources/css/ext-all.css', true)" rel="stylesheet" type="text/css" media="all" /&gt;
 #*
 &lt;script type="text/javascript"&gt;
 //&lt;![CDATA[
@@ -8513,7 +8586,10 @@ document.write(unescape("%3Clink rel='stylesheet' type='text/css' href='" + ejcL
 ## Hook for inserting CSS skin extensions
 &lt;!-- com.xpn.xwiki.plugin.skinx.CssSkinExtensionPlugin --&gt;
 &lt;!-- com.xpn.xwiki.plugin.skinx.CssSkinFileExtensionPlugin --&gt;
-</stylesheets.vm></property><property><view.vm>###
+</stylesheets.vm>
+    </property>
+    <property>
+      <view.vm>###
 ### Main "view" template
 ###
 ### General wrapper for view actions
@@ -8551,12 +8627,12 @@ document.write(unescape("%3Clink rel='stylesheet' type='text/css' href='" + ejcL
   &lt;/div&gt;## main
   #template("endpage.vm")
 #end</view.vm>
-</property>
-<property>
-<viewheader.vm></viewheader.vm>
-</property>
-<property>
-<views.css>/* VIEWS.CSS */
+    </property>
+    <property>
+      <viewheader.vm/>
+    </property>
+    <property>
+      <views.css>/* VIEWS.CSS */
 #template("colorThemeInit.vm")
 /** CLEARFIX **/
 pre {
@@ -9096,6 +9172,7 @@ li.input-select select {width: 40%;}
   width: 100%;
 }
 li#assetinfo-basic-ict, li#assetinfo-basic-tags, li#assetinfo-edit-ict {clear: left;}</views.css>
-</property>
-</object>
-<content></content></xwikidoc>
+    </property>
+  </object>
+  <content/>
+</xwikidoc>
