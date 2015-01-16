@@ -2903,7 +2903,7 @@ Votre compte utilisateur sur ${wikiname} a bien été activé. Vous pouvez déso
       <pageWidth>default</pageWidth>
     </property>
     <property>
-      <parent/>
+      <parent>XWiki.WebHome</parent>
     </property>
     <property>
       <plugins/>

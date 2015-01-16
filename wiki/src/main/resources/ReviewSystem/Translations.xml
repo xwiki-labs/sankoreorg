@@ -6,7 +6,7 @@
   <language/>
   <defaultLanguage>en</defaultLanguage>
   <translation>0</translation>
-  <parent/>
+  <parent>ReviewSystem.WebHome</parent>
   <creator>xwiki:XWiki.Admin</creator>
   <author>xwiki:XWiki.Admin</author>
   <customClass/>

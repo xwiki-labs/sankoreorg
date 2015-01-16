@@ -1327,7 +1327,7 @@
       <meta/>
     </property>
     <property>
-      <parent/>
+      <parent>CurrikiCode.WebHome</parent>
     </property>
     <property>
       <plugins/>

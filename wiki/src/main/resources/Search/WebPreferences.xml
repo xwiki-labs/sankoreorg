@@ -1357,7 +1357,7 @@
       <pageWidth>default</pageWidth>
     </property>
     <property>
-      <parent/>
+      <parent>Search.WebHome</parent>
     </property>
     <property>
       <plugins/>
