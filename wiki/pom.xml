@@ -22,7 +22,8 @@
  *
 -->
 
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.xwiki.projects</groupId>
@@ -42,9 +43,10 @@
     </extensions>
     <plugins>
       <plugin>
-        <groupId>org.xwiki.platform.tools</groupId>
-        <artifactId>xwiki-xar-plugin</artifactId>
-        <version>${platform.tools.xar-plugin.version}</version>
+        <!-- Used a newer explicit version of the XAR plugin that supports XAR content verification -->
+        <groupId>org.xwiki.commons</groupId>
+        <artifactId>xwiki-commons-tool-xar-plugin</artifactId>
+        <version>6.3</version>
         <configuration>
           <excludes>
             <exclude>META-INF/**</exclude>
@@ -59,6 +61,13 @@
             <exclude>**/**.ru</exclude>
           </excludes>
         </configuration>
+        <executions>
+          <execution>
+            <goals>
+              <goal>verify</goal>
+            </goals>
+          </execution>
+        </executions>
       </plugin>
     </plugins>
   </build>
