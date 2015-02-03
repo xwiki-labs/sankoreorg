@@ -85,7 +85,7 @@
      * XWikiAttachment, XWikiDocument, XWikiHibernateStore,
      * XWikiAttachmentStoreInterface, XWikiAttachmentVersioningStore,
      * XWikiAttachmentRecyclebinStore
-     --> 
+     -->
     <dependency>
       <groupId>org.xwiki.platform</groupId>
       <artifactId>xwiki-platform-oldcore</artifactId>
@@ -100,7 +100,7 @@
     </dependency>
 
 
-   <!-- Testing Dependencies -->
+    <!-- Testing Dependencies -->
 
     <dependency>
       <groupId>org.xwiki.commons</groupId>
@@ -136,7 +136,7 @@
           </excludes>
         </configuration>
       </plugin>
-      <!-- Overwrite these configs from commons pom because we need to replace project.version with the original version, otherwise it will be resolved to 3.1-6878 -->      
+      <!-- Overwrite these configs from commons pom because we need to replace project.version with the original version, otherwise it will be resolved to 3.1-6878 -->
       <!-- We want to force packaging the license resources in the produced XWiki artifacts -->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -146,14 +146,15 @@
             <id>xwiki-license-resources</id>
             <configuration>
               <resourceBundles>
-                <resourceBundle>org.xwiki.commons:xwiki-commons-tool-license-resources:${xwiki.originalVersion}</resourceBundle>
+                <resourceBundle>org.xwiki.commons:xwiki-commons-tool-license-resources:${xwiki.originalVersion}
+                </resourceBundle>
               </resourceBundles>
             </configuration>
           </execution>
         </executions>
       </plugin>
     </plugins>
-    <!-- Overwrite these configs from commons pom because we need to replace project.version with the original version, otherwise it will be resolved to 3.1-6878 -->    
+    <!-- Overwrite these configs from commons pom because we need to replace project.version with the original version, otherwise it will be resolved to 3.1-6878 -->
     <pluginManagement>
       <plugins>
         <!-- Apply checkstyle rules and fail the build in case of errors. The checkstyle config

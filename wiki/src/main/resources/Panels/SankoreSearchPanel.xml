@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Panels</web>
-<name>SankoreSearchPanel</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent>Panels.WebHome</parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1315227596000</creationDate>
-<date>1315227596000</date>
-<contentUpdateDate>1315227596000</contentUpdateDate>
-<version>1.1</version>
-<title></title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden><attachment>
-<filename>loupe.png</filename>
-<filesize>524</filesize>
-<author>XWiki.FlaviusOlaru</author>
-<date>1314266300000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAMAAAANmfvwAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+  <web>Panels</web>
+  <name>SankoreSearchPanel</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>Panels.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1315227596000</creationDate>
+  <date>1315227596000</date>
+  <contentUpdateDate>1315227596000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <attachment>
+    <filename>loupe.png</filename>
+    <filesize>524</filesize>
+    <author>XWiki.FlaviusOlaru</author>
+    <date>1314266300000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAMAAAANmfvwAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAIpQTFRFAAAA////P1Ygc501c501P1Ygc501P1Ygc501WXorc501P1Yg
 c501UnAoQ1wiP1YgQ1sic501c501P1Ygc501Rl8jTGglU3EoYIItY4cuZoswaZAxcJk0c501fKNC
 halOja9blrZon7x0qMKBsMiNuc6awtSny9qz0+DA3OfN5e3Z7vPm9vny////5vLMsgAAABV0Uk5T
@@ -37,13 +40,16 @@ qZSSJUMJb9UrJEcI06Kt9VUyOymhdId7BquVdgKVzCQCnsNsBAptlzZKCYTUXfrASdOlNUKoehc4
 9i5mR7ohvPku+UNS3dqqqHTzKqS7QqpPlMgZ8dqUm775Oek0K0RK856xz0vPICNlTOGeOm3kwGDm
 n53js8sF+3u8rWQ2IM7ECy5usoRvenV1iWMAZLQ53TBwPUzM/2U03x3ssV8HhDwBGJB+wVfAc5IA
 AAAASUVORK5CYII=
-</content></attachment><attachment>
-<filename>BGrechercher.png</filename>
-<filesize>1598</filesize>
-<author>XWiki.FlaviusOlaru</author>
-<date>1313484406000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAFEAAABCCAMAAAAYE8oxAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+</content>
+  </attachment>
+  <attachment>
+    <filename>BGrechercher.png</filename>
+    <filesize>1598</filesize>
+    <author>XWiki.FlaviusOlaru</author>
+    <date>1313484406000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAFEAAABCCAMAAAAYE8oxAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAARRQTFRFAAAA////////c501////////c501////////c501////////
 c501////g6hM////c501q8SG////zNu2////c501////////c501r8eMw9Wp6/Hi////////c501
 3OfN7vPm////nLpxzty43ujQ7/Tnc5014OnS0+C/////c501gadJ////x9iulLRlvNCfc501////
@@ -72,103 +78,105 @@ cCVRvumqUy1TLq+Yc3jsaTSQYDucP0H+4ycuL4iSfNsdqtqcki8sYmY38okzLEI4oSrKre5wik53
 fM0xiaFzd2iQgINepGCxVhuZZUioSm9747iOsYl0qfQ1mCvVeTaxfwYxf4tr/w+ItdxUe3Xi0X8n
 ULc4XYNFVoUVO9JQRdKgdE0+hwgUGRZZEVbsSFURSYZSTia+rv4D6+ZIEcj4CqcAAAAASUVORK5C
 YII=
-</content></attachment>
-<object>
-<class>
-<name>Panels.PanelClass</name>
-<customClass></customClass>
-<customMapping></customMapping>
-<defaultViewSheet></defaultViewSheet>
-<defaultEditSheet></defaultEditSheet>
-<defaultWeb></defaultWeb>
-<nameField></nameField>
-<validationScript></validationScript>
-<category>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>0</multiSelect>
-<name>category</name>
-<number>5</number>
-<prettyName>Category</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<separators> ,|</separators>
-<size>1</size>
-<unmodifiable>0</unmodifiable>
-<values>Information|Navigation|Tools|Administration|Other</values>
-<classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
-</category>
-<content>
-<disabled>0</disabled>
-<editor>Text</editor>
-<name>content</name>
-<number>4</number>
-<prettyName>Content</prettyName>
-<rows>25</rows>
-<size>60</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
 </content>
-<description>
-<disabled>0</disabled>
-<editor>Text</editor>
-<name>description</name>
-<number>3</number>
-<prettyName>Description</prettyName>
-<rows>5</rows>
-<size>40</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</description>
-<name>
-<disabled>0</disabled>
-<name>name</name>
-<number>1</number>
-<prettyName>Name</prettyName>
-<size>40</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
-</name>
-<type>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>0</multiSelect>
-<name>type</name>
-<number>2</number>
-<prettyName>Panel type</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<separators> ,|</separators>
-<size>1</size>
-<unmodifiable>0</unmodifiable>
-<values>view|edit</values>
-<classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
-</type>
-</class>
-<name>Panels.SankoreSearchPanel</name>
-<number>0</number>
-<className>Panels.PanelClass</className>
-<guid>90ae43c1-4c25-46a9-8438-633242d4d46a</guid>
-<property>
-<category>Information</category>
-</property>
-<property>
-<content>{{velocity filter="none"}}
+  </attachment>
+  <object>
+    <class>
+      <name>Panels.PanelClass</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <category>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>category</name>
+        <number>5</number>
+        <prettyName>Category</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>Information|Navigation|Tools|Administration|Other</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </category>
+      <content>
+        <disabled>0</disabled>
+        <editor>Text</editor>
+        <name>content</name>
+        <number>4</number>
+        <prettyName>Content</prettyName>
+        <rows>25</rows>
+        <size>60</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </content>
+      <description>
+        <disabled>0</disabled>
+        <editor>Text</editor>
+        <name>description</name>
+        <number>3</number>
+        <prettyName>Description</prettyName>
+        <rows>5</rows>
+        <size>40</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </description>
+      <name>
+        <disabled>0</disabled>
+        <name>name</name>
+        <number>1</number>
+        <prettyName>Name</prettyName>
+        <size>40</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </name>
+      <type>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>type</name>
+        <number>2</number>
+        <prettyName>Panel type</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>view|edit</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </type>
+    </class>
+    <name>Panels.SankoreSearchPanel</name>
+    <number>0</number>
+    <className>Panels.PanelClass</className>
+    <guid>90ae43c1-4c25-46a9-8438-633242d4d46a</guid>
+    <property>
+      <category>Information</category>
+    </property>
+    <property>
+      <content>{{velocity filter="none"}}
 #if($doc.fullName == "Main.WebHome")
 {{include document="Main.SearchPanelTemplate" /}}
 #end
 {{/velocity}}</content>
-</property>
-<property>
-<description>Sankore Search Panel</description>
-</property>
-<property>
-<name>SankoreSearchPanel</name>
-</property>
-<property>
-<type>view</type>
-</property>
-</object>
-<content>{{include document="Panels.PanelSheet"/}}</content></xwikidoc>
+    </property>
+    <property>
+      <description>Sankore Search Panel</description>
+    </property>
+    <property>
+      <name>SankoreSearchPanel</name>
+    </property>
+    <property>
+      <type>view</type>
+    </property>
+  </object>
+  <content>{{include document="Panels.PanelSheet"/}}</content>
+</xwikidoc>

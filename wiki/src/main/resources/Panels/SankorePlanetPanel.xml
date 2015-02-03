@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Panels</web>
-<name>SankorePlanetPanel</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent>Panels.WebHome</parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1317629538000</creationDate>
-<date>1317629538000</date>
-<contentUpdateDate>1317629538000</contentUpdateDate>
-<version>1.1</version>
-<title></title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden><attachment>
-<filename>BGplanete.png</filename>
-<filesize>2171</filesize>
-<author>XWiki.FlaviusOlaru</author>
-<date>1313476990000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAFEAAAA/CAMAAACvr9QuAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+  <web>Panels</web>
+  <name>SankorePlanetPanel</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>Panels.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1317629538000</creationDate>
+  <date>1317629538000</date>
+  <contentUpdateDate>1317629538000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <attachment>
+    <filename>BGplanete.png</filename>
+    <filesize>2171</filesize>
+    <author>XWiki.FlaviusOlaru</author>
+    <date>1313476990000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAFEAAAA/CAMAAACvr9QuAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAhlQTFRFAAAA////////////1k01////////////1k01////////77iu
 ////////1k01////////1k01////////////1k01////8L62////////1k018cS8////////5pKD
 ////2mBK+eXh////6Z6R////////1k019dPN////////+urn+uro1k019tjS++zp5Y+A8se/////
@@ -66,90 +69,91 @@ fXgDEkFRXHqnEvEa3edOy9PH241d0shQPxix8Jl5Qmp9YUendNQXly18tjhpPnQD2tSg5rPVafju
 12zxtgc8brsn9tb7Jq2BK/1H2pq4p3A98M42Gzjs6XM1d5fiuve5SfqATvbrQ9jEDdL+7ideHF5c
 vA23ONjv6Xbt6k4KWbq/s7fXgzWg6aTH0+t27fKWq0FtmvbavOW60/ofqZeJYbVY1qIAAAAASUVO
 RK5CYII=
-</content></attachment>
-<object>
-<class>
-<name>Panels.PanelClass</name>
-<customClass></customClass>
-<customMapping></customMapping>
-<defaultViewSheet></defaultViewSheet>
-<defaultEditSheet></defaultEditSheet>
-<defaultWeb></defaultWeb>
-<nameField></nameField>
-<validationScript></validationScript>
-<category>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>0</multiSelect>
-<name>category</name>
-<number>5</number>
-<prettyName>Category</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<separators> ,|</separators>
-<size>1</size>
-<unmodifiable>0</unmodifiable>
-<values>Information|Navigation|Tools|Administration|Other</values>
-<classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
-</category>
-<content>
-<disabled>0</disabled>
-<editor>Text</editor>
-<name>content</name>
-<number>4</number>
-<prettyName>Content</prettyName>
-<rows>25</rows>
-<size>60</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
 </content>
-<description>
-<disabled>0</disabled>
-<editor>Text</editor>
-<name>description</name>
-<number>3</number>
-<prettyName>Description</prettyName>
-<rows>5</rows>
-<size>40</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</description>
-<name>
-<disabled>0</disabled>
-<name>name</name>
-<number>1</number>
-<prettyName>Name</prettyName>
-<size>40</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
-</name>
-<type>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>0</multiSelect>
-<name>type</name>
-<number>2</number>
-<prettyName>Panel type</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<separators> ,|</separators>
-<size>1</size>
-<unmodifiable>0</unmodifiable>
-<values>view|edit</values>
-<classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
-</type>
-</class>
-<name>Panels.SankorePlanetPanel</name>
-<number>0</number>
-<className>Panels.PanelClass</className>
-<guid>2d4c990b-d155-4d26-bd5a-9c0f17db04df</guid>
-<property>
-<category>Navigation</category>
-</property>
-<property>
-<content>#if("$!{request.xpage}"!="panel")
+  </attachment>
+  <object>
+    <class>
+      <name>Panels.PanelClass</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <category>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>category</name>
+        <number>5</number>
+        <prettyName>Category</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>Information|Navigation|Tools|Administration|Other</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </category>
+      <content>
+        <disabled>0</disabled>
+        <editor>Text</editor>
+        <name>content</name>
+        <number>4</number>
+        <prettyName>Content</prettyName>
+        <rows>25</rows>
+        <size>60</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </content>
+      <description>
+        <disabled>0</disabled>
+        <editor>Text</editor>
+        <name>description</name>
+        <number>3</number>
+        <prettyName>Description</prettyName>
+        <rows>5</rows>
+        <size>40</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </description>
+      <name>
+        <disabled>0</disabled>
+        <name>name</name>
+        <number>1</number>
+        <prettyName>Name</prettyName>
+        <size>40</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </name>
+      <type>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>type</name>
+        <number>2</number>
+        <prettyName>Panel type</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>view|edit</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </type>
+    </class>
+    <name>Panels.SankorePlanetPanel</name>
+    <number>0</number>
+    <className>Panels.PanelClass</className>
+    <guid>2d4c990b-d155-4d26-bd5a-9c0f17db04df</guid>
+    <property>
+      <category>Navigation</category>
+    </property>
+    <property>
+      <content>#if("$!{request.xpage}"!="panel")
 #includeMacros("SankoreCode.PanelsMacros")
 #sankore_panelheader($msg.get("panel.sankoreplanet.title") "" "planete imgpanel" "/xwiki/bin/download/Panels/SankorePlanetPanel/BGplanete.png")
 #end
@@ -160,13 +164,17 @@ RK5CYII=
   #end
 #sankore_panelfooter()
 #end
-</content></property><property><description>Login/Register panel</description>
-</property>
-<property>
-<name>SankorePlanetPanel</name>
-</property>
-<property>
-<type>view</type>
-</property>
-</object>
-<content>#includeForm("Panels.PanelSheet")</content></xwikidoc>
+</content>
+    </property>
+    <property>
+      <description>Login/Register panel</description>
+    </property>
+    <property>
+      <name>SankorePlanetPanel</name>
+    </property>
+    <property>
+      <type>view</type>
+    </property>
+  </object>
+  <content>#includeForm("Panels.PanelSheet")</content>
+</xwikidoc>

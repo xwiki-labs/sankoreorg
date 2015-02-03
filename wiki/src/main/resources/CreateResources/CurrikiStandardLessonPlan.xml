@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>CreateResources</web>
-<name>CurrikiStandardLessonPlan</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent>Main.AboutContributing</parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1316703086000</creationDate>
-<date>1316703086000</date>
-<contentUpdateDate>1316703086000</contentUpdateDate>
-<version>1.1</version>
-<title></title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<content>## http://next.dev.curriki.org/xwiki/bin/edit/CreateResources/CurrikiStandardLessonPlan
+  <web>CreateResources</web>
+  <name>CurrikiStandardLessonPlan</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>Main.AboutContributing</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1316703086000</creationDate>
+  <date>1316703086000</date>
+  <contentUpdateDate>1316703086000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <content>## http://next.dev.curriki.org/xwiki/bin/edit/CreateResources/CurrikiStandardLessonPlan
 ## originally from http://next.dev.curriki.org/xwiki/bin/view/Groups/CreateNewGroup?viewer=code&amp;showlinenumbers=0&amp;language=en
 ## NPM attempting to emulate first form in http://www.curriki.org/xwiki/bin/view/Project/Form+Templates?xpage=print&amp;language=en
 ##
@@ -663,4 +664,5 @@ tinyMCE.convertURL = function(url, node, on_save) { return url; };
 &lt;/script&gt;{/pre}
 #end ## } -- else, aka "$!newAsset"!="" 
 #end ## } -- $context.user=="XWiki.XWikiGuest"
-</content></xwikidoc>
+</content>
+</xwikidoc>

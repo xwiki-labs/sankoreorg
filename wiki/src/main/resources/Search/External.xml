@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Search</web>
-<name>External</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1346457600000</creationDate>
-<date>1346457600000</date>
-<contentUpdateDate>1346457600000</contentUpdateDate>
-<version>1.1</version>
-<title>External</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<content>#if($request.xpage != "plain")
+  <web>Search</web>
+  <name>External</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>Search.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1346457600000</creationDate>
+  <date>1346457600000</date>
+  <contentUpdateDate>1346457600000</contentUpdateDate>
+  <version>1.1</version>
+  <title>External</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <content>#if($request.xpage != "plain")
 
 #set($subjects = $xwiki.searchDocuments(", BaseObject AS obj WHERE doc.fullName=obj.name AND obj.className='XWiki.FrameworkItemClass' AND doc.parent=''"))
 #set($levels = $xwiki.searchDocuments(", BaseObject AS obj WHERE doc.fullName=obj.name AND obj.className='CurrikiCode.EducationalLevelClass' AND doc.parent=''"))
@@ -687,4 +688,5 @@ $ict:
     }
   #end
 #end 
-{/pre}</content></xwikidoc>
+{/pre}</content>
+</xwikidoc>

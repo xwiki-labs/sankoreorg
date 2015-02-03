@@ -1,108 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Registration</web>
-<name>EmailSent</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent>Main.WebHome</parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1346066894000</creationDate>
-<date>1346066894000</date>
-<contentUpdateDate>1346066894000</contentUpdateDate>
-<version>1.1</version>
-<title>Email Sent</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<object>
-<class>
-<name>XWiki.StyleSheetExtension</name>
-<customClass></customClass>
-<customMapping></customMapping>
-<defaultViewSheet></defaultViewSheet>
-<defaultEditSheet></defaultEditSheet>
-<defaultWeb></defaultWeb>
-<nameField></nameField>
-<validationScript></validationScript>
-<cache>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>0</multiSelect>
-<name>cache</name>
-<number>5</number>
-<prettyName>Caching policy</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<separators> ,|</separators>
-<size>1</size>
-<unmodifiable>0</unmodifiable>
-<values>long|short|default|forbid</values>
-<classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
-</cache>
-<code>
-<disabled>0</disabled>
-<name>code</name>
-<number>2</number>
-<prettyName>Code</prettyName>
-<rows>20</rows>
-<size>50</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</code>
-<name>
-<disabled>0</disabled>
-<name>name</name>
-<number>1</number>
-<prettyName>Name</prettyName>
-<size>30</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
-</name>
-<parse>
-<disabled>0</disabled>
-<displayFormType>select</displayFormType>
-<displayType>yesno</displayType>
-<name>parse</name>
-<number>4</number>
-<prettyName>Parse content</prettyName>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
-</parse>
-<use>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>0</multiSelect>
-<name>use</name>
-<number>3</number>
-<prettyName>Use this extension</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<separators> ,|</separators>
-<size>1</size>
-<unmodifiable>0</unmodifiable>
-<values>currentPage=Always on this page|onDemand=On demand|always=Always on this wiki</values>
-<classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
-</use>
-</class>
-<name>Registration.EmailSent</name>
-<number>0</number>
-<className>XWiki.StyleSheetExtension</className>
-<guid>89b47fec-c8b2-450d-9685-4c82ba629643</guid>
-<property>
-<cache>long</cache>
-</property>
-<property>
-<code>#breadcrumb {
+  <web>Registration</web>
+  <name>EmailSent</name>
+  <language/>
+  <defaultLanguage>en</defaultLanguage>
+  <translation>0</translation>
+  <parent>Main.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1346066894000</creationDate>
+  <date>1346066894000</date>
+  <contentUpdateDate>1346066894000</contentUpdateDate>
+  <version>1.1</version>
+  <title>Email Sent</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <object>
+    <class>
+      <name>XWiki.StyleSheetExtension</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <cache>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>cache</name>
+        <number>5</number>
+        <prettyName>Caching policy</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>long|short|default|forbid</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </cache>
+      <code>
+        <disabled>0</disabled>
+        <name>code</name>
+        <number>2</number>
+        <prettyName>Code</prettyName>
+        <rows>20</rows>
+        <size>50</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </code>
+      <name>
+        <disabled>0</disabled>
+        <name>name</name>
+        <number>1</number>
+        <prettyName>Name</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </name>
+      <parse>
+        <disabled>0</disabled>
+        <displayFormType>select</displayFormType>
+        <displayType>yesno</displayType>
+        <name>parse</name>
+        <number>4</number>
+        <prettyName>Parse content</prettyName>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
+      </parse>
+      <use>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>use</name>
+        <number>3</number>
+        <prettyName>Use this extension</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>currentPage=Always on this page|onDemand=On demand|always=Always on this wiki</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </use>
+    </class>
+    <name>Registration.EmailSent</name>
+    <number>0</number>
+    <className>XWiki.StyleSheetExtension</className>
+    <guid>89b47fec-c8b2-450d-9685-4c82ba629643</guid>
+    <property>
+      <cache>long</cache>
+    </property>
+    <property>
+      <code>#breadcrumb {
   display:none;
 }
 
@@ -131,16 +132,19 @@ h1#HEnregistrez-vouspourrejoindrePlanE8teSankorE9 {
   text-indent: -2000px;
 }
 
-</code></property><property><name>ConfirmRegistrationSSX</name>
-</property>
-<property>
-<parse>0</parse>
-</property>
-<property>
-<use>currentPage</use>
-</property>
-</object>
-<content>
+</code>
+    </property>
+    <property>
+      <name>ConfirmRegistrationSSX</name>
+    </property>
+    <property>
+      <parse>0</parse>
+    </property>
+    <property>
+      <use>currentPage</use>
+    </property>
+  </object>
+  <content>
 #set($from = $xwiki.getXWikiPreference("admin_email"))
 The first step in becoming a Planète Sankoré member is now complete.
 
@@ -151,4 +155,5 @@ If you do not see the email, it may be because of a SPAM filter. Check your SPAM
 *If you have not received an email within 10 minutes, please contact Planète Sankoré by using the content form at the lower right of this page.
 
 
-</content></xwikidoc>
+</content>
+</xwikidoc>

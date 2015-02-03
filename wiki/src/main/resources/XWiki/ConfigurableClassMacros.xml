@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>XWiki</web>
-<name>ConfigurableClassMacros</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent>XWiki.ConfigurableClass</parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1265771770000</creationDate>
-<date>1419238944000</date>
-<contentUpdateDate>1419238944000</contentUpdateDate>
-<version>3.1</version>
-<title>$msg.get("xe.admin.configurable.macros.title")</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment>Imported from XAR</comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden>
-<content>{{velocity output="false"}}
+  <web>XWiki</web>
+  <name>ConfigurableClassMacros</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>XWiki.ConfigurableClass</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1265771770000</creationDate>
+  <date>1419238944000</date>
+  <contentUpdateDate>1419238944000</contentUpdateDate>
+  <version>1.1</version>
+  <title>$msg.get("xe.admin.configurable.macros.title")</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <content>{{velocity output="false"}}
 ## Constants:
 #set($redirectParameter = 'xredirect')
 #set($nameOfThisDocument = 'XWiki.ConfigurableClass')
@@ -271,4 +272,5 @@
     &lt;/dl&gt;
   #end
 #end## define $formHtml
-{{/velocity}}</content></xwikidoc>
+{{/velocity}}</content>
+</xwikidoc>

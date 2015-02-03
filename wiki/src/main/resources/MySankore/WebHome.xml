@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>MySankore</web>
-<name>WebHome</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1317814425000</creationDate>
-<date>1317814425000</date>
-<contentUpdateDate>1317814425000</contentUpdateDate>
-<version>1.1</version>
-<title>My planete.Sankoré</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<content>#if ("$!request.user" != "")
+  <web>MySankore</web>
+  <name>WebHome</name>
+  <language/>
+  <defaultLanguage>en</defaultLanguage>
+  <translation>0</translation>
+  <parent>MySankore.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1317814425000</creationDate>
+  <date>1317814425000</date>
+  <contentUpdateDate>1317814425000</contentUpdateDate>
+  <version>1.1</version>
+  <title>My planete.Sankoré</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <content>#if ("$!request.user" != "")
   #set($userarg = "user=${request.user}")
   $response.sendRedirect($xwiki.getURL('MySankore.Profile', 'view', "$userarg"))
 #elseif("$context.user" == "$!userdoc.fullName")
@@ -32,4 +33,5 @@
   $response.sendRedirect($xwiki.getURL('MySankore.Profile', 'view', "$userarg"))
 #else
   $response.sendRedirect($xwiki.getURL('MySankore.Profile'))
-#end</content></xwikidoc>
+#end</content>
+</xwikidoc>

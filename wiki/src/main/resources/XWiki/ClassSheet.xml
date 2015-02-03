@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>XWiki</web>
-<name>ClassSheet</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1418901317000</creationDate>
-<date>1418901377000</date>
-<contentUpdateDate>1418901377000</contentUpdateDate>
-<version>1.1</version>
-<title>ClassSheet</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden>
-<content>{{velocity}}
+  <web>XWiki</web>
+  <name>ClassSheet</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>XWiki.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1418901317000</creationDate>
+  <date>1418901377000</date>
+  <contentUpdateDate>1418901377000</contentUpdateDate>
+  <version>1.1</version>
+  <title>ClassSheet</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <content>{{velocity}}
 #if($doc.fullName == 'XWiki.ClassSheet')
   ## Viewing the sheet document itself
   You can edit this document to change the default presentation of classes, or you can copy it to create a customized view just for one or several classes.
@@ -167,4 +168,5 @@ Class properties:
   #end
 
 #end ## doc == XWiki.ClassSheet
-{{/velocity}}</content></xwikidoc>
+{{/velocity}}</content>
+</xwikidoc>

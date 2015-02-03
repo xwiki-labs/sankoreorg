@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Groups</web>
-<name>CreateNewGroupDone</name>
-<language>fr</language>
-<defaultLanguage></defaultLanguage>
-<translation>1</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1344265711000</creationDate>
-<date>1344265711000</date>
-<contentUpdateDate>1344265711000</contentUpdateDate>
-<version>1.1</version>
-<title>Vous avez créé un groupe sur Planète Sankoré</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<content>#**
+  <web>Groups</web>
+  <name>CreateNewGroupDone</name>
+  <language>fr</language>
+  <defaultLanguage>en</defaultLanguage>
+  <translation>1</translation>
+  <parent>Groups.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1344265711000</creationDate>
+  <date>1344265711000</date>
+  <contentUpdateDate>1344265711000</contentUpdateDate>
+  <version>1.1</version>
+  <title>Vous avez créé un groupe sur Planète Sankoré</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <content>#**
  * BE CAREFUL, THIS PAGE HAS AN ENGLISH TRANSLATION
  * Confirmation Content Page after creating a group
  * @translate This page requires full translation
@@ -72,4 +73,5 @@ Est-ce que votre groupe partagera ou créera des parcours de connaissances ? Cli
 &lt;/p&gt;
 &lt;/form&gt;
 
-&lt;/div&gt;</content></xwikidoc>
+&lt;/div&gt;</content>
+</xwikidoc>

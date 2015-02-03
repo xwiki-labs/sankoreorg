@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>LaCommunaute</web>
-<name>LaCommunaute</name>
-<language></language>
-<defaultLanguage>fr</defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1346067315000</creationDate>
-<date>1346067315000</date>
-<contentUpdateDate>1346067315000</contentUpdateDate>
-<version>1.1</version>
-<title>La communauté</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden><attachment>
-<filename>lacommunauteintro.jpg</filename>
-<filesize>131301</filesize>
-<author>XWiki.IonutMaxim</author>
-<date>1345716939000</date>
-<version>1.3</version>
-<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+  <web>LaCommunaute</web>
+  <name>LaCommunaute</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>LaCommunaute.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1346067315000</creationDate>
+  <date>1346067315000</date>
+  <contentUpdateDate>1346067315000</contentUpdateDate>
+  <version>1.1</version>
+  <title>La communauté</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <attachment>
+    <filename>lacommunauteintro.jpg</filename>
+    <filesize>131301</filesize>
+    <author>XWiki.IonutMaxim</author>
+    <date>1345716939000</date>
+    <version>1.3</version>
+    <comment/>
+    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -2330,13 +2333,16 @@ Lycm/nrzJLbPyPvr0mO/leP3VDP9qD6n/Z4yD/7d9b0mHR+XfKOp6X5up1ev/wDV/wBD1d+fr/0z
 H9l3yL+lf2bdTfp/Nv6f97vmPzL4OXX0J8vtnwkmz4b1+Xu3f/l93/3a+de/9/6yTd8Rbw8zZs//
 ACO3X+VUwEep90y8nNt94Zvf5d6brep+af0n5t1/j+8XX/X7f0Tm/UfY69pw/wCaNtv/ALP+WvKs
 v+e1+/8AyVHnIfX+WG/9vcnqQ/UfLuh9Xz2/pHP+TUaX+a8aTFbzvD76jcvvzK7+t/Dy7+Xs8vo1
-E19f3VPhtf8A7b19iP7X/Ov9C+t/OfyNeVVuK//Z</content></attachment><attachment>
-<filename>lacommunaute3.jpg</filename>
-<filesize>34530</filesize>
-<author>XWiki.IonutMaxim</author>
-<date>1345716939000</date>
-<version>1.2</version>
-<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+E19f3VPhtf8A7b19iP7X/Ov9C+t/OfyNeVVuK//Z</content>
+  </attachment>
+  <attachment>
+    <filename>lacommunaute3.jpg</filename>
+    <filesize>34530</filesize>
+    <author>XWiki.IonutMaxim</author>
+    <date>1345716939000</date>
+    <version>1.2</version>
+    <comment/>
+    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -2941,13 +2947,16 @@ qtQOAVwWnOYTKoXgCsc7x72Yd4ln47y7iTMOFrrd7Vb7rO/gHJP5mcUPREw/qnBHXGthzxE+BAeZ
 CnQw4lpxK3zWgBR1sbOwum2Yt7kHOMJgpwVVjmfN1/p1/rdTUNJNM0XuJOVjmZj+cQ4CZ2yE9m2G
 t5p7bHfNOu0iTjXb863EkNASTI5M4VZcfcaSplv020cjNobR6KE7agbQo9JqaXUcrQ1QeIiop3oY
 G4Bw603p074cH2c9ifedxi93VOch8QHHmuQ+zrmzjHBmf5gcW3ZV85Fyn+Gv4ZsZNkzW4otpuYgv
-j6qWWILAQPVeRUVettOfSDwWhXUnNxG1JY8MYcr3zar2OXwNqNKbZLwSP//Z</content></attachment><attachment>
-<filename>lacommunaute4.jpg</filename>
-<filesize>53256</filesize>
-<author>XWiki.IonutMaxim</author>
-<date>1345716939000</date>
-<version>1.2</version>
-<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+j6qWWILAQPVeRUVettOfSDwWhXUnNxG1JY8MYcr3zar2OXwNqNKbZLwSP//Z</content>
+  </attachment>
+  <attachment>
+    <filename>lacommunaute4.jpg</filename>
+    <filesize>53256</filesize>
+    <author>XWiki.IonutMaxim</author>
+    <date>1345716939000</date>
+    <version>1.2</version>
+    <comment/>
+    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -3881,13 +3890,16 @@ z2Ky3dNsj/msYS+IOpQynTnQCoZgcqHInFIdc7p0/f8AU9zcbA4baSECMEdA1EGohWVWHiqM1BNK
 8Dg4sJzPjqWzvFn274cS3iyVQ6wLYzWHKjUYJwosEherUcqdyJ09v5/j0SNlcUIC8+0fjhSNzCWB
 LcO44uODzzwzXRYgxbBpCDRikVue1CK1URO5rVdRM6p3Kqr60Dbrkfk+0fjj6bqE/m+w4pvkrfcS
 3eywmxo9C2XOqt1lptv0pL2M+LQQpH3FnLcsqpB9x8L4YV+MauK5XfSx39JEFhKkjystHMLKDUc6
-Zce72Y1y3SOqoD4RIDz78f/Z</content></attachment><attachment>
-<filename>lacommunaute1.jpg</filename>
-<filesize>27126</filesize>
-<author>XWiki.IonutMaxim</author>
-<date>1345716939000</date>
-<version>1.2</version>
-<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+Zce72Y1y3SOqoD4RIDz78f/Z</content>
+  </attachment>
+  <attachment>
+    <filename>lacommunaute1.jpg</filename>
+    <filesize>27126</filesize>
+    <author>XWiki.IonutMaxim</author>
+    <date>1345716939000</date>
+    <version>1.2</version>
+    <comment/>
+    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -4362,13 +4374,16 @@ AzTtSdPdTuJ1o9f/AKR/ja94eTPgZp2pOnup3E60ev8A9I/xte8PJnwM07UnT3U7idaPX/6R/ja9
 /wAbXvDyZ8DNO1J091O4nWj1/wDpH+Nr3h5M+Bmnak6e6ncTrSHn+ufpYfPu+a5R71PuiF5vQnIp
 OICYRDZSokNw39jTtSdPdTuJ1rR+u30w/Gb7zMg/BPTtSdPdTuJ1o9dvph+M33mZB+Cenak6e6nc
 TrR67fTD8ZvvMyD8E9O1J091O4nWj12+mH4zfeZkH4J6dqTp7qdxOtR/z91SYIu36FPRi9ec/RHq
-Axxd7D/sxcWXm+rwPnnztJ/5QrzTyvyTytP7Ch3rhTm8RM2w7TSNxe44qag7qbWPOv/Z</content></attachment><attachment>
-<filename>lacommunaute2.jpg</filename>
-<filesize>22002</filesize>
-<author>XWiki.IonutMaxim</author>
-<date>1345716939000</date>
-<version>1.2</version>
-<comment></comment><content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
+Axxd7D/sxcWXm+rwPnnztJ/5QrzTyvyTytP7Ch3rhTm8RM2w7TSNxe44qag7qbWPOv/Z</content>
+  </attachment>
+  <attachment>
+    <filename>lacommunaute2.jpg</filename>
+    <filesize>22002</filesize>
+    <author>XWiki.IonutMaxim</author>
+    <date>1345716939000</date>
+    <version>1.2</version>
+    <comment/>
+    <content>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QO+aHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
 aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6
@@ -4754,88 +4769,89 @@ xE307f8ApH62vcPJnMynCk3fFTiJvp2/9I/W17h5M5mU4Um74qcRN9O3/pH62vcPJnMynCk3fFTi
 Jvp2/wDSP1te4eTOZlOFJu+KnETfTt/6R+tr3DyZzMpwpN3xU4ib61gOu/SnaZGuvSp/YBRkhvso
 9R8j/KsA6qFIieC9T+G+Qkdhbrc7n5dm3b8lW6G4Oi3e1X/5VHiJqvfZauI6ktX+nWf9AfqlkPlb
 1K1K4syBJv8AZKcoOTIjHOXeWnb/AMTjKPjnE+OF/sE/CqjN1+zLFsvsikbi9x2qaw7qbWPlr//Z
-</content></attachment>
-<object>
-<class>
-<name>XWiki.StyleSheetExtension</name>
-<customClass></customClass>
-<customMapping></customMapping>
-<defaultViewSheet></defaultViewSheet>
-<defaultEditSheet></defaultEditSheet>
-<defaultWeb></defaultWeb>
-<nameField></nameField>
-<validationScript></validationScript>
-<cache>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>0</multiSelect>
-<name>cache</name>
-<number>5</number>
-<prettyName>Caching policy</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<separators> ,|</separators>
-<size>1</size>
-<unmodifiable>0</unmodifiable>
-<values>long|short|default|forbid</values>
-<classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
-</cache>
-<code>
-<disabled>0</disabled>
-<name>code</name>
-<number>2</number>
-<prettyName>Code</prettyName>
-<rows>20</rows>
-<size>50</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
-</code>
-<name>
-<disabled>0</disabled>
-<name>name</name>
-<number>1</number>
-<prettyName>Name</prettyName>
-<size>30</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
-</name>
-<parse>
-<disabled>0</disabled>
-<displayFormType>select</displayFormType>
-<displayType>yesno</displayType>
-<name>parse</name>
-<number>4</number>
-<prettyName>Parse content</prettyName>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
-</parse>
-<use>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>0</multiSelect>
-<name>use</name>
-<number>3</number>
-<prettyName>Use this extension</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<separators> ,|</separators>
-<size>1</size>
-<unmodifiable>0</unmodifiable>
-<values>currentPage=Always on this page|onDemand=On demand|always=Always on this wiki</values>
-<classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
-</use>
-</class>
-<name>LaCommunaute.LaCommunaute</name>
-<number>0</number>
-<className>XWiki.StyleSheetExtension</className>
-<guid>d2e6469f-64a0-42b3-a97e-63293948e741</guid>
-<property>
-<cache>short</cache>
-</property>
-<property>
-<code>#intro {
+</content>
+  </attachment>
+  <object>
+    <class>
+      <name>XWiki.StyleSheetExtension</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <cache>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>cache</name>
+        <number>5</number>
+        <prettyName>Caching policy</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>long|short|default|forbid</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </cache>
+      <code>
+        <disabled>0</disabled>
+        <name>code</name>
+        <number>2</number>
+        <prettyName>Code</prettyName>
+        <rows>20</rows>
+        <size>50</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+      </code>
+      <name>
+        <disabled>0</disabled>
+        <name>name</name>
+        <number>1</number>
+        <prettyName>Name</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </name>
+      <parse>
+        <disabled>0</disabled>
+        <displayFormType>select</displayFormType>
+        <displayType>yesno</displayType>
+        <name>parse</name>
+        <number>4</number>
+        <prettyName>Parse content</prettyName>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
+      </parse>
+      <use>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>use</name>
+        <number>3</number>
+        <prettyName>Use this extension</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>currentPage=Always on this page|onDemand=On demand|always=Always on this wiki</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </use>
+    </class>
+    <name>LaCommunaute.LaCommunaute</name>
+    <number>0</number>
+    <className>XWiki.StyleSheetExtension</className>
+    <guid>d2e6469f-64a0-42b3-a97e-63293948e741</guid>
+    <property>
+      <cache>short</cache>
+    </property>
+    <property>
+      <code>#intro {
   background: #FFF url("/xwiki/bin/download/LaCommunaute/LaCommunaute/lacommunauteintro.jpg") no-repeat 10px 10px; 
   padding: 10px;
   width: 680px;
@@ -4886,18 +4902,18 @@ a.button.button-red {
   float: none;
   margin: 0 auto;
 }</code>
-</property>
-<property>
-<name>LaCommunauteSSX</name>
-</property>
-<property>
-<parse>1</parse>
-</property>
-<property>
-<use>currentPage</use>
-</property>
-</object>
-<content>{{velocity}}
+    </property>
+    <property>
+      <name>LaCommunauteSSX</name>
+    </property>
+    <property>
+      <parse>1</parse>
+    </property>
+    <property>
+      <use>currentPage</use>
+    </property>
+  </object>
+  <content>{{velocity}}
 {{html}}
 &lt;div id="intro"&gt;
 &lt;!--
@@ -4955,4 +4971,5 @@ DE TRAVAIL&lt;/h3&gt;
 &lt;a class="button button-red" href="/xwiki/bin/view/Main/JoinSankore"&gt;Rejoignez la communaute Planete Sankore&lt;/a&gt;
 
 {{/html}}
-{{/velocity}}</content></xwikidoc>
+{{/velocity}}</content>
+</xwikidoc>

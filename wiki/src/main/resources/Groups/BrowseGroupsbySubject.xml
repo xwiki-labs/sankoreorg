@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Groups</web>
-<name>BrowseGroupsbySubject</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1316003112000</creationDate>
-<date>1316003112000</date>
-<contentUpdateDate>1316003112000</contentUpdateDate>
-<version>1.1</version>
-<title></title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<content>########## MACROS ##################
+  <web>Groups</web>
+  <name>BrowseGroupsbySubject</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>Groups.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1316003112000</creationDate>
+  <date>1316003112000</date>
+  <contentUpdateDate>1316003112000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <content>########## MACROS ##################
 #macro(subjectcard $subject $count)
 #set($sdoc = $xwiki.getDocument($subject))
 #set($topiclink = $doc.getURL()+"?subject=")
@@ -142,4 +143,5 @@ bad request
 #end
 
 &lt;/div&gt;
-</content></xwikidoc>
+</content>
+</xwikidoc>
