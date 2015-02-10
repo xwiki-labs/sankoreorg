@@ -1,6 +1,6 @@
 Ext.ns('Curriki.module.search');
 (function(){
-	
+
   var Search = Curriki.module.search;
 
   Search.settings = {
@@ -112,10 +112,10 @@ module.init = function(){
     );
 
   };
-	
+
 	module.getFilters = function(modName) {
-		
-		var filters = {};		
+
+		var filters = {};
 
     // Module panel
     filterPanel = Ext.getCmp('search-filterPanel-'+modName);
@@ -125,17 +125,17 @@ module.init = function(){
         Ext.apply(filters, filterForm.getValues(false));
       }
     }
-    
+
     // set terms
     filters.terms = module.getTerms();
-		
+
 		return filters;
 	}
-	
+
 	module.getTerms = function() {
-	  
+
 	  var terms = "";
-	  
+
 	  // Global panel (if exists)
     var termPanel = Ext.getCmp('search-termPanel');
     if (!Ext.isEmpty(termPanel)) {
@@ -147,12 +147,12 @@ module.init = function(){
         }
       }
     }
-    
+
     return terms;
-	}	
-	
+	}
+
 	module.applyFiltersFor = function(filterValues, modName) {
-		
+
 		var filters = {};
 		var list = Search.data[modName].filter.list;
 		Ext.each(list, function(filter){
@@ -163,15 +163,15 @@ module.init = function(){
 		});
 		return filters;
 	}
-	
-	module.applyTermsFor = function(filters, terms, modName) {	  
+
+	module.applyTermsFor = function(filters, terms, modName) {
 	  filters['all'] = terms;
-	  
+
 	  return filters;
 	}
-	
+
 	module.registerStoreListeners = function(modName) {
-		
+
 		// Adjust title with count
     Ext.StoreMgr.lookup('search-store-'+modName).addListener(
       'datachanged'
@@ -192,10 +192,10 @@ module.init = function(){
 			    if (overmax && (__('search.grid.title.resultsmax_exceeds') !== 'search.grid.title.resultsmax_exceeds')) {
 				    titleMsg = __('search.grid.title.resultsmax_exceeds');
 			    }
-			
+
 			    grid.setTitle(String.format(titleMsg, _('search.' + modName + '.grid.title'), resultCount, totalCount));
-			
-			
+
+
 			    var pager = Ext.getCmp('search-pager-' + modName);
 			    if (!Ext.isEmpty(pager)) {
 				    var afterPageText = __('search.pagination.afterpage');
@@ -203,7 +203,7 @@ module.init = function(){
 					    afterPageText = __('search.pagination.afterpage_resultsmax_exceeds');
 				    }
 				    pager.afterPageText = String.format(afterPageText, '{0}', totalCount);
-				
+
 				    var displayMsg = __('search.pagination.displaying.' + modName);
 				    if (overmax && (__('search.pagination.displaying.' + modName + '_resultsmax_exceeds') !== 'search.pagination.displaying.' + modName + '_resultsmax_exceeds')) {
 					    displayMsg = __('search.pagination.displaying.' + modName + '_resultsmax_exceeds');
@@ -221,7 +221,7 @@ module.init = function(){
   // Perform a search for a module
   module.doSearch = function(modName, start){
     console.log('Doing search', modName, start);
-		
+
     var filters = module.getFilters(modName);
 
     console.log('Applying search filters', filters);
@@ -229,18 +229,18 @@ module.init = function(){
 		if (!Ext.isEmpty(store)) {
 			// apply filters
 			Ext.apply(Ext.StoreMgr.lookup('search-store-'+modName).baseParams || {}, filters);
-			
+
 			console.log('Done util.doSearch', filters);
 			// load store
 			var pager = Ext.getCmp('search-pager-'+modName)
 			console.log('Searching', filters);
-      if (!Ext.isEmpty(pager)) {    
+      if (!Ext.isEmpty(pager)) {
         //pager.doLoad(Ext.num(start, 0)); // Reset to first page if the tab is shown
 				store.load();
       } else {
         store.load();
       }
-			
+
 			var token = {
 				's': modName
 				,'f': {
@@ -258,15 +258,15 @@ module.init = function(){
       var encodedToken = provider.encodeValue(token);
       console.log('Saving History', {values: token});
       Search.history.addToken(encodedToken);
-		}    
+		}
   };
-	
+
 	module.doGridSearch = function(grid, filters) {
 		if (!Ext.isEmpty(grid)) {
 		  var store = grid.getStore();
 		  if (!Ext.isEmpty(store)) {
 				Ext.apply(store.baseParams || {}, filters);
-				store.load();			
+				store.load();
 		  }
 	  }
 	}
@@ -274,7 +274,7 @@ module.init = function(){
   // General term panel (terms and search button)
   module.createTermPanel = function(modName, form) {
     return {
-      xtype:'form'      
+      xtype:'form'
       ,labelAlign:'left'
       ,id:'search-termPanel'
       ,formId:'search-termForm'
@@ -335,7 +335,7 @@ module.init = function(){
                 ,href:'#'
                 ,html:'Comment fonctionne le moteur sankoré?'
               }
-            }]            
+            }]
           }]
         },{
           layout:'form'
@@ -350,7 +350,7 @@ module.init = function(){
               click:{
                 fn: function(){
                   if (modName == 'global') {
-                    terms = Ext.getCmp("search-termPanel-terms").getValue(); 
+                    terms = Ext.getCmp("search-termPanel-terms").getValue();
                     window.location.href = '/xwiki/bin/view/Search/WebHome#o%3As%3Ds%253Aresource%5Ef%3Do%253Aresource%253Do%25253Acategory%25253Ds%2525253A%25255Esystem%25253Ds%2525253AAssetMetadata.InternationalEducation%25255Elevel%25253Ds%2525253A%25255Esublevel%25253Ds%2525253A%25255Esubject%25253Ds%2525253A%25255Esubsubject%25253Ds%2525253A%25255Eict%25253Ds%2525253A%25255Esubict%25253Ds%2525253A%25255Elanguage%25253Ds%2525253A%25255Especial%25253Ds%2525253A%25255Eterms%25253Ds%2525253A'+terms+'%5Et%3Ds%253Aresource%5Ea%3Db%253A0';
                   } else{
                     Search.doSearch(modName, true);
@@ -450,17 +450,17 @@ data.init = function(){
   // Set up filters
   data.filter = {};
   var f = data.filter; // Alias
-  
+
 	f.list = ['terms', 'system', 'level', 'sublevel', 'subject', 'subsubject', 'ict', 'subict', 'category', 'language', 'review', 'special'];
 
-  f.data = {};	
-  
+  f.data = {};
+
   f.data.system = {
     list: Curriki.data.education_system.list
     ,data: [
       ['AssetMetadata.InternationalEducation', _('CurrikiCode.AssetClass_education_system_AssetMetadata.InternationalEducation')]
     ]
-  }  
+  }
   f.data.system.list.each(function(item){
     f.data.system.data.push([
       item.id
@@ -499,15 +499,15 @@ data.init = function(){
           parent = item.parent;
       }
     });
-      
+
     f.data.level.data.push([
       value
       ,_('CurrikiCode.AssetClass_educational_level_'+value)
       ,parent
     ]);
   });
-  
-  
+
+
   f.data.sublevel =  {
     mapping: Curriki.data.el.elMap
     ,data: [
@@ -529,7 +529,7 @@ data.init = function(){
       });
     }
   });
-  
+
   f.data.subject =  {
     mapping: Curriki.data.fw_item.fwMap['TREEROOTNODE']
     ,list: []
@@ -556,7 +556,7 @@ data.init = function(){
       if(value == item.id) {
         //parent = item.parent;
         level = item.value;
-      }      
+      }
     });
     f.data.subject.data.push([
       value
@@ -627,24 +627,24 @@ data.init = function(){
       });
     }
   });
-  
+
   f.data.category =  {
     list: Curriki.data.category.list
     ,data: [
       ['', _('CurrikiCode.AssetClass_category_UNSPECIFIED'), ' ']
     ]
   };
-  
+
   f.data.category.list.each(function(value){
     var sort = _('CurrikiCode.AssetClass_category_'+value);
     if (value === 'unknown') {
       sort = 'zzz';
-    }    
+    }
     f.data.category.data.push([
       value
       ,_('CurrikiCode.AssetClass_category_'+value)
       ,sort
-    ]);    
+    ]);
   });
   // category doesn't need to be sorted because it is sorted somewhere further
 
@@ -732,7 +732,7 @@ data.init = function(){
       ,data: f.data.subict.data
       ,id: 0
     })
-    
+
     ,category: new Ext.data.SimpleStore({
       fields: ['id', 'category', 'sortValue']
       ,sortInfo: {field:'sortValue', direction:'ASC'}
@@ -797,7 +797,7 @@ data.init = function(){
     ,remoteSort: true
   });
 
-  
+
 
   // Set up renderers
   data.renderer = {
@@ -867,8 +867,10 @@ data.init = function(){
     }
     ,result: function(value, metadata, record, rowIndex, colIndex, store) {
       var page = record.id.replace(/\./, '/');
-      
-      var title = String.format('<a href="/xwiki/bin/view/{0}">{1}</a>', page, Ext.util.Format.ellipsis(record.data.title, 160));
+      //Embed mode
+	  page = page + embedLinksQueryString;
+	  //
+	  var title = String.format('<a href="/xwiki/bin/view/{0}">{1}</a>', page, Ext.util.Format.ellipsis(record.data.title, 160));
       var desc = Ext.htmlDecode(Ext.util.Format.ellipsis(Ext.util.Format.stripTags(record.data.description), 256));
       var imgsrc = "/xwiki/skins/curriki20/icons/mediatype/";
       if (record.data.category == "text" || record.data.category == "document") {
@@ -886,33 +888,33 @@ data.init = function(){
       } else if (record.data.category == "external") {
         imgsrc = imgsrc + "weblink_large.gif";
       } else if (record.data.category == "collection") {
-        imgsrc = imgsrc + "collection_large.gif"; 
+        imgsrc = imgsrc + "collection_large.gif";
       } else if (record.data.category == "sankore") {
-        imgsrc = imgsrc + "sankore_large.png";      
+        imgsrc = imgsrc + "sankore_large.png";
       } else {
         imgsrc = imgsrc + "archive_large.gif";
       }
       var link = String.format('<a class="preview" href="/xwiki/bin/view/{0}"><img src="{1}" /></a>', page, imgsrc);
-      
+
       var memberRating = record.data.memberRating;
       if (memberRating == "")
         memberRating = "0";
       var ratingCount = record.data.ratingCount;
       if (ratingCount == "")
-        ratingCount = "0";        
+        ratingCount = "0";
       var rating =  String.format('<span class="rating rating-{0}"><a href="/xwiki/bin/view/{2}?viewer=comments" qtip="{3}">{1} avis </a><a href="/xwiki/bin/view/{2}?viewer=comments"><img class="rating-icon" src="{4}" qtip="{3}" /></a></span>', memberRating, ratingCount, page, _('search.resource.rating.'+memberRating), Ext.BLANK_IMAGE_URL);
-      
+
       var review = String.format('');
       if (record.data.rating != "") {
         review = String.format('<a class="rating review crs-{0}" title="{1}" href="/xwiki/bin/view/{3}?viewer=comments"><span class="crs-text">{1}</span><img class="crs-icon" alt="" src="{2}" /></a>', record.data.rating, _('search.resource.review.'+record.data.rating), Ext.BLANK_IMAGE_URL, page)
-      }  
-      var cleanContributorName = '/xwiki/bin/view/' +record.data.contributor.trim().replace('.', '/');  
+      }
+      var cleanContributorName = '/xwiki/bin/view/' +record.data.contributor.trim().replace('.', '/');
       var contributor = String.format('<a class="contributor" href="{0}">{1}</a>', cleanContributorName, record.data.contributorName);
-      
+
       return String.format('{0}{2}{1}<h4 class="title">{3}</h4>{4}<p class="description">{5}</p>', link, rating, review, title, contributor, desc);
     }
   };
-  
+
   data.store.featuredResults = new Ext.data.Store({
     storeId: 'search-store-featured-'+modName
     ,proxy: new Ext.data.HttpProxy({
@@ -936,19 +938,19 @@ data.init = function(){
   data.featuredRenderer = {
     result: function(value, metadata, record, rowIndex, colIndex, store) {
      var page = record.id.replace(/\./, '/');
-      
+
       var title = String.format('<a href="/xwiki/bin/view/{0}">{1}</a>', page, Ext.util.Format.ellipsis(record.data.title, 160));
       var desc = Ext.htmlDecode(Ext.util.Format.ellipsis(Ext.util.Format.stripTags(record.data.description), 256));
-      var imgsrc = "/xwiki/skins/curriki20/icons/mediatype/";      
+      var imgsrc = "/xwiki/skins/curriki20/icons/mediatype/";
       imgsrc = imgsrc + "sankore_large.png";
       var link = String.format('<a class="preview" href="/xwiki/bin/view/{0}"><img src="{1}" /></a>', page, imgsrc);
       var rating = String.format('');
       if (record.data.memberRating != "") {
         rating =  String.format('<span class="rating rating-{0}"><a href="/xwiki/bin/view/{2}?viewer=comments" ext:qtip="{3}">{1} avis </a><a href="/xwiki/bin/view/{2}?viewer=comments"><img class="rating-icon" src="{4}" ext:qtip="{3}" /></a></span>', record.data.memberRating, record.data.ratingCount, page, _('search.resource.rating.'+record.data.memberRating), Ext.BLANK_IMAGE_URL);
       }
-      var cleanContributorName = '/xwiki/bin/view/' +record.data.contributor.trim().replace('.', '/'); 
+      var cleanContributorName = '/xwiki/bin/view/' +record.data.contributor.trim().replace('.', '/');
       var contributor = String.format('<a class="contributor" href="{0}">{1}</a>', cleanContributorName, record.data.contributorName);
-      
+
       return String.format('{0}{1}<h4 class="title">{2}</h4>{3}<p class="description">{4}</p>', link, rating, title, contributor, desc);
     }
   };
@@ -979,14 +981,14 @@ form.init = function(){
 
   form.termPanel = Search.util.createTermPanel(modName, form);
   //form.helpPanel = Search.util.createHelpPanel(modName, form);
-  
+
   form.filterPanel = {
     xtype: 'form'
     ,labelAlign: 'left'
     ,id: 'search-filterPanel-'+modName
     ,formId: 'search-filterForm-'+modName
-    ,border: false    
-    ,renderTo:'search-filters'    
+    ,border: false
+    ,renderTo:'search-filters'
     ,items:[{
       xtype:'fieldset'
       ,title:__('search.fieldset-category.label')
@@ -1037,9 +1039,9 @@ form.init = function(){
         ,store:data.filter.store.system
         ,typeAhead:true
         ,valueField:'id'
-        ,displayField:'education_system'               
+        ,displayField:'education_system'
         ,triggerAction:'all'
-        ,value:Curriki.data.education_system.initial        
+        ,value:Curriki.data.education_system.initial
         ,validator:function(value){
           if(this.store.find('education_system', value) == -1)
             this.setValue(Curriki.data.education_system.initial);
@@ -1048,16 +1050,16 @@ form.init = function(){
         ,listeners:{
           select:{
             fn:function(combo, value){
-              var level = Ext.getCmp('combo-level-'+modName);                                      
+              var level = Ext.getCmp('combo-level-'+modName);
               level.clearValue();
-              var sublevel = Ext.getCmp('combo-sublevel-'+modName);                                  
+              var sublevel = Ext.getCmp('combo-sublevel-'+modName);
               sublevel.clearValue();
               sublevel.hide();
-              var subject = Ext.getCmp('combo-subject-'+modName);                                        
-              subject.clearValue(); 
-              var subsubject = Ext.getCmp('combo-subsubject-'+modName);                                        
-              subsubject.clearValue();  
-              subsubject.hide();                                                      
+              var subject = Ext.getCmp('combo-subject-'+modName);
+              subject.clearValue();
+              var subsubject = Ext.getCmp('combo-subsubject-'+modName);
+              subsubject.clearValue();
+              subsubject.hide();
             }
           }
         }
@@ -1073,7 +1075,7 @@ form.init = function(){
       ,border: true
       ,stateful: true
       ,stateEvents: ['expand','collapse']
-      ,items:[{            
+      ,items:[{
         xtype:'combo'
         ,id:'combo-level-'+modName
         ,fieldLabel:'Level'
@@ -1089,25 +1091,25 @@ form.init = function(){
         ,triggerAction:'all'
         ,emptyText:_('CurrikiCode.AssetClass_educational_level_UNSPECIFIED')
         ,validator:function(value){
-          var system = Ext.getCmp('combo-system-'+modName);                
+          var system = Ext.getCmp('combo-system-'+modName);
           this.store.filter('parentItem', system.getValue());
           if(this.store.find('level', value) == -1)
-            this.clearValue();                                                   
+            this.clearValue();
           return true;
         }
-        ,listeners:{                 
+        ,listeners:{
           expand:{
             fn:function(combo){
               var system = Ext.getCmp('combo-system-'+modName);
-              this.store.filter('parentItem', system.getValue());                   
-            } 
+              this.store.filter('parentItem', system.getValue());
+            }
           }
           ,select:{
             fn:function(combo, value){
               var sublevel = Ext.getCmp('combo-sublevel-'+modName);
               var subject = Ext.getCmp('combo-subject-'+modName);
               var subsubject = Ext.getCmp('combo-subsubject-'+modName);
-                  
+
               if(sublevel.getValue() === '')
                 sublevel.setRawValue('UNSPECIFIED');
               sublevel.validate();
@@ -1116,7 +1118,7 @@ form.init = function(){
               subject.validate();
               if(subsubject.getValue() === '')
                 subsubject.setRawValue('UNSPECIFIED');
-              subsubject.validate();                                       
+              subsubject.validate();
             }
           }
         }
@@ -1139,11 +1141,11 @@ form.init = function(){
         ,hidden:true
         ,hideMode:'visibility'
         ,validator:function(value){
-          var level = Ext.getCmp('combo-level-'+modName);    
+          var level = Ext.getCmp('combo-level-'+modName);
           if(level.getValue() === '') {
             this.clearValue();
             this.hide();
-          } else {                           
+          } else {
             this.store.filter('parentItem', level.getValue());
             if(this.store.find('level', value) == -1)
               this.clearValue();
@@ -1153,8 +1155,8 @@ form.init = function(){
             } else {
               this.show();
             }
-          }                
-          return true;          
+          }
+          return true;
         }
         ,listeners:{
           expand:{
@@ -1163,7 +1165,7 @@ form.init = function(){
               this.store.filter('parentItem', level.getValue());
             }
           }
-        }              
+        }
       }]
     },{
       xtype:'fieldset'
@@ -1176,7 +1178,7 @@ form.init = function(){
       ,border: true
       ,stateful: true
       ,stateEvents: ['expand','collapse']
-      ,items:[{       
+      ,items:[{
         xtype:'combo'
         ,id:'combo-subject-'+modName
         ,fieldLabel:'Subject'
@@ -1193,13 +1195,13 @@ form.init = function(){
         ,emptyText:_('CurrikiCode.AssetClass_fw_items_UNSPECIFIED')
         ,validator:function(value){
           var system = Ext.getCmp('combo-system-'+modName);
-          var level = Ext.getCmp('combo-level-'+modName);                                                      
+          var level = Ext.getCmp('combo-level-'+modName);
           if(level.getValue())
             this.store.filter('level', level.getValue(), true);
           else
-            this.store.filter('parentItem', '-');               
+            this.store.filter('parentItem', '-');
           if(this.store.find('subject', value) == -1)
-            this.clearValue();                                        
+            this.clearValue();
           return true;
         }
         ,listeners:{
@@ -1210,15 +1212,15 @@ form.init = function(){
               if(level.getValue())
                 this.store.filter('level', level.getValue(), true);
               else
-                this.store.filter('parentItem', '-');                            
-              } 
+                this.store.filter('parentItem', '-');
+              }
             }
             ,select:{
-              fn:function(combo, value){                                    
-                var subsubject = Ext.getCmp('combo-subsubject-'+modName);     
+              fn:function(combo, value){
+                var subsubject = Ext.getCmp('combo-subsubject-'+modName);
                 if(subsubject.getValue() === '')
-                  subsubject.setRawValue('UNSPECIFIED');                
-                subsubject.validate();                    
+                  subsubject.setRawValue('UNSPECIFIED');
+                subsubject.validate();
               }
             }
           }
@@ -1227,7 +1229,7 @@ form.init = function(){
           ,fieldLabel:'Sub subject'
           ,hideLabel:true
           ,id:'combo-subsubject-'+modName
-          ,hiddenName:'subsubject'            
+          ,hiddenName:'subsubject'
           ,width:comboWidth
           ,listWidth:comboListWidth
           ,mode:'local'
@@ -1246,27 +1248,27 @@ form.init = function(){
             var system = Ext.getCmp('combo-system-'+modName);
             var level = Ext.getCmp('combo-level-'+modName);
             var subject = Ext.getCmp('combo-subject-'+modName);
-                
-            if(subject.getValue() === '') {               
+
+            if(subject.getValue() === '') {
               this.clearValue();
               this.hide();
-            } else {                  
+            } else {
               this.store.filter('parentItem', subject.getValue());
-                  
+
               if(level.getValue())
                 this.store.filterAdd('level', level.getValue(), true);
-                
+
               if(this.store.find('subject', value) == -1)
                 this.clearValue();
-                  
+
               if(this.store.getCount() <= 1) {
                 this.clearValue();
                 this.hide();
               } else {
                 this.show();
-              }                                  
+              }
             }
-            return true;                               
+            return true;
           }
           ,listeners:{
             expand:{
@@ -1274,15 +1276,15 @@ form.init = function(){
                 var system = Ext.getCmp('combo-system-'+modName);
                 var level = Ext.getCmp('combo-level-'+modName);
                 var subject = Ext.getCmp('combo-subject-'+modName);
-                    
+
                 if(subject.getValue()) {
                   this.store.filter('parentItem', subject.getValue());
                 if(level.getValue())
                   this.store.filterAdd('level', level.getValue(), true);
-                } else {                      
+                } else {
                   if (level.getValue())
                     this.store.filter('level', level.getValue(), true);
-                }                      
+                }
               }
             }
           }
@@ -1324,7 +1326,7 @@ form.init = function(){
                 var subict = Ext.getCmp('combo-subict-'+modName);
                 if(subict.getValue() === '')
                   subict.setRawValue('UNSPECIFIED');
-                subict.validate();                   
+                subict.validate();
               }
             }
           }
@@ -1360,7 +1362,7 @@ form.init = function(){
               this.hide();
             } else {
               this.show();
-            }     
+            }
           }
           return true;
         }
@@ -1438,7 +1440,7 @@ form.init = function(){
       }]
     },{
       xtype:'button'
-      ,id:'search-filterPanel-button'      
+      ,id:'search-filterPanel-button'
       ,text:_('search.resource.filter.button.text')
       ,layout:'anchor'
       ,listeners:{
@@ -1449,8 +1451,8 @@ form.init = function(){
         }
       }
     }]
-  }     
-  
+  }
+
   form.rowExpander = new Ext.grid.RowExpander({
     tpl: new Ext.XTemplate(
       _('search.resource.resource.expanded.title'),
@@ -1480,7 +1482,7 @@ form.init = function(){
 
           var fw = Curriki.data.fw_item.getRolloverDisplay(values.fwItems||[]);
           var lvl = Curriki.data.el.getRolloverDisplay(values.levels||[]);
-      
+
           return String.format("{1}<br />{0}<br /><br />{3}<br />{2}<br />{5}<br />{4}"
             ,desc,_('global.title.popup.description')
             ,fw,_('global.title.popup.subject')
@@ -1516,7 +1518,7 @@ form.init = function(){
     var iconCol = Ext.DomQuery.selectNode('img[class=x-grid3-row-expander]', row);
     Ext.fly(iconCol).set({'ext:qtip':_('search.resource.icon.plus.rollover')});
   });
-  
+
   form.featuredRowExpander = new Ext.grid.RowExpander({
     tpl: new Ext.XTemplate(
       _('search.resource.resource.expanded.title'),
@@ -1546,7 +1548,7 @@ form.init = function(){
 
           var fw = Curriki.data.fw_item.getRolloverDisplay(values.fwItems||[]);
           var lvl = Curriki.data.el.getRolloverDisplay(values.levels||[]);
-      
+
           return String.format("{1}<br />{0}<br /><br />{3}<br />{2}<br />{5}<br />{4}"
             ,desc,_('global.title.popup.description')
             ,fw,_('global.title.popup.subject')
@@ -1582,7 +1584,7 @@ form.init = function(){
     var iconCol = Ext.DomQuery.selectNode('img[class=x-grid3-row-expander]', row);
     Ext.fly(iconCol).set({'ext:qtip':_('search.resource.icon.plus.rollover')});
   });
-  
+
   form.featuredPanel = {
     xtype:'grid'
     ,id:'search-results-featured-'+modName
@@ -1603,14 +1605,14 @@ form.init = function(){
       // Remove the blank space on right of grid (reserved for scrollbar)
       ,scrollOffset:0
     }
-    ,listeners:{      
+    ,listeners:{
       beforeshow: {
         fn:function(grid) {
           if(grid.getStore().getTotalCount() == 0)
             return false;
         }
       }
-    }   
+    }
     ,columnsText:_('search.columns.menu.columns')
     ,sortAscText:_('search.columns.menu.sort_ascending')
     ,sortDescText:_('search.columns.menu.sort_descending')
@@ -1633,17 +1635,17 @@ form.init = function(){
     ,plugins: form.featuredRowExpander
     ,bbar:new Ext.Toolbar({
       id:'search-preview-results-statusbar'+modName
-      ,items:['->',{ 
+      ,items:['->',{
         text:__('search.preview.statusbar.text.'+modName)
         ,id:'search-featured-link'
         ,handler: function() {
           var category = Ext.getCmp('combo-category-'+modName);
           category.setValue('sankore');
           Ext.getCmp('search-advanced-resource-category').expand();
-          form.doSearch();                            
-        }  
+          form.doSearch();
+        }
       }]
-    })  
+    })
   };
 
   form.resultsPanel = {
@@ -1680,14 +1682,14 @@ form.init = function(){
     ,{
       id: 'result'
       ,header: '<h3>' + __('search.'+modName+'.tab.title') + '</h3>' //_('search.resource.column.header.result')
-      ,menuDisabled:true            
+      ,menuDisabled:true
       ,sortable:false
       ,hideable:false
       ,renderer: data.renderer.result
       //,tooltip:_('search.resource.column.header.result')
     }])
     ,loadMask: false
-    ,plugins: form.rowExpander    
+    ,plugins: form.rowExpander
     ,bbar: new Ext.PagingToolbar({
       id: 'search-pager-'+modName
       ,layout:'xpagingtoolbar'
@@ -1735,19 +1737,19 @@ form.init = function(){
       Search.util.doGridSearch(Ext.getCmp('search-results-featured-'+modName), filters);
     } else {
       Ext.getCmp('search-results-featured-'+modName).hide();
-    }    
-    
+    }
+
     Search.util.doSearch(modName);
   };
 
-  // Adjust title with count  
+  // Adjust title with count
   Search.util.registerStoreListeners('featured-'+modName);
   Search.util.registerStoreListeners(modName);
 };
 
 Ext.onReady(function(){
   Curriki.data.EventManager.on('Curriki.data:ready', function(){
-    form.init();    
+    form.init();
   });
 });
 
@@ -1767,7 +1769,7 @@ data.init = function(){
   // Set up filters
   data.filter = {};
   var f = data.filter; // Alias
-  
+
 	f.list = ['terms', 'system', 'level', 'sublevel', 'subject', 'subsubject', 'ict', 'subict', 'language', 'review', 'special'];
 
   f.data = {};
@@ -1776,7 +1778,7 @@ data.init = function(){
     ,data: [
       ['AssetMetadata.InternationalEducation', _('CurrikiCode.AssetClass_education_system_AssetMetadata.InternationalEducation')]
     ]
-  }  
+  }
   f.data.system.list.each(function(item){
     f.data.system.data.push([
       item.id
@@ -1792,22 +1794,22 @@ data.init = function(){
 
   f.data.ict =  Curriki.module.search.data.resource.filter.data.ict;
   f.data.subict =  Curriki.module.search.data.resource.filter.data.subict;
-  
+
   f.data.category =  {
     list: Curriki.data.category.list
     ,data: []
   };
-  
+
   f.data.category.list.each(function(value){
     var sort = _('CurrikiCode.AssetClass_category_'+value);
     if (value === 'unknown') {
       sort = 'zzz';
-    }    
+    }
     f.data.category.data.push([
       value
       ,_('CurrikiCode.AssetClass_category_'+value)
       ,sort
-    ]);    
+    ]);
   });
 
   f.data.language =  Curriki.module.search.data.resource.filter.data.language;
@@ -1946,18 +1948,18 @@ data.init = function(){
       var desc = Ext.util.Format.stripTags(record.data.description);
       desc = Ext.util.Format.ellipsis(desc, 256);
       //desc = Ext.util.Format.htmlEncode(desc);
-      
+
       var title = String.format('<a href="/xwiki/bin/view/{0}">{1}</a>', page, Ext.util.Format.ellipsis(value, 80));
       var link = String.format('<a class="link" href="{0}">{1}</a>', record.data.link, Ext.util.Format.ellipsis(record.data.link, 80));
-      
+
       var memberRating = record.data.memberRating;
       if (memberRating == "")
         memberRating = "0";
       var ratingCount = record.data.ratingCount;
       if (ratingCount == "")
-        ratingCount = "0";        
+        ratingCount = "0";
       var rating =  String.format('<span class="rating rating-{0}"><a href="/xwiki/bin/view/{2}?viewer=comments" qtip="{3}">{1} avis </a><a href="/xwiki/bin/view/{2}?viewer=comments"><img class="rating-icon" src="{4}" qtip="{3}" /></a></span>', memberRating, ratingCount, page, _('search.resource.rating.'+memberRating), Ext.BLANK_IMAGE_URL);
-      
+
       var review = String.format('');
       if (record.data.rating != "") {
         review = String.format('<a class="rating review crs-{0}" title="{1}" href="/xwiki/bin/view/{3}?viewer=comments"><span class="crs-text">{1}</span><img class="crs-icon" alt="" src="{2}" /></a>', record.data.rating, _('search.resource.review.'+record.data.rating), Ext.BLANK_IMAGE_URL, page)
@@ -1990,19 +1992,19 @@ data.init = function(){
   data.featuredRenderer = {
     result: function(value, metadata, record, rowIndex, colIndex, store) {
      var page = record.id.replace(/\./, '/');
-      
+
       var title = String.format('<a href="/xwiki/bin/view/{0}">{1}</a>', page, Ext.util.Format.ellipsis(record.data.title, 80));
       var desc = Ext.util.Format.ellipsis(Ext.util.Format.stripTags(record.data.description), 256);
-      var imgsrc = "/xwiki/skins/curriki20/icons/mediatype/";      
+      var imgsrc = "/xwiki/skins/curriki20/icons/mediatype/";
       imgsrc = imgsrc + "sankore_large.png";
       var link = String.format('<a class="preview" href="/xwiki/bin/view/{0}"><img src="{1}" /></a>', page, imgsrc);
       var rating = String.format('');
       if (record.data.memberRating != "") {
         rating =  String.format('<span class="rating rating-{0}"><a href="/xwiki/bin/view/{2}?viewer=comments" ext:qtip="{3}">{1} avis </a><a href="/xwiki/bin/view/{2}?viewer=comments"><img class="rating-icon" src="{4}" ext:qtip="{3}" /></a></span>', record.data.memberRating, record.data.ratingCount, page, _('search.resource.rating.'+record.data.memberRating), Ext.BLANK_IMAGE_URL);
       }
-      var cleanContributorName = '/xwiki/bin/view/' +record.data.contributor.trim().replace('.', '/'); 
+      var cleanContributorName = '/xwiki/bin/view/' +record.data.contributor.trim().replace('.', '/');
       var contributor = String.format('<a class="contributor" href="{0}">{1}</a>', cleanContributorName, record.data.contributorName);
-      
+
       return String.format('{0}{1}<h4 class="title">{2}</h4>{3}<p class="description">{4}</p>', link, rating, title, contributor, desc);
     }
   };
@@ -2038,8 +2040,8 @@ form.init = function() {
     ,labelAlign: 'left'
     ,id: 'search-filterPanel-'+modName
     ,formId: 'search-filterForm-'+modName
-    ,border: false    
-    ,renderTo:'search-filters'    
+    ,border: false
+    ,renderTo:'search-filters'
     ,items:[{
       xtype:'fieldset'
       ,title:__('search.fieldset-category.label')
@@ -2107,16 +2109,16 @@ form.init = function() {
         ,listeners:{
           select:{
             fn:function(combo, value){
-              var level = Ext.getCmp('combo-level-'+modName);                                      
+              var level = Ext.getCmp('combo-level-'+modName);
               level.clearValue();
-              var sublevel = Ext.getCmp('combo-sublevel-'+modName);                                  
+              var sublevel = Ext.getCmp('combo-sublevel-'+modName);
               sublevel.clearValue();
               sublevel.hide();
-              var subject = Ext.getCmp('combo-subject-'+modName);                                        
-              subject.clearValue(); 
-              var subsubject = Ext.getCmp('combo-subsubject-'+modName);                                        
-              subsubject.clearValue();  
-              subsubject.hide();                                                      
+              var subject = Ext.getCmp('combo-subject-'+modName);
+              subject.clearValue();
+              var subsubject = Ext.getCmp('combo-subsubject-'+modName);
+              subsubject.clearValue();
+              subsubject.hide();
             }
           }
         }
@@ -2132,7 +2134,7 @@ form.init = function() {
       ,border: true
       ,stateful: true
       ,stateEvents: ['expand','collapse']
-      ,items:[{            
+      ,items:[{
         xtype:'combo'
         ,id:'combo-level-'+modName
         ,fieldLabel:'Level'
@@ -2150,25 +2152,25 @@ form.init = function() {
         ,selectOnFocus:true
         ,forceSelection:true
         ,validator:function(value){
-          var system = Ext.getCmp('combo-system-'+modName);                
+          var system = Ext.getCmp('combo-system-'+modName);
           this.store.filter('parentItem', system.getValue());
           if(this.store.find('level', value) == -1)
-            this.clearValue();                                                   
+            this.clearValue();
           return true;
         }
-        ,listeners:{                 
+        ,listeners:{
           expand:{
             fn:function(combo){
               var system = Ext.getCmp('combo-system-'+modName);
-              this.store.filter('parentItem', system.getValue());                   
-            } 
+              this.store.filter('parentItem', system.getValue());
+            }
           }
           ,select:{
             fn:function(combo, value){
               var sublevel = Ext.getCmp('combo-sublevel-'+modName);
               var subject = Ext.getCmp('combo-subject-'+modName);
               var subsubject = Ext.getCmp('combo-subsubject-'+modName);
-                  
+
               if(sublevel.getValue() === '')
                 sublevel.setRawValue('UNSPECIFIED');
               sublevel.validate();
@@ -2177,7 +2179,7 @@ form.init = function() {
               subject.validate();
               if(subsubject.getValue() === '')
                 subsubject.setRawValue('UNSPECIFIED');
-              subsubject.validate();                                       
+              subsubject.validate();
             }
           }
         }
@@ -2202,11 +2204,11 @@ form.init = function() {
         ,hidden:true
         ,hideMode:'visibility'
         ,validator:function(value){
-          var level = Ext.getCmp('combo-level-'+modName);    
+          var level = Ext.getCmp('combo-level-'+modName);
           if(level.getValue() === '') {
             this.clearValue();
             this.hide();
-          } else {                           
+          } else {
             this.store.filter('parentItem', level.getValue());
             if(this.store.find('level', value) == -1)
               this.clearValue();
@@ -2216,8 +2218,8 @@ form.init = function() {
             } else {
               this.show();
             }
-          }                
-          return true;          
+          }
+          return true;
         }
         ,listeners:{
           expand:{
@@ -2226,7 +2228,7 @@ form.init = function() {
               this.store.filter('parentItem', level.getValue());
             }
           }
-        }              
+        }
       }]
     },{
       xtype:'fieldset'
@@ -2239,7 +2241,7 @@ form.init = function() {
       ,border: true
       ,stateful: true
       ,stateEvents: ['expand','collapse']
-      ,items:[{       
+      ,items:[{
         xtype:'combo'
         ,id:'combo-subject-'+modName
         ,fieldLabel:'Subject'
@@ -2258,13 +2260,13 @@ form.init = function() {
         ,forceSelection:true
         ,validator:function(value){
           var system = Ext.getCmp('combo-system-'+modName);
-          var level = Ext.getCmp('combo-level-'+modName);                                                      
+          var level = Ext.getCmp('combo-level-'+modName);
           if(level.getValue())
             this.store.filter('level', level.getValue(), true);
           else
-            this.store.filter('parentItem', '-');               
+            this.store.filter('parentItem', '-');
           if(this.store.find('subject', value) == -1)
-            this.clearValue();                                        
+            this.clearValue();
           return true;
         }
         ,listeners:{
@@ -2275,15 +2277,15 @@ form.init = function() {
               if(level.getValue())
                 this.store.filter('level', level.getValue(), true);
               else
-                this.store.filter('parentItem', '-');                            
-            } 
+                this.store.filter('parentItem', '-');
+            }
           }
           ,select:{
-            fn:function(combo, value){                                    
-              var subsubject = Ext.getCmp('combo-subsubject-'+modName);     
+            fn:function(combo, value){
+              var subsubject = Ext.getCmp('combo-subsubject-'+modName);
               if(subsubject.getValue() === '')
-                subsubject.setRawValue('UNSPECIFIED');                
-              subsubject.validate();                    
+                subsubject.setRawValue('UNSPECIFIED');
+              subsubject.validate();
             }
           }
         }
@@ -2292,7 +2294,7 @@ form.init = function() {
         ,fieldLabel:'Sub subject'
         ,hideLabel:true
         ,id:'combo-subsubject-'+modName
-        ,hiddenName:'subsubject'            
+        ,hiddenName:'subsubject'
         ,width:comboWidth
         ,listWidth:comboListWidth
         ,mode:'local'
@@ -2311,27 +2313,27 @@ form.init = function() {
           var system = Ext.getCmp('combo-system-'+modName);
           var level = Ext.getCmp('combo-level-'+modName);
           var subject = Ext.getCmp('combo-subject-'+modName);
-                
-          if(subject.getValue() === '') {               
+
+          if(subject.getValue() === '') {
             this.clearValue();
             this.hide();
-          } else {                  
+          } else {
             this.store.filter('parentItem', subject.getValue());
-                  
+
             if(level.getValue())
               this.store.filterAdd('level', level.getValue(), true);
-                
+
             if(this.store.find('subject', value) == -1)
               this.clearValue();
-                  
+
             if(this.store.getCount() <= 1) {
               this.clearValue();
               this.hide();
             } else {
               this.show();
-            }                                  
+            }
           }
-          return true;                               
+          return true;
         }
         ,listeners:{
           expand:{
@@ -2339,15 +2341,15 @@ form.init = function() {
               var system = Ext.getCmp('combo-system-'+modName);
               var level = Ext.getCmp('combo-level-'+modName);
               var subject = Ext.getCmp('combo-subject-'+modName);
-                    
+
               if(subject.getValue()) {
                 this.store.filter('parentItem', subject.getValue());
               if(level.getValue())
                 this.store.filterAdd('level', level.getValue(), true);
-              } else {                      
+              } else {
                 if (level.getValue())
                   this.store.filter('level', level.getValue(), true);
-              }                      
+              }
             }
           }
         }
@@ -2391,7 +2393,7 @@ form.init = function() {
               var subict = Ext.getCmp('combo-subict-'+modName);
               if(subict.getValue() === '')
                 subict.setRawValue('UNSPECIFIED');
-              subict.validate();                   
+              subict.validate();
             }
           }
         }
@@ -2429,7 +2431,7 @@ form.init = function() {
               this.hide();
             } else {
               this.show();
-            }     
+            }
           }
           return true;
         }
@@ -2528,14 +2530,14 @@ form.init = function() {
       // Remove the blank space on right of grid (reserved for scrollbar)
       ,scrollOffset:0
     }
-		,listeners:{      
+		,listeners:{
       beforeshow: {
         fn:function(grid) {
           if(grid.getStore().getTotalCount() == 0)
             return false;
         }
       }
-    }		
+    }
     ,columnsText:_('search.columns.menu.columns')
     ,sortAscText:_('search.columns.menu.sort_ascending')
     ,sortDescText:_('search.columns.menu.sort_descending')
@@ -2554,11 +2556,11 @@ form.init = function() {
     ,loadMask:false
     ,bbar:new Ext.Toolbar({
       id:'search-preview-results-statusbar'+modName
-      ,items:['->',{ 
+      ,items:['->',{
         text:__('search.preview.statusbar.text.'+modName)
         ,id:'search-featured-link'
         ,handler: function() {
-					
+
           var filters = Search.util.getFilters(modName);
           filters['category'] = "sankore";
 					var resourceFilters = {};
@@ -2578,9 +2580,9 @@ form.init = function() {
 
           // redirect to resource search
           window.location = '/xwiki/bin/view/Search/WebHome#'+encodedToken;
-        }  
+        }
       }]
-    })	
+    })
   };
 
   form.resultsPanel = {
@@ -2616,7 +2618,7 @@ form.init = function() {
       ,renderer: data.renderer.result
       //,tooltip:_('search.resource.column.header.result')
     }])
-    ,loadMask: false    
+    ,loadMask: false
     ,bbar:new Ext.PagingToolbar({
       id:'search-pager-'+modName
       ,layout:'xpagingtoolbar'
@@ -2670,9 +2672,9 @@ form.init = function() {
   };*/
 
   form.doSearch = function(){
-		
+
 		var filters = Search.util.getFilters(modName);
-		
+
 		if (filters['category'] != "external") {
 		  var resourceFilters = {};
           resourceFilters['resource'] = Search.util.applyFiltersFor(filters, 'resource');
@@ -2691,9 +2693,9 @@ form.init = function() {
 
           // redirect to resource search
           window.location = '/xwiki/bin/view/Search/WebHome#'+encodedToken;
-      
+
 		}
-		  
+
 		filters['category'] = "sankore";
 		Search.util.doGridSearch(Ext.getCmp('search-results-featured-'+modName), filters);
     Search.util.doSearch(modName);
@@ -2733,7 +2735,7 @@ data.init = function(){
     ,data: [
       ['AssetMetadata.InternationalEducation', _('CurrikiCode.AssetClass_education_system_AssetMetadata.InternationalEducation')]
     ]
-  }  
+  }
   f.data.system.list.each(function(item){
     f.data.system.data.push([
       item.id
@@ -2772,15 +2774,15 @@ data.init = function(){
           parent = item.parent;
       }
     });
-      
+
     f.data.level.data.push([
       value
       ,_('CurrikiCode.AssetClass_educational_level_'+value)
       ,parent
     ]);
   });
-  
-  
+
+
   f.data.sublevel =  {
     mapping: Curriki.data.el.elMap
     ,data: [
@@ -2802,7 +2804,7 @@ data.init = function(){
       });
     }
   });
-  
+
   f.data.subject =  {
     mapping: Curriki.data.fw_item.fwMap['TREEROOTNODE']
     ,list: []
@@ -2829,7 +2831,7 @@ data.init = function(){
       if(value == item.id) {
         //parent = item.parent;
         level = item.value;
-      }      
+      }
     });
     f.data.subject.data.push([
       value
@@ -2886,7 +2888,7 @@ data.init = function(){
       ,_('XWiki.CurrikiSpaceClass_language_'+value)
     ]);
   });
-  
+
   // sort the list for the language
   f.data.language.data.sort(function(a, b) {
     // if a or b are head, return as first
@@ -3005,13 +3007,13 @@ data.init = function(){
       return String.format('{0}', dt);
     }
     ,result: function(value, metadata, record, rowIndex, colIndex, store) {
-      
+
       var title = String.format('<a href="{0}">{1}</a>', record.data.url, Ext.util.Format.ellipsis(record.data.title, 80));
       var imgsrc = "/xwiki/skins/curriki20/curriki/images/groups_default_logo.gif";
-      var link = String.format('<a class="preview" href="{0}"><img src="{1}" /></a>', record.data.url, imgsrc);       
+      var link = String.format('<a class="preview" href="{0}"><img src="{1}" /></a>', record.data.url, imgsrc);
       var desc = Ext.htmlDecode(Ext.util.Format.ellipsis(Ext.util.Format.stripTags(record.data.description), 256));
       var policy = String.format('<span qtip="{1}">{0}</span>', _('search.group.icon.' + record.data.policy), _('search.group.icon.'+record.data.policy+'.rollover'));
-      
+
       return String.format('{0}<h4 class="title">{1}</h4>{2}<p class="description">{3}</p>', link, title, policy, desc);
     }
   };
@@ -3048,7 +3050,7 @@ form.init = function(){
     ,id:'search-filterPanel-'+modName
     ,formId:'search-filterForm-'+modName
     ,border:false
-    ,renderTo:'search-filters' 
+    ,renderTo:'search-filters'
     ,items:[{
           xtype:'fieldset'
           ,title:__('search.combo-system.label')
@@ -3072,9 +3074,9 @@ form.init = function(){
         ,store:data.filter.store.system
         ,typeAhead:true
         ,valueField:'id'
-        ,displayField:'education_system'               
+        ,displayField:'education_system'
         ,triggerAction:'all'
-        ,value:Curriki.data.education_system.initial        
+        ,value:Curriki.data.education_system.initial
         ,validator:function(value){
           if(this.store.find('education_system', value) == -1)
             this.setValue(Curriki.data.education_system.initial);
@@ -3083,16 +3085,16 @@ form.init = function(){
         ,listeners:{
           select:{
             fn:function(combo, value){
-              var level = Ext.getCmp('combo-level-'+modName);                                      
+              var level = Ext.getCmp('combo-level-'+modName);
               level.clearValue();
-              var sublevel = Ext.getCmp('combo-sublevel-'+modName);                                  
+              var sublevel = Ext.getCmp('combo-sublevel-'+modName);
               sublevel.clearValue();
               sublevel.hide();
-              var subject = Ext.getCmp('combo-subject-'+modName);                                        
-              subject.clearValue(); 
-              var subsubject = Ext.getCmp('combo-subsubject-'+modName);                                        
-              subsubject.clearValue();  
-              subsubject.hide();                                                      
+              var subject = Ext.getCmp('combo-subject-'+modName);
+              subject.clearValue();
+              var subsubject = Ext.getCmp('combo-subsubject-'+modName);
+              subsubject.clearValue();
+              subsubject.hide();
             }
           }
         }
@@ -3108,7 +3110,7 @@ form.init = function(){
           ,border: true
           ,stateful: true
           ,stateEvents: ['expand','collapse']
-          ,items:[{            
+          ,items:[{
             xtype:'combo'
             ,id:'combo-level-'+modName
             ,fieldLabel:'Level'
@@ -3126,25 +3128,25 @@ form.init = function(){
             ,selectOnFocus:true
             ,forceSelection:true
             ,validator:function(value){
-              var system = Ext.getCmp('combo-system-'+modName);                
+              var system = Ext.getCmp('combo-system-'+modName);
               this.store.filter('parentItem', system.getValue());
               if(this.store.find('level', value) == -1)
-                this.clearValue();                                                   
+                this.clearValue();
               return true;
             }
-            ,listeners:{                 
+            ,listeners:{
               expand:{
                 fn:function(combo){
                   var system = Ext.getCmp('combo-system-'+modName);
-                  this.store.filter('parentItem', system.getValue());                   
-                } 
+                  this.store.filter('parentItem', system.getValue());
+                }
               }
               ,select:{
                 fn:function(combo, value){
                   var sublevel = Ext.getCmp('combo-sublevel-'+modName);
                   var subject = Ext.getCmp('combo-subject-'+modName);
                   var subsubject = Ext.getCmp('combo-subsubject-'+modName);
-                    
+
                   if(sublevel.getValue() === '')
                     sublevel.setRawValue('UNSPECIFIED');
                   sublevel.validate();
@@ -3153,7 +3155,7 @@ form.init = function(){
                   subject.validate();
                   if(subsubject.getValue() === '')
                     subsubject.setRawValue('UNSPECIFIED');
-                  subsubject.validate();                                       
+                  subsubject.validate();
                 }
               }
             }
@@ -3178,11 +3180,11 @@ form.init = function(){
             ,hidden:true
             ,hideMode:'visibility'
             ,validator:function(value){
-              var level = Ext.getCmp('combo-level-'+modName);    
+              var level = Ext.getCmp('combo-level-'+modName);
               if(level.getValue() === '') {
                 this.clearValue();
                 this.hide();
-              } else {                           
+              } else {
                 this.store.filter('parentItem', level.getValue());
                 if(this.store.find('level', value) == -1)
                   this.clearValue();
@@ -3192,8 +3194,8 @@ form.init = function(){
                 } else {
                   this.show();
                 }
-              }                
-              return true;          
+              }
+              return true;
             }
             ,listeners:{
               expand:{
@@ -3202,7 +3204,7 @@ form.init = function(){
                   this.store.filter('parentItem', level.getValue());
                 }
               }
-            }              
+            }
           }]
         },{
           xtype:'fieldset'
@@ -3215,7 +3217,7 @@ form.init = function(){
           ,border: true
           ,stateful: true
           ,stateEvents: ['expand','collapse']
-          ,items:[{       
+          ,items:[{
             xtype:'combo'
             ,id:'combo-subject-'+modName
             ,fieldLabel:'Subject'
@@ -3234,13 +3236,13 @@ form.init = function(){
             ,forceSelection:true
             ,validator:function(value){
               var system = Ext.getCmp('combo-system-'+modName);
-              var level = Ext.getCmp('combo-level-'+modName);                                                      
+              var level = Ext.getCmp('combo-level-'+modName);
               if(level.getValue())
                 this.store.filter('level', level.getValue(), true);
               else
-                this.store.filter('parentItem', '-');               
+                this.store.filter('parentItem', '-');
               if(this.store.find('subject', value) == -1)
-                this.clearValue();                                        
+                this.clearValue();
               return true;
             }
             ,listeners:{
@@ -3251,15 +3253,15 @@ form.init = function(){
                   if(level.getValue())
                     this.store.filter('level', level.getValue(), true);
                   else
-                    this.store.filter('parentItem', '-');                            
-                } 
+                    this.store.filter('parentItem', '-');
+                }
               }
               ,select:{
-                fn:function(combo, value){                                    
-                  var subsubject = Ext.getCmp('combo-subsubject-'+modName);     
+                fn:function(combo, value){
+                  var subsubject = Ext.getCmp('combo-subsubject-'+modName);
                   if(subsubject.getValue() === '')
-                    subsubject.setRawValue('UNSPECIFIED');                
-                  subsubject.validate();                    
+                    subsubject.setRawValue('UNSPECIFIED');
+                  subsubject.validate();
                 }
               }
             }
@@ -3268,7 +3270,7 @@ form.init = function(){
             ,fieldLabel:'Sub subject'
             ,hideLabel:true
             ,id:'combo-subsubject-'+modName
-            ,hiddenName:'subsubject'            
+            ,hiddenName:'subsubject'
             ,width:comboWidth
             ,listWidth:comboListWidth
             ,mode:'local'
@@ -3287,27 +3289,27 @@ form.init = function(){
               var system = Ext.getCmp('combo-system-'+modName);
               var level = Ext.getCmp('combo-level-'+modName);
               var subject = Ext.getCmp('combo-subject-'+modName);
-                
-              if(subject.getValue() === '') {               
+
+              if(subject.getValue() === '') {
                 this.clearValue();
                 this.hide();
-              } else {                  
+              } else {
                 this.store.filter('parentItem', subject.getValue());
-                  
+
                 if(level.getValue())
                   this.store.filterAdd('level', level.getValue(), true);
-                
+
                 if(this.store.find('subject', value) == -1)
                   this.clearValue();
-                  
+
                 if(this.store.getCount() <= 1) {
                   this.clearValue();
                   this.hide();
                 } else {
                   this.show();
-                }                                  
+                }
               }
-              return true;                               
+              return true;
             }
             ,listeners:{
               expand:{
@@ -3315,21 +3317,21 @@ form.init = function(){
                   var system = Ext.getCmp('combo-system-'+modName);
                   var level = Ext.getCmp('combo-level-'+modName);
                   var subject = Ext.getCmp('combo-subject-'+modName);
-                    
+
                   if(subject.getValue()) {
                     this.store.filter('parentItem', subject.getValue());
                   if(level.getValue())
                     this.store.filterAdd('level', level.getValue(), true);
-                  } else {                      
+                  } else {
                     if (level.getValue())
                       this.store.filter('level', level.getValue(), true);
-                  }                      
+                  }
                 }
               }
             }
-            
+
           }]
-            
+
        },{
         xtype:'fieldset'
         ,title:__('search.fieldset-other.label')
@@ -3442,7 +3444,7 @@ form.init = function(){
     ,cm: new Ext.grid.ColumnModel([{
       id: 'result'
       ,header: '<h3>' + __('search.'+modName+'.tab.title') + '</h3>' //_('search.resource.column.header.result')
-      ,menuDisabled:true            
+      ,menuDisabled:true
       ,sortable:false
       ,hideable:false
       ,renderer: data.renderer.result
@@ -3536,15 +3538,15 @@ data.init = function(){
   });
 
   // sort the list for the subject
-  f.data.subject.data.sort(function(a, b) { 
+  f.data.subject.data.sort(function(a, b) {
     // if a or b are head, return as first
-    if(b[0] == "") return 1; 
+    if(b[0] == "") return 1;
     if(a[0] == "") return -1;
     // if a or b are uncategorized, return as last
-    if(b[0] == "UNCATEGORIZED") return -1; 
+    if(b[0] == "UNCATEGORIZED") return -1;
     if(a[0] == "UNCATEGORIZED") return 1;
     // compare alphabetically
-    if (a[1] <= b[1]) return -1; 
+    if (a[1] <= b[1]) return -1;
       else return 1;
   });
 
@@ -4449,14 +4451,14 @@ var forms = Search.form;
 
 Search.init = function(){
   console.log('search: init');
-  
+
   Curriki.enableLoadingMask('xcontent');
-  
+
   if (Ext.isEmpty(Search.initialized)) {
     if (Ext.isEmpty(Search.tabList)) {
       Search.tabList = ['resource'];
     }
-    
+
     Ext.each(Search.tabList, function(tab){
       var termPanel = new Ext.form.FormPanel(forms[tab].termPanel);
       termPanel.render();
@@ -4465,10 +4467,10 @@ Search.init = function(){
       if (forms[tab].featuredPanel) {
         var featuredPanel = new Ext.grid.GridPanel(forms[tab].featuredPanel);
         if (featuredPanel) featuredPanel.render();
-      }      
-            
+      }
+
       var resultsPanel = new Ext.grid.GridPanel(forms[tab].resultsPanel);
-      resultsPanel.render();                 
+      resultsPanel.render();
     });
 
     var comboWidth = 140;
@@ -4479,8 +4481,8 @@ Search.init = function(){
 	  	  Ext.each(Search.tabList, function(tab){
 	  		  var module = forms[tab];
 	  		  if (!Ext.isEmpty(module) && !Ext.isEmpty(module.doSearch)) {
-						
-						
+
+
 					// Ignore history of advanced search
 			    // var advancedSearch = Ext.getCmp('search-advanced-'+tab);
 			    //if (!Ext.isEmpty(advancedSearch)) {
@@ -4488,7 +4490,7 @@ Search.init = function(){
 			       //  panelSettings[tab] = {a:false}; // Advanced closed
 			      // }
 			    // }
-						
+
 						// Do the search
 						module.doSearch();
 					}
@@ -4496,7 +4498,7 @@ Search.init = function(){
 			} else {
 				forms[searchTab].doSearch();
 			}
-				
+
       // Adds to history, don't need that
       //var token = {};
       //token['s'] = Ext.isEmpty(searchTab)?'all':searchTab;
@@ -4513,7 +4515,7 @@ Search.init = function(){
       //Search.history.setLastToken(encodedToken);
       //Ext.History.add(encodedToken);
     };
-        
+
     /*
     Search.tabPanel = {
       xtype:(Search.tabList.size()>1?'tab':'')+'panel'
@@ -4546,8 +4548,8 @@ Search.init = function(){
           //var token = provider.decodeValue(URLtoken);
           //token['t'] = tabPanel.getActiveTab().id;
           //console.log('Saving History', {values: token});
-          //Ext.History.add(provider.encodeValue(token));        
-          Curriki.module.EventManager.fireEvent('Curriki.module.search:tabchange', tabId); 
+          //Ext.History.add(provider.encodeValue(token));
+          Curriki.module.EventManager.fireEvent('Curriki.module.search:tabchange', tabId);
         }
       }
       ,items:[] // Filled in based on tabs available
@@ -4580,8 +4582,8 @@ Search.init = function(){
       ,items:[
         Search.tabPanel
       ]
-    };*/   
-    
+    };*/
+
     Ext.ns('Curriki.module.search.history');
     var History = Search.history;
     History.lastHistoryToken = false;
@@ -4603,7 +4605,7 @@ Search.init = function(){
         // and go back to the start state.
       }
     };
-		
+
 		History.addToken = function(token) {
 			if (token) {
 				if (token != History.lastHistoryToken) {
@@ -4623,7 +4625,7 @@ Search.init = function(){
       console.log('Got History', {token: token, values: values});
 
       if (!Ext.isEmpty(values)) {
-        var filterValues = values['f'];        
+        var filterValues = values['f'];
         if (!Ext.isEmpty(filterValues) && filterValues['all'] && Ext.getCmp('search-termPanel') && Ext.getCmp('search-termPanel').getForm) {
           Ext.getCmp('search-termPanel').getForm().setValues(filterValues['all']);
         }
@@ -4647,7 +4649,7 @@ Search.init = function(){
               var filterForm = filterPanel.getForm();
               if (!Ext.isEmpty(filterForm)) {
                 try {
-                  filterForm.setValues(filterValues[tab]);                    
+                  filterForm.setValues(filterValues[tab]);
                 } catch(e) {
                   console.log('ERROR Updating '+tab, e);
                 }
@@ -4661,27 +4663,27 @@ Search.init = function(){
             //    advancedPanel.expand(false);
             //  }
             //}
-              
+
               // Update terms value in the form
               if (tab == 'resource' || tab == 'external') {
                 var rTerms = values['f'][tab]['terms'];
                 if(Ext.getCmp('search-termPanel').getForm() && !Ext.isEmpty(rTerms)) {
                   Ext.getCmp('search-termPanel').getForm().setValues({'terms' : rTerms});
                 }
-                
+
                 // Update filters panel : collapse / expand
               var resourceFilterLevels = ['category', 'system', 'level', 'subject', 'type', 'other'];
               for(var i=0; i<resourceFilterLevels.length; i++) {
                 // Check in history if filter level/sublevel were selected
                 var resourceFilterLevel = resourceFilterLevels[i];
-                if(!Ext.isEmpty(values['f'][tab][resourceFilterLevel]) || 
+                if(!Ext.isEmpty(values['f'][tab][resourceFilterLevel]) ||
                    !Ext.isEmpty(values['f'][tab]['sub' + resourceFilterLevel])) {
                   Ext.getCmp('search-advanced-'+tab+'-' + resourceFilterLevel).expand();
                 }
               }
-              }   
-              
-                         
+              }
+
+
 
             // Set pager values
             //var pagerPanel = Ext.getCmp('search-pager-'+tab);
@@ -4743,7 +4745,7 @@ Search.init = function(){
 Search.display = function(){
   Search.init();
   Search.history.init();
-  Ext.each(Search.tabList, function(tab){ Search.doSearch(tab); });  
+  Ext.each(Search.tabList, function(tab){ Search.doSearch(tab); });
 };
 
 Search.start = function(){

@@ -12,8 +12,8 @@
   <customClass/>
   <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
   <creationDate>1315296564000</creationDate>
-  <date>1419856550000</date>
-  <contentUpdateDate>1419856550000</contentUpdateDate>
+  <date>1423495529000</date>
+  <contentUpdateDate>1423495529000</contentUpdateDate>
   <version>1.1</version>
   <title>XWiki Preferences</title>
   <template/>
@@ -2775,7 +2775,7 @@ Votre compte utilisateur sur ${wikiname} a bien été activé. Vous pouvez déso
       <default_language>fr</default_language>
     </property>
     <property>
-      <documentBundles>XWiki.GlobalClassTranslations,CreateResources.Translations,XWiki.Translations,CRS.Translations,Registration.Translations,FileCheck.Translations,Groups.Translations,Search.Translations,CurrikiCode.EditViewTranslations,SVNCode.Translations,MultiPageExport.Translations,ReaderCode.Translations,CurrikiCode.GlobalClassTranslations,MySankore.Translations,MyCurriki.Translations</documentBundles>
+      <documentBundles>XWiki.GlobalClassTranslations,CreateResources.Translations,XWiki.Translations,CRS.Translations,Registration.Translations,FileCheck.Translations,Groups.Translations,Search.Translations,CurrikiCode.EditViewTranslations,MultiPageExport.Translations,ReaderCode.Translations,CurrikiCode.GlobalClassTranslations,MySankore.Translations,MyCurriki.Translations</documentBundles>
     </property>
     <property>
       <edit_anonymous>---</edit_anonymous>
@@ -2903,7 +2903,7 @@ Votre compte utilisateur sur ${wikiname} a bien été activé. Vous pouvez déso
       <pageWidth>default</pageWidth>
     </property>
     <property>
-      <parent>XWiki.WebHome</parent>
+      <parent/>
     </property>
     <property>
       <plugins/>
