@@ -6,14 +6,14 @@
   <language/>
   <defaultLanguage>en</defaultLanguage>
   <translation>0</translation>
-  <parent>Search.WebHome</parent>
+  <parent/>
   <creator>xwiki:XWiki.Admin</creator>
   <author>xwiki:XWiki.Admin</author>
   <customClass/>
   <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
   <creationDate>1218115105000</creationDate>
-  <date>1419244525000</date>
-  <contentUpdateDate>1419244525000</contentUpdateDate>
+  <date>1423577253000</date>
+  <contentUpdateDate>1423577253000</contentUpdateDate>
   <version>1.1</version>
   <title>Rechercher des ressources</title>
   <template/>
@@ -750,7 +750,9 @@ button.x-btn-text:hover {
       <tags/>
     </property>
   </object>
-  <content>#includeForm("Search.Message")
+  <content>#if(!$isInEmbedMode)
+#includeForm("Search.Message")
+#end
 {pre}
 &lt;script type="text/javascript"&gt;
 /* &lt;![CDATA[ */
