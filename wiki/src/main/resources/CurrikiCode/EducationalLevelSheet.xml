@@ -1,56 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>CurrikiCode</web>
-<name>EducationalLevelSheet</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent>CurrikiCode.EducationalLevelClass</parent>
-<creator>XWiki.FlaviusOlaru</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1329220005000</creationDate>
-<date>1419607086000</date>
-<contentUpdateDate>1419607086000</contentUpdateDate>
-<version>2.1</version>
-<title>EducationalLevelClass Sheet</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment>Importé depuis un le XAR</comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden>
-<object>
-<class>
-<name>XWiki.SheetClass</name>
-<customClass></customClass>
-<customMapping></customMapping>
-<defaultViewSheet></defaultViewSheet>
-<defaultEditSheet></defaultEditSheet>
-<defaultWeb></defaultWeb>
-<nameField></nameField>
-<validationScript></validationScript>
-<defaultEditMode>
-<disabled>0</disabled>
-<name>defaultEditMode</name>
-<number>1</number>
-<prettyName>Default Edit Mode</prettyName>
-<size>15</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
-</defaultEditMode>
-</class>
-<name>CurrikiCode.EducationalLevelSheet</name>
-<number>0</number>
-<className>XWiki.SheetClass</className>
-<guid>98d40b72-a687-4f62-ac0c-d5066b26ae2e</guid>
-<property>
-<defaultEditMode>inline</defaultEditMode>
-</property>
-</object>
-<content>{{velocity}}
+  <web>CurrikiCode</web>
+  <name>EducationalLevelSheet</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>CurrikiCode.EducationalLevelClass</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1329220005000</creationDate>
+  <date>1419607086000</date>
+  <contentUpdateDate>1419607086000</contentUpdateDate>
+  <version>1.1</version>
+  <title>EducationalLevelClass Sheet</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <object>
+    <class>
+      <name>XWiki.SheetClass</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <defaultEditMode>
+        <disabled>0</disabled>
+        <name>defaultEditMode</name>
+        <number>1</number>
+        <prettyName>Default Edit Mode</prettyName>
+        <size>15</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </defaultEditMode>
+    </class>
+    <name>CurrikiCode.EducationalLevelSheet</name>
+    <number>0</number>
+    <className>XWiki.SheetClass</className>
+    <guid>98d40b72-a687-4f62-ac0c-d5066b26ae2e</guid>
+    <property>
+      <defaultEditMode>inline</defaultEditMode>
+    </property>
+  </object>
+  <content>{{velocity}}
 {{html wiki=true}}
 ## You can modify this page to customize the presentation of your object.
 ## At first you should keep the default presentation and just save the document.
@@ -96,4 +97,5 @@
 #end
 *#
 {{/html}}
-{{/velocity}}</content></xwikidoc>
+{{/velocity}}</content>
+</xwikidoc>

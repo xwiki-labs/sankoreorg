@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>XWiki</web>
-<name>AdminFieldsDisplaySheet</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent>XWiki.AdminSheet</parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1211789443000</creationDate>
-<date>1419239551000</date>
-<contentUpdateDate>1419239551000</contentUpdateDate>
-<version>1.1</version>
-<title>AdminFieldsDisplaySheet</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment>Imported from XAR</comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden>
-<content>{{velocity}}
+  <web>XWiki</web>
+  <name>AdminFieldsDisplaySheet</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>XWiki.AdminSheet</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1211789443000</creationDate>
+  <date>1419239551000</date>
+  <contentUpdateDate>1419239551000</contentUpdateDate>
+  <version>1.1</version>
+  <title>AdminFieldsDisplaySheet</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <content>{{velocity}}
 ### Sheet used to generically display the XWikiPreferences object fields in the administration sheets.
 #if ("$!section" != '')
   ## clean="false" due to bug #XWIKI-4122 - the &lt;legend&gt; element is dropped.
@@ -93,4 +94,5 @@
   &lt;/form&gt;
   {{/html}}
 #end
-{{/velocity}}</content></xwikidoc>
+{{/velocity}}</content>
+</xwikidoc>

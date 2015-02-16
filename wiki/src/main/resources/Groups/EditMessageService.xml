@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Groups</web>
-<name>EditMessageService</name>
-<language></language>
-<defaultLanguage></defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1316003112000</creationDate>
-<date>1316003112000</date>
-<contentUpdateDate>1316003112000</contentUpdateDate>
-<version>1.1</version>
-<title>EditMessageService</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<content>#**
+  <web>Groups</web>
+  <name>EditMessageService</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>Groups.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1316003112000</creationDate>
+  <date>1316003112000</date>
+  <contentUpdateDate>1316003112000</contentUpdateDate>
+  <version>1.1</version>
+  <title>EditMessageService</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <content>#**
  * Service for showing the edit message form
  * @param request.space Space to accept the user in
  * @param request.page Page to edit
@@ -31,4 +32,5 @@
  * @refactored ludovic
  *#
 #groups_editmessageform()
-</content></xwikidoc>
+</content>
+</xwikidoc>

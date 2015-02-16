@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Main</web>
-<name>En travaux</name>
-<language></language>
-<defaultLanguage></defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1318859539000</creationDate>
-<date>1318859539000</date>
-<contentUpdateDate>1318859539000</contentUpdateDate>
-<version>1.1</version>
-<title></title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden><attachment>
-<filename>logoplanetesankore.png</filename>
-<filesize>9354</filesize>
-<author>XWiki.jcoury</author>
-<date>1318859539000</date>
-<version>1.1</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAAa8AAAA6CAYAAAAHt9ZFAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+  <web>Main</web>
+  <name>En travaux</name>
+  <language/>
+  <defaultLanguage>en</defaultLanguage>
+  <translation>0</translation>
+  <parent>Main.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1318859539000</creationDate>
+  <date>1318859539000</date>
+  <contentUpdateDate>1318859539000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <attachment>
+    <filename>logoplanetesankore.png</filename>
+    <filesize>9354</filesize>
+    <author>XWiki.jcoury</author>
+    <date>1318859539000</date>
+    <version>1.1</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAAa8AAAA6CAYAAAAHt9ZFAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
@@ -191,5 +194,7 @@ TSjgsul5cbwxSJOH0k3ws1gDs1VjR9+a5pENvdhVPH7s2LTrnnnzjs+9eHUvAhYQhAh3IFDOtOXT
 zwmZNKqwmqJTwLL3I/B40RvTQ4R06NBHpoevdOMSUqqjmcxspIrkxjOdUanoFAMvDqDxCsOaFYxN
 zAbAMgjKJOdfzadqqEKRIkWK3gvkcaNRzAg8VddN9CoOihQpUqRohihbDYEpRQ1/Q/x5jUpoUKRI
 kSIFXrOZjAczbs9ERQ1FihQpUqTAKx0Kk5M1uuJqf4UiRYoUzQ76fwEGAHThwMyi2RdRAAAAAElF
-TkSuQmCC</content></attachment>
-<content></content></xwikidoc>
+TkSuQmCC</content>
+  </attachment>
+  <content/>
+</xwikidoc>

@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>SankoreCode</web>
-<name>PanelsMacros</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.FlaviusOlaru</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1316168425000</creationDate>
-<date>1419607338000</date>
-<contentUpdateDate>1419607338000</contentUpdateDate>
-<version>2.1</version>
-<title>PanelsMacros</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment>Importé depuis un le XAR</comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<content>#macro(sankore_panelheader $title $id $css $imgsrc)
+  <web>SankoreCode</web>
+  <name>PanelsMacros</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>SankoreCode.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1316168425000</creationDate>
+  <date>1419607338000</date>
+  <contentUpdateDate>1419607338000</contentUpdateDate>
+  <version>1.1</version>
+  <title>PanelsMacros</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <content>#macro(sankore_panelheader $title $id $css $imgsrc)
 #set($specialClassAttribute = "")
 #if($paneldoc &amp;&amp; $paneldoc != "")
   #set($specialClassAttribute = $util.convertToAlphaNumeric($paneldoc.name))
@@ -40,4 +41,5 @@
 &lt;div class="clearfloats"&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-#end</content></xwikidoc>
+#end</content>
+</xwikidoc>

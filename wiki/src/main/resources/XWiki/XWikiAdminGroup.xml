@@ -1,232 +1,234 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>XWiki</web>
-<name>XWikiAdminGroup</name>
-<language></language>
-<defaultLanguage></defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.superadmin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1417783134000</creationDate>
-<date>1417783701000</date>
-<contentUpdateDate>1417783701000</contentUpdateDate>
-<version>4.1</version>
-<title></title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden>
-<object>
-<class>
-<name>XWiki.XWikiGroups</name>
-<customClass></customClass>
-<customMapping></customMapping>
-<defaultViewSheet></defaultViewSheet>
-<defaultEditSheet></defaultEditSheet>
-<defaultWeb></defaultWeb>
-<nameField></nameField>
-<validationScript></validationScript>
-<member>
-<disabled>0</disabled>
-<name>member</name>
-<number>1</number>
-<prettyName>Member</prettyName>
-<size>30</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
-</member>
-</class>
-<name>XWiki.XWikiAdminGroup</name>
-<number>0</number>
-<className>XWiki.XWikiGroups</className>
-<guid>cdc50d28-6633-4faf-bdc4-839c51164b90</guid>
-<property>
-<member>XWiki.Admin</member>
-</property>
-</object>
-<object>
-<class>
-<name>XWiki.XWikiGroups</name>
-<customClass></customClass>
-<customMapping></customMapping>
-<defaultViewSheet></defaultViewSheet>
-<defaultEditSheet></defaultEditSheet>
-<defaultWeb></defaultWeb>
-<nameField></nameField>
-<validationScript></validationScript>
-<member>
-<disabled>0</disabled>
-<name>member</name>
-<number>1</number>
-<prettyName>Member</prettyName>
-<size>30</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
-</member>
-</class>
-<name>XWiki.XWikiAdminGroup</name>
-<number>1</number>
-<className>XWiki.XWikiGroups</className>
-<guid>e6ac9b5e-b0ce-445f-8c22-5e26cbb32f0f</guid>
-</object>
-<object>
-<class>
-<name>XWiki.XWikiRights</name>
-<customClass></customClass>
-<customMapping></customMapping>
-<defaultViewSheet></defaultViewSheet>
-<defaultEditSheet></defaultEditSheet>
-<defaultWeb></defaultWeb>
-<nameField></nameField>
-<validationScript></validationScript>
-<allow>
-<defaultValue>1</defaultValue>
-<disabled>0</disabled>
-<displayFormType>select</displayFormType>
-<displayType>allow</displayType>
-<name>allow</name>
-<number>4</number>
-<prettyName>Allow/Deny</prettyName>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
-</allow>
-<groups>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>1</multiSelect>
-<name>groups</name>
-<number>1</number>
-<prettyName>Groups</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<size>5</size>
-<unmodifiable>0</unmodifiable>
-<usesList>1</usesList>
-<classType>com.xpn.xwiki.objects.classes.GroupsClass</classType>
-</groups>
-<levels>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>1</multiSelect>
-<name>levels</name>
-<number>2</number>
-<prettyName>Levels</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<size>3</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.LevelsClass</classType>
-</levels>
-<users>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>1</multiSelect>
-<name>users</name>
-<number>3</number>
-<prettyName>Users</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<size>5</size>
-<unmodifiable>0</unmodifiable>
-<usesList>1</usesList>
-<classType>com.xpn.xwiki.objects.classes.UsersClass</classType>
-</users>
-</class>
-<name>XWiki.XWikiAdminGroup</name>
-<number>0</number>
-<className>XWiki.XWikiRights</className>
-<guid>78dc18de-6ed2-4d59-972f-e08470c8173a</guid>
-<property>
-<allow>1</allow>
-</property>
-<property>
-<groups>XWiki.XWikiAdminGroup,</groups>
-</property>
-<property>
-<levels>admin,view,edit,comment,delete,undelete,register,programming</levels>
-</property>
-<property>
-<users>XWiki.Admin</users>
-</property>
-</object>
-<object>
-<class>
-<name>XWiki.XWikiRights</name>
-<customClass></customClass>
-<customMapping></customMapping>
-<defaultViewSheet></defaultViewSheet>
-<defaultEditSheet></defaultEditSheet>
-<defaultWeb></defaultWeb>
-<nameField></nameField>
-<validationScript></validationScript>
-<allow>
-<defaultValue>1</defaultValue>
-<disabled>0</disabled>
-<displayFormType>select</displayFormType>
-<displayType>allow</displayType>
-<name>allow</name>
-<number>4</number>
-<prettyName>Allow/Deny</prettyName>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
-</allow>
-<groups>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>1</multiSelect>
-<name>groups</name>
-<number>1</number>
-<prettyName>Groups</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<size>5</size>
-<unmodifiable>0</unmodifiable>
-<usesList>1</usesList>
-<classType>com.xpn.xwiki.objects.classes.GroupsClass</classType>
-</groups>
-<levels>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>1</multiSelect>
-<name>levels</name>
-<number>2</number>
-<prettyName>Levels</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<size>3</size>
-<unmodifiable>0</unmodifiable>
-<classType>com.xpn.xwiki.objects.classes.LevelsClass</classType>
-</levels>
-<users>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>select</displayType>
-<multiSelect>1</multiSelect>
-<name>users</name>
-<number>3</number>
-<prettyName>Users</prettyName>
-<relationalStorage>0</relationalStorage>
-<separator> </separator>
-<size>5</size>
-<unmodifiable>0</unmodifiable>
-<usesList>1</usesList>
-<classType>com.xpn.xwiki.objects.classes.UsersClass</classType>
-</users>
-</class>
-<name>XWiki.XWikiAdminGroup</name>
-<number>1</number>
-<className>XWiki.XWikiRights</className>
-<guid>94f57800-5041-49e8-9f10-9bc9d98cb561</guid>
-</object>
-<content></content></xwikidoc>
+  <web>XWiki</web>
+  <name>XWikiAdminGroup</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>XWiki.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1417783134000</creationDate>
+  <date>1417783701000</date>
+  <contentUpdateDate>1417783701000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <object>
+    <class>
+      <name>XWiki.XWikiGroups</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <member>
+        <disabled>0</disabled>
+        <name>member</name>
+        <number>1</number>
+        <prettyName>Member</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </member>
+    </class>
+    <name>XWiki.XWikiAdminGroup</name>
+    <number>0</number>
+    <className>XWiki.XWikiGroups</className>
+    <guid>cdc50d28-6633-4faf-bdc4-839c51164b90</guid>
+    <property>
+      <member>XWiki.Admin</member>
+    </property>
+  </object>
+  <object>
+    <class>
+      <name>XWiki.XWikiGroups</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <member>
+        <disabled>0</disabled>
+        <name>member</name>
+        <number>1</number>
+        <prettyName>Member</prettyName>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+      </member>
+    </class>
+    <name>XWiki.XWikiAdminGroup</name>
+    <number>1</number>
+    <className>XWiki.XWikiGroups</className>
+    <guid>e6ac9b5e-b0ce-445f-8c22-5e26cbb32f0f</guid>
+  </object>
+  <object>
+    <class>
+      <name>XWiki.XWikiRights</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <allow>
+        <defaultValue>1</defaultValue>
+        <disabled>0</disabled>
+        <displayFormType>select</displayFormType>
+        <displayType>allow</displayType>
+        <name>allow</name>
+        <number>4</number>
+        <prettyName>Allow/Deny</prettyName>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
+      </allow>
+      <groups>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>1</multiSelect>
+        <name>groups</name>
+        <number>1</number>
+        <prettyName>Groups</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <size>5</size>
+        <unmodifiable>0</unmodifiable>
+        <usesList>1</usesList>
+        <classType>com.xpn.xwiki.objects.classes.GroupsClass</classType>
+      </groups>
+      <levels>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>1</multiSelect>
+        <name>levels</name>
+        <number>2</number>
+        <prettyName>Levels</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <size>3</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.LevelsClass</classType>
+      </levels>
+      <users>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>1</multiSelect>
+        <name>users</name>
+        <number>3</number>
+        <prettyName>Users</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <size>5</size>
+        <unmodifiable>0</unmodifiable>
+        <usesList>1</usesList>
+        <classType>com.xpn.xwiki.objects.classes.UsersClass</classType>
+      </users>
+    </class>
+    <name>XWiki.XWikiAdminGroup</name>
+    <number>0</number>
+    <className>XWiki.XWikiRights</className>
+    <guid>78dc18de-6ed2-4d59-972f-e08470c8173a</guid>
+    <property>
+      <allow>1</allow>
+    </property>
+    <property>
+      <groups>XWiki.XWikiAdminGroup,</groups>
+    </property>
+    <property>
+      <levels>admin,view,edit,comment,delete,undelete,register,programming</levels>
+    </property>
+    <property>
+      <users>XWiki.Admin</users>
+    </property>
+  </object>
+  <object>
+    <class>
+      <name>XWiki.XWikiRights</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <allow>
+        <defaultValue>1</defaultValue>
+        <disabled>0</disabled>
+        <displayFormType>select</displayFormType>
+        <displayType>allow</displayType>
+        <name>allow</name>
+        <number>4</number>
+        <prettyName>Allow/Deny</prettyName>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.BooleanClass</classType>
+      </allow>
+      <groups>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>1</multiSelect>
+        <name>groups</name>
+        <number>1</number>
+        <prettyName>Groups</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <size>5</size>
+        <unmodifiable>0</unmodifiable>
+        <usesList>1</usesList>
+        <classType>com.xpn.xwiki.objects.classes.GroupsClass</classType>
+      </groups>
+      <levels>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>1</multiSelect>
+        <name>levels</name>
+        <number>2</number>
+        <prettyName>Levels</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <size>3</size>
+        <unmodifiable>0</unmodifiable>
+        <classType>com.xpn.xwiki.objects.classes.LevelsClass</classType>
+      </levels>
+      <users>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>1</multiSelect>
+        <name>users</name>
+        <number>3</number>
+        <prettyName>Users</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <size>5</size>
+        <unmodifiable>0</unmodifiable>
+        <usesList>1</usesList>
+        <classType>com.xpn.xwiki.objects.classes.UsersClass</classType>
+      </users>
+    </class>
+    <name>XWiki.XWikiAdminGroup</name>
+    <number>1</number>
+    <className>XWiki.XWikiRights</className>
+    <guid>94f57800-5041-49e8-9f10-9bc9d98cb561</guid>
+  </object>
+  <content/>
+</xwikidoc>

@@ -1,63 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>CurrikiCode</web>
-<name>EditViewTranslations</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.ShermanTank</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1228763453000</creationDate>
-<date>1419607077000</date>
-<contentUpdateDate>1419607077000</contentUpdateDate>
-<version>2.1</version>
-<title>Edit And View Resources Translations</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment>Importé depuis un le XAR</comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<object>
-<class>
-<name>XWiki.TagClass</name>
-<customClass></customClass>
-<customMapping></customMapping>
-<defaultViewSheet></defaultViewSheet>
-<defaultEditSheet></defaultEditSheet>
-<defaultWeb></defaultWeb>
-<nameField></nameField>
-<validationScript></validationScript>
-<tags>
-<cache>0</cache>
-<disabled>0</disabled>
-<displayType>input</displayType>
-<multiSelect>1</multiSelect>
-<name>tags</name>
-<number>1</number>
-<prettyName>Tags</prettyName>
-<relationalStorage>1</relationalStorage>
-<separator>|</separator>
-<separators>|,</separators>
-<size>30</size>
-<unmodifiable>0</unmodifiable>
-<values></values>
-<classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
-</tags>
-</class>
-<name>CurrikiCode.EditViewTranslations</name>
-<number>0</number>
-<className>XWiki.TagClass</className>
-<guid>f24a5d9b-fc2a-48e8-9827-20b967fc4458</guid>
-<property>
-<tags/>
-</property>
-</object>
-<content>## Translation file for Resource View/Edit (RVE)
+  <web>CurrikiCode</web>
+  <name>EditViewTranslations</name>
+  <language/>
+  <defaultLanguage>en</defaultLanguage>
+  <translation>0</translation>
+  <parent>CurrikiCode.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1228763453000</creationDate>
+  <date>1419607077000</date>
+  <contentUpdateDate>1419607077000</contentUpdateDate>
+  <version>1.1</version>
+  <title>Edit And View Resources Translations</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <object>
+    <class>
+      <name>XWiki.TagClass</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <tags>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>input</displayType>
+        <multiSelect>1</multiSelect>
+        <name>tags</name>
+        <number>1</number>
+        <prettyName>Tags</prettyName>
+        <relationalStorage>1</relationalStorage>
+        <separator>|</separator>
+        <separators>|,</separators>
+        <size>30</size>
+        <unmodifiable>0</unmodifiable>
+        <values/>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </tags>
+    </class>
+    <name>CurrikiCode.EditViewTranslations</name>
+    <number>0</number>
+    <className>XWiki.TagClass</className>
+    <guid>f24a5d9b-fc2a-48e8-9827-20b967fc4458</guid>
+    <property>
+      <tags/>
+    </property>
+  </object>
+  <content>## Translation file for Resource View/Edit (RVE)
 
 ##Go to Global Class for History and Compare trans.
 
@@ -601,4 +602,5 @@ rve.comments.commentrating.rating.display_header=Rating:
 rve.comments.commentrating.display.edit_link=Edit
 rve.comments.commentrating.display.edit_comment_link=Edit &amp; Comment
 rve.comments.commentrating.display.edit_rate_link=Edit &amp; Rate
-rve.comments.commentrating.display.delete_link=Delete</content></xwikidoc>
+rve.comments.commentrating.display.delete_link=Delete</content>
+</xwikidoc>

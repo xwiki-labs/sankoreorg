@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>ReviewSystem</web>
-<name>ReviewsResults</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1321456983000</creationDate>
-<date>1321456983000</date>
-<contentUpdateDate>1321456983000</contentUpdateDate>
-<version>1.1</version>
-<title>ReviewsResults</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden>
-<content>{{include document="ReviewSystem.ReviewsMacros" /}}
+  <web>ReviewSystem</web>
+  <name>ReviewsResults</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>ReviewSystem.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1321456983000</creationDate>
+  <date>1321456983000</date>
+  <contentUpdateDate>1321456983000</contentUpdateDate>
+  <version>1.1</version>
+  <title>ReviewsResults</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <content>{{include document="ReviewSystem.ReviewsMacros" /}}
 {{velocity wiki="false"}}
 #if($hasGlobalAdmin)
 #macro(convertString $input)
@@ -70,4 +71,5 @@
 #gridresultwithfilter("$!request.classname" $request.collist.split(",") "$!{filterFrom}" "$!{filterWhere}" $params)
 #end
 {{/velocity}}
-</content></xwikidoc>
+</content>
+</xwikidoc>

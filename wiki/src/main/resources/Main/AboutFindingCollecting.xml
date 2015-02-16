@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Main</web>
-<name>AboutFindingCollecting</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent>Main.WebHome</parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1317810197000</creationDate>
-<date>1317810197000</date>
-<contentUpdateDate>1317810197000</contentUpdateDate>
-<version>1.1</version>
-<title>About Finding &amp; Collecting</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden><attachment>
-<filename>placer.jpg</filename>
-<filesize>20898</filesize>
-<author>XWiki.jeromy</author>
-<date>1310993168000</date>
-<version>1.5</version>
-<comment></comment><content>/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAXAAA/+4ADkFkb2JlAGTAAAAAAf/b
+  <web>Main</web>
+  <name>AboutFindingCollecting</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>Main.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1317810197000</creationDate>
+  <date>1317810197000</date>
+  <contentUpdateDate>1317810197000</contentUpdateDate>
+  <version>1.1</version>
+  <title>About Finding &amp; Collecting</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <attachment>
+    <filename>placer.jpg</filename>
+    <filesize>20898</filesize>
+    <author>XWiki.jeromy</author>
+    <date>1310993168000</date>
+    <version>1.5</version>
+    <comment/>
+    <content>/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAXAAA/+4ADkFkb2JlAGTAAAAAAf/b
 AIQAAQEBAQEBAQEBAQEBAQEBAgEBAQECAgICAgICAgMCAgICAgIDAwMDAwMDAwQEBAQEBAYGBgYG
 BwcHBwcHBwcHBwEBAQECAgIEAwMEBgUEBQYHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
 BwcHBwcHBwcHBwcHBwcHBwcH/8AAEQgAoADmAwERAAIRAQMRAf/EALkAAAEFAQEBAQEBAAAAAAAA
@@ -393,13 +396,16 @@ VCortP26VXNxw2RuMjdLsFIazYlMDTJDCjtUKUoPX7NJbnINV/sMXIVJzi3jyfPe+odi70pWPbB3
 D1+/VbvMg0K94fFlo8QU3Mcw9yHCWZSJKVpV8qWlA0NKCtNVm4lqrlbSBreI2S3HxtZj0Qnd9JUI
 9zr9tTXvoMPK1c8O3S7abqYiERglYfNUsumoCSB1Uf8Ap0QHHdKbpjWigC8Ln5xZt4pwlXy3zJF2
 t8NJU7Y7o6sxFpVVVGU7wEqNKVGr/gck7Rcu7mwEJbzpQqcWNcy5Sz4c8i+ZS+O57V3m4bC5AZws
-upLzrLd7iNlIVWoARVff8o10lujS7quSPlYXNH8IdT5UK//Z</content></attachment><attachment>
-<filename>VideoIcon.png</filename>
-<filesize>3184</filesize>
-<author>XWiki.jeromy</author>
-<date>1310993168000</date>
-<version>1.5</version>
-<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABYAAAAaCAYAAACzdqxAAAAACXBIWXMAAAsTAAALEwEAmpwYAAAK
+upLzrLd7iNlIVWoARVff8o10lujS7quSPlYXNH8IdT5UK//Z</content>
+  </attachment>
+  <attachment>
+    <filename>VideoIcon.png</filename>
+    <filesize>3184</filesize>
+    <author>XWiki.jeromy</author>
+    <date>1310993168000</date>
+    <version>1.5</version>
+    <comment/>
+    <content>iVBORw0KGgoAAAANSUhEUgAAABYAAAAaCAYAAACzdqxAAAAACXBIWXMAAAsTAAALEwEAmpwYAAAK
 T2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUIIFJCi4AU
 kSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuja9a89+bN/rXX
 Pues852zzwfACAyWSDNRNYAMqUIeEeCDx8TG4eQuQIEKJHAAEAizZCFz/SMBAPh+PDwrIsAHvgAB
@@ -455,13 +461,16 @@ gJbdptaQ1BoSaTz0BLqdzn0veAhgPhEnk06RSadYX17oCe50nsq9mgt+KdtrSwDolWpeUbVXcK0h
 AR0A02r/CCQNk0KxFHScH8jxzsaqFR4fO28/Ouf1prx5W73utowK8drYb4+/y+REZO9gd+vDXmfS
 qQ9ziCFFeF6950jD7BvSst/ve7Pwnt+y7O6/om+wZXN5pXdnx3EHc+z3ef9tx47rDsexNMx/x58c
 65UqeqU6cLuWZX/RJwBWF5P/jhlRVO15GI1fBgD5fhhC61+ruAAAAABJRU5ErkJggg==
-</content></attachment><attachment>
-<filename>AboutFindImage.jpg</filename>
-<filesize>54051</filesize>
-<author>XWiki.jeromy</author>
-<date>1310993168000</date>
-<version>1.5</version>
-<comment></comment><content>/9j/4AAQSkZJRgABAgEASABIAAD/4RlFRXhpZgAATU0AKgAAAAgACwEOAAIAAAFOAAAAkgEPAAIA
+</content>
+  </attachment>
+  <attachment>
+    <filename>AboutFindImage.jpg</filename>
+    <filesize>54051</filesize>
+    <author>XWiki.jeromy</author>
+    <date>1310993168000</date>
+    <version>1.5</version>
+    <comment/>
+    <content>/9j/4AAQSkZJRgABAgEASABIAAD/4RlFRXhpZgAATU0AKgAAAAgACwEOAAIAAAFOAAAAkgEPAAIA
 AAASAAAB4AEQAAIAAAAKAAAB8gESAAMAAAABAAEAAAEaAAUAAAABAAAB/AEbAAUAAAABAAACBAEo
 AAMAAAABAAIAAAExAAIAAAAeAAACDAEyAAIAAAAUAAACKgE7AAIAAAAOAAACPodpAAQAAAABAAAC
 TAAABFhMYXdyZW5jZSBTdHJpbmdlciBjb25jZW50cmF0ZXMgYXMgaGUgbWVhc3VyZXMgYSBsaXF1
@@ -1409,8 +1418,9 @@ ilofTilFxf3H9cVVbLv1xClu579fpwoCUv8A37dcgyVf2D16YpQB+0fnkw1lKtb+z+z1/ayEmcUp
 tftdv9j0yLJMf2Po74UIDR/96u/U/wB19nr+rAEsztvsjrkmLxH87/8AlMj/ALz/ANxH/c/33/Rz
 /wAWfy/8V8cjJthyYDF/sfpyLYGY+Vf7wdO3TMebmY+T0GH7H7P8MggI2z/u/wBn+H04Enmil6t9
 n6MglDN+19j7X8O+BmpXn2P919P2/sf7LCObEvTvKf8Ayjll/dfZT+5/u/8AYZs4cg6jJ9RYwf8A
-jpr9n+9/2P2v1ZHqzf/Z</content></attachment>
-<content>&lt;div style="text-align:right;margin-top:-15px;"&gt;&lt;a href="/xwiki/bin/view/Main/AboutContributing"&gt;About Contributing&lt;/a&gt; | &lt;a href="/xwiki/bin/view/Main/AboutConnecting"&gt;About Connecting&lt;/a&gt;&lt;/div&gt;
+jpr9n+9/2P2v1ZHqzf/Z</content>
+  </attachment>
+  <content>&lt;div style="text-align:right;margin-top:-15px;"&gt;&lt;a href="/xwiki/bin/view/Main/AboutContributing"&gt;About Contributing&lt;/a&gt; | &lt;a href="/xwiki/bin/view/Main/AboutConnecting"&gt;About Connecting&lt;/a&gt;&lt;/div&gt;
 &lt;h1 style="color:#ff7f00;"&gt;About Finding &amp;amp; Collecting&lt;/h1&gt;
 &lt;br /&gt;
 &lt;p&gt;
@@ -1477,4 +1487,5 @@ jpr9n+9/2P2v1ZHqzf/Z</content></attachment>
     &lt;li&gt;&lt;strong&gt;Interested in finding materials contributed by Curriki’s partners?&lt;/strong&gt;&lt;br /&gt;Look for the “P” icon in search results&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
     &lt;li&gt;&lt;strong&gt;Want to collect useful resources for your group?&lt;/strong&gt;&lt;br /&gt;Start at a group’s Curriculum tab and click “Add a Group Collection.”&lt;/li&gt;
   &lt;/ul&gt;	
-&lt;/div&gt;</content></xwikidoc>
+&lt;/div&gt;</content>
+</xwikidoc>

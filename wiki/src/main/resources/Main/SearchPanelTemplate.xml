@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Main</web>
-<name>SearchPanelTemplate</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent></parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1315294804000</creationDate>
-<date>1315294804000</date>
-<contentUpdateDate>1315294804000</contentUpdateDate>
-<version>1.1</version>
-<title>SearchPanelTemplate</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/2.0</syntaxId>
-<hidden>false</hidden>
-<content>(% id="rechercher" class="block block-block clearfix" %)
+  <web>Main</web>
+  <name>SearchPanelTemplate</name>
+  <language/>
+  <defaultLanguage>en</defaultLanguage>
+  <translation>0</translation>
+  <parent>Main.WebHome</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1315294804000</creationDate>
+  <date>1315294804000</date>
+  <contentUpdateDate>1315294804000</contentUpdateDate>
+  <version>1.1</version>
+  <title>SearchPanelTemplate</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.0</syntaxId>
+  <hidden>false</hidden>
+  <content>(% id="rechercher" class="block block-block clearfix" %)
 (((
 [[image:Panels.SankoreSearchPanel@BGrechercher.png||width="81" class="block-icon"]]
 (% class="block-title" %)
@@ -42,4 +43,5 @@ Sankore is an intelligent search engine to find, evaluate and share best teachin
 To share your digital resources and teaching through your favorite sites using Sankore plugin.
 [[Download the plugin Sankoré&gt;&gt;#||class="download-link"]]
 )))
-)))</content></xwikidoc>
+)))</content>
+</xwikidoc>

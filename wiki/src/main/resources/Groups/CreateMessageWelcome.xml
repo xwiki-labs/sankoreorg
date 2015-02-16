@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xwikidoc>
-<web>Groups</web>
-<name>CreateMessageWelcome</name>
-<language></language>
-<defaultLanguage>en</defaultLanguage>
-<translation>0</translation>
-<parent>Groups.Documentation</parent>
-<creator>XWiki.Admin</creator>
-<author>XWiki.Admin</author>
-<customClass></customClass>
-<contentAuthor>XWiki.Admin</contentAuthor>
-<creationDate>1344528287000</creationDate>
-<date>1344528287000</date>
-<contentUpdateDate>1344528287000</contentUpdateDate>
-<version>1.1</version>
-<title>CreateMessageWelcome</title>
-<template></template>
-<defaultTemplate></defaultTemplate>
-<validationScript></validationScript>
-<comment></comment>
-<minorEdit>false</minorEdit>
-<syntaxId>xwiki/1.0</syntaxId>
-<hidden>false</hidden>
-<content>#**
+  <web>Groups</web>
+  <name>CreateMessageWelcome</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>Groups.Documentation</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1344528287000</creationDate>
+  <date>1344528287000</date>
+  <contentUpdateDate>1344528287000</contentUpdateDate>
+  <version>1.1</version>
+  <title>CreateMessageWelcome</title>
+  <template/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/1.0</syntaxId>
+  <hidden>false</hidden>
+  <content>#**
  * Welcome text for welcome block on the messages page
  * @translate This page requires full translation
  * @type content
@@ -31,4 +32,5 @@
 Vous pouvez communiquer avec votre groupe entier ou une personne spécifique grâce à cette fonctionnalité.
 
 Une fois le message créé et envoyé vous pourrez ajouter pièces jointes et commentaires à celui-ci.
-</content></xwikidoc>
+</content>
+</xwikidoc>
